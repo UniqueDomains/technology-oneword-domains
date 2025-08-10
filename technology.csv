@@ -13,10 +13,10 @@ prompt.site,expiring,114,88%,6,"Business,Media,Technology",17/07/2015 20:03,17/0
 reverse.io,resell,114,88%,7,"Automotive,Finance,Technology",05/11/2018 17:40,05/11/2025 17:40,Dynadot Inc
 lead.store,available,112,92%,4,"Business,Education,Technology",,,
 secret.ai,resell,112,80%,6,"Entertainment,General,Media,Technology",16/12/2017 03:48,12/09/2026 03:48,"NameCheap, Inc."
-audible.online,available,112,84%,7,"Entertainment,Technology",,,
+audible.online,available,112,56%,7,"Entertainment,Technology",,,
 Microsoft.ninja,expired,112,100%,9,"Business,Education,Technology",22/04/2014 13:49,22/04/2025 13:49,Nom-iq Ltd. dba COM LAUDE
 signal.co,expiring,112,96%,6,"Media,Technology,Telecommunications",21/07/2010 20:14,20/07/2025 23:59,"CSC Corporate Domains, Inc."
-audible.space,available,112,84%,7,"Entertainment,Technology",,,
+audible.space,available,112,56%,7,"Entertainment,Technology",,,
 secret.online,available,112,80%,6,"Entertainment,General,Media,Technology",,,
 signal.space,available,112,96%,6,"Media,Technology,Telecommunications",,,
 yet.tech,available,112,88%,3,"Business,Media,Technology",,,
@@ -89,7 +89,7 @@ extra.gg,resell,102,56%,5,"Fashion,Retail,Technology",,,Dynadot Inc. (https://ww
 follow.zone,resell,102,92%,6,"Business,Media,Technology",20/04/2023 17:36,20/04/2026 17:36,"GoDaddy.com, LLC"
 choose.co,expiring,102,76%,6,"Business,Retail,Technology",20/07/2010 18:00,19/07/2025 23:59,Dynadot Inc
 choose.online,resell,102,76%,6,"Business,Retail,Technology",26/08/2015 16:00,26/08/2025 23:59,"Porkbun, LLC"
-leading.at,sold,102,32%,7,"Business,Media,Technology",,,A1 Telekom Austria AG ( https://nic.at/registrar/16 )
+leading.at,sold,102,28%,7,"Business,Media,Technology",,,A1 Telekom Austria AG ( https://nic.at/registrar/16 )
 display.gg,resell,102,80%,7,"Media,Retail,Technology",,,Enrapture Limited (https://enrapture.gg)
 local.store,available,102,96%,5,"Business,Real Estate,Technology",,,
 traffic.pro,resell,102,88%,7,"Media,Technology,Transportation",29/03/2006 00:00,29/03/2026 00:00,Dynadot Inc
@@ -101,7 +101,7 @@ window.space,available,102,76%,6,"Construction,General,Real Estate,Technology",,
 coming.dev,available,102,80%,6,"Business,General,Media,Technology",,,
 phone.site,available,102,88%,5,"Retail,Technology,Telecommunications",,,
 school.expert,expiring,102,88%,6,"Education,Humanities,Technology",30/07/2015 13:03,30/07/2025 13:03,RegistryGate GmbH
-leading.co,resell,102,32%,7,"Business,Media,Technology",20/07/2010 18:00,19/07/2027 23:59,"GoDaddy.com, LLC"
+leading.co,resell,102,28%,7,"Business,Media,Technology",20/07/2010 18:00,19/07/2027 23:59,"GoDaddy.com, LLC"
 local.space,available,102,96%,5,"Business,Real Estate,Technology",,,
 isolate.me,resell,101,76%,7,"Healthcare,Science,Technology",27/06/2012 18:43,27/06/2026 18:43,Dynadot Inc
 duplicate.co,expiring,100,76%,9,"Business,Manufacturing,Technology",28/07/2010 00:31,27/07/2025 23:59,"Spaceship, Inc."
@@ -116,7 +116,7 @@ stuff.tech,available,100,88%,5,"Media,Retail,Technology",,,
 remove.so,sold,100,36%,6,"Construction,Manufacturing,Technology",22/07/2025 06:13,22/07/2026 06:13,SOSTEC TECHNOLOGIES_LR
 disk.zone,available,100,88%,4,"Media,Technology,Telecommunications",,,
 use.com,resell,100,88%,3,"Business,Technology",12/08/1992 04:00,11/08/2030 04:00,"GoDaddy.com, LLC"
-alternate.gg,available,100,80%,9,Technology,,,
+alternate.gg,available,100,24%,9,Technology,,,
 deejay.expert,available,100,88%,6,"Entertainment,Media,Technology",,,
 item.me,resell,100,88%,4,"Business,Retail,Technology",24/05/2009 05:55,24/05/2026 05:55,Dynadot Inc
 deejay.org,resell,100,88%,6,"Entertainment,Media,Technology",22/09/2003 14:34,22/09/2026 14:34,"GoDaddy.com, LLC"
@@ -157,10 +157,10 @@ buffer.gg,resell,98,76%,6,"Media,Technology,Telecommunications",,,"Spaceship, In
 maximum.gg,resell,98,84%,7,"Business,Media,Technology",,,Dynadot Inc. (https://www.dynadot.com)
 maximum.so,available,98,84%,7,"Business,Media,Technology",,,
 seeing.ninja,available,98,80%,6,"General,Healthcare,Media,Technology",,,
-whizz.pro,resell,98,36%,5,"Business,Education,Technology",06/09/2024 16:06,06/09/2025 16:06,"Spaceship, Inc."
+whizz.pro,expiring,98,36%,5,"Business,Education,Technology",06/09/2024 16:06,06/09/2025 16:06,"Spaceship, Inc."
 whizz.site,available,98,36%,5,"Business,Education,Technology",,,
 seeing.expert,available,98,80%,6,"General,Healthcare,Media,Technology",,,
-essential.so,resell,98,44%,9,"Business,Technology",03/03/2024 05:09,03/03/2026 05:09,SOSTEC TECHNOLOGIES_LR
+essential.so,sold,98,44%,9,"Business,Technology",03/03/2024 05:09,03/03/2026 05:09,SOSTEC TECHNOLOGIES_LR
 separate.gg,available,98,72%,8,"Business,Law,Technology",,,
 preview.expert,available,98,88%,7,"Entertainment,Media,Technology",,,
 set.store,available,98,84%,3,"Business,Media,Technology",,,
@@ -205,7 +205,7 @@ ever.space,available,96,92%,4,"Business,Media,Technology",,,
 cluster.at,sold,94,88%,7,"Business,Science,Technology",,,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 )
 affiliate.tech,available,94,92%,9,"Business,Media,Technology",,,
 install.so,resell,94,80%,7,"Construction,Engineering,Technology",27/02/2024 05:25,27/02/2026 05:25,SOSTEC TECHNOLOGIES_LR
-nimble.expert,expiring,94,52%,6,"Health and Fitness,Sports,Technology",30/07/2016 22:27,30/07/2025 22:27,Realtime Register B.V.
+nimble.expert,sold,94,52%,6,"Health and Fitness,Sports,Technology",30/07/2016 22:27,30/07/2026 22:27,Realtime Register B.V.
 dotcom.expert,available,94,84%,7,"Business,Media,Technology",,,
 modern.ninja,available,94,80%,6,"Business,Education,Technology",,,
 fusion.ai,resell,94,84%,6,"Energy,Science,Technology",16/12/2017 05:25,06/04/2027 05:25,Deep Vision Architects
@@ -269,20 +269,20 @@ Bluetooth.ninja,available,92,80%,9,"Technology,Telecommunications",,,
 daytoday.so,available,92,76%,10,"Business,Media,Technology",,,
 monoplane.cloud,available,92,76%,9,"Aviation,Technology,Transportation",,,
 aspect.zone,available,92,88%,6,"Business,Education,Technology",,,
-automatic.us,sold,92,80%,9,"Manufacturing,Technology",24/04/2002 15:07,23/04/2026 23:59,"Wild West Domains, Inc."
+automatic.us,sold,92,40%,9,"Manufacturing,Technology",24/04/2002 15:07,23/04/2026 23:59,"Wild West Domains, Inc."
 reader.tech,available,92,92%,6,"Education,Media,Technology",,,
 implant.xyz,resell,92,84%,7,"Healthcare,Medicine,Technology",17/02/2020 16:44,17/02/2026 23:59,Dynadot LLC
 ICQ.space,available,92,84%,3,"Media,Technology,Telecommunications",,,
-agile.gg,resell,92,40%,5,"Health and Fitness,Sports,Technology",,,1API (http://www.1api.net)
+agile.gg,resell,92,36%,5,"Health and Fitness,Sports,Technology",,,1API (http://www.1api.net)
 metre.xyz,resell,92,72%,5,"Engineering,Science,Technology",21/08/2020 08:21,21/08/2025 23:59,"Spaceship, Inc."
 respond.dev,available,92,76%,7,"Education,Media,Technology",,,
-agile.co,sold,92,40%,5,"Health and Fitness,Sports,Technology",20/07/2010 18:00,19/07/2026 23:59,Domainbox Limited
+agile.co,sold,92,36%,5,"Health and Fitness,Sports,Technology",20/07/2010 18:00,19/07/2026 23:59,Domainbox Limited
 voice.so,resell,92,88%,5,"Media,Technology",25/06/2020 22:42,25/06/2026 22:42,NameCheap
 nsa.at,available,92,84%,3,Technology,,,
 metre.it,resell,92,72%,5,"Engineering,Science,Technology",19/11/2024 16:00,19/11/2025 00:00,
 rail.xyz,resell,92,92%,4,"Construction,Technology,Transportation",29/09/2019 10:48,29/09/2030 23:59,Dynadot LLC
 kaizen.space,available,92,92%,6,"Business,Manufacturing,Technology",,,
-automatic.tech,available,92,80%,9,"Manufacturing,Technology",,,
+automatic.tech,available,92,40%,9,"Manufacturing,Technology",,,
 Bluetooth.cloud,available,92,80%,9,"Technology,Telecommunications",,,
 snippet.me,resell,92,88%,7,"Business,Media,Technology",30/12/2014 06:28,30/12/2025 06:28,Dynadot Inc
 commercial.tech,available,91,96%,10,"Business,Media,Technology",,,
@@ -317,7 +317,7 @@ voicecall.us,available,90,80%,10,"Technology,Telecommunications",,,
 emerge.space,available,90,92%,6,"Business,Media,Technology",,,
 nearby.online,resell,90,92%,6,"Geography,Technology,Travel",10/09/2023 20:26,10/09/2025 23:59,"Sav.com, LLC- 6"
 admin.online,available,90,84%,5,Technology,,,
-additional.co,resell,90,36%,10,"Fashion,Retail,Technology",07/07/2017 20:01,06/07/2026 23:59,"NameCheap, Inc."
+additional.co,resell,90,32%,10,"Fashion,Retail,Technology",07/07/2017 20:01,06/07/2026 23:59,"NameCheap, Inc."
 overhead.so,available,90,76%,8,"Business,Finance,Technology",,,
 octuple.dev,available,90,72%,7,"Mathematics,Science,Technology",,,
 catalog.site,available,90,80%,7,"Media,Retail,Technology",,,
@@ -340,12 +340,12 @@ pixel.site,expiring,90,92%,5,"Arts,Media,Technology",26/07/2021 23:27,26/07/2025
 flagship.ninja,available,90,88%,8,"Business,Retail,Technology",,,
 voicecall.store,available,90,80%,10,"Technology,Telecommunications",,,
 rotate.expert,available,90,80%,6,"Engineering,Manufacturing,Technology",,,
-additional.io,resell,90,36%,10,"Fashion,Retail,Technology",22/06/2018 10:13,22/06/2026 10:13,"GoDaddy.com, LLC"
+additional.io,resell,90,32%,10,"Fashion,Retail,Technology",22/06/2018 10:13,22/06/2026 10:13,"GoDaddy.com, LLC"
 host.at,sold,90,96%,4,"Hospitality,Media,Technology",,,Vautron Rechenzentrum AG ( https://nic.at/registrar/610 )
 rename.me,expiring,90,84%,6,"Business,Media,Technology",17/07/2008 19:06,17/07/2025 19:06,GoDaddy Online Services Cayman Islands Ltd.
 reference.zone,available,90,72%,9,"Business,Education,Technology",,,
 decimal.me,resell,90,80%,7,"Education,Mathematics,Technology",20/05/2018 04:17,20/05/2026 04:17,Dynadot Inc
-additional.at,available,90,36%,10,"Fashion,Retail,Technology",,,
+additional.at,available,90,32%,10,"Fashion,Retail,Technology",,,
 flex.gg,resell,90,92%,4,"Fashion,Health and Fitness,Technology",,,Porkbun LLC (https://porkbun.com/)
 immense.dev,resell,90,84%,7,"Business,Media,Technology",08/10/2024 09:11,08/10/2026 09:11,"Sav.com, LLC"
 driving.it,expired,90,88%,7,"Business,Sports,Technology",30/06/2009 11:04,30/06/2025 00:00,
@@ -416,7 +416,7 @@ tip.expert,available,88,96%,3,"Business,Education,Technology",,,
 checker.store,available,88,80%,7,"Entertainment,Media,Technology",,,
 unexpected.so,available,88,72%,10,"Business,Media,Technology",,,
 tripod.dev,available,88,84%,6,"Media,Technology",,,
-big.pro,expiring,88,36%,3,"Business,General,Media,Technology",23/07/2023 15:50,23/07/2025 15:50,"Name.com, Inc."
+big.pro,sold,88,36%,3,"Business,General,Media,Technology",23/07/2023 15:50,23/07/2026 15:50,"Name.com, Inc."
 gig.pro,available,88,92%,3,"Entertainment,Media,Technology",,,
 except.so,available,88,72%,6,"Business,Law,Technology",,,
 brainstorm.expert,available,88,92%,10,"Business,Education,Technology",,,
@@ -574,7 +574,7 @@ cellphone.tech,available,84,76%,9,"Retail,Technology,Telecommunications",,,
 portable.at,available,84,80%,8,"Retail,Technology,Travel",,,
 datestamp.me,available,84,76%,10,"Business,Media,Technology",,,
 goahead.at,available,84,80%,8,"Business,Sports,Technology",,,
-alarm.dev,available,84,56%,5,Technology,,,
+alarm.dev,available,84,52%,5,Technology,,,
 obtain.store,expired,84,84%,6,"Business,Finance,Technology",20/04/2024 21:31,20/04/2025 23:59,Communigal Communications Ltd
 retrain.cloud,available,84,76%,7,"Business,Education,Technology",,,
 obtain.expert,available,84,84%,6,"Business,Finance,Technology",,,
@@ -636,7 +636,7 @@ sensitive.pro,resell,84,76%,9,"Healthcare,Technology",02/02/2023 17:00,02/02/202
 input.store,available,84,84%,5,"Business,Education,Technology",,,
 config.online,expiring,84,92%,6,"Business,Engineering,Technology",09/07/2019 00:58,09/07/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 tamper.co,expiring,84,84%,6,"Law,Technology",15/07/2015 05:12,14/07/2025 23:59,"Spaceship, Inc."
-alarm.me,sold,84,56%,5,Technology,15/08/2008 19:14,15/08/2027 19:14,"GoDaddy.com, LLC"
+alarm.me,sold,84,52%,5,Technology,15/08/2008 19:14,15/08/2027 19:14,"GoDaddy.com, LLC"
 grouping.space,available,84,84%,8,"Business,Education,General,Technology",,,
 bleep.so,available,84,76%,5,Technology,,,
 interface.cloud,available,84,88%,9,"Business,Technology,Telecommunications",,,
@@ -658,7 +658,7 @@ digit.cloud,expiring,82,88%,5,"Education,Mathematics,Technology",25/07/2020 00:0
 trojan.gg,resell,82,80%,6,"Media,Technology",,,Dynadot Inc. (https://www.dynadot.com)
 limited.store,available,82,84%,7,"Business,Finance,Technology",,,
 recent.zone,available,82,84%,6,"Business,Media,Technology",,,
-audile.cloud,available,82,80%,6,"Entertainment,Technology",,,
+audile.cloud,available,82,24%,6,"Entertainment,Technology",,,
 camcorder.zone,available,82,84%,9,"Entertainment,Media,Technology",,,
 tilt.ninja,available,82,80%,4,"Arts,Engineering,Technology",,,
 JPEG.expert,available,82,92%,4,"Media,Technology",,,
@@ -866,8 +866,6 @@ microcode.me,available,80,84%,9,"Engineering,Technology,Telecommunications",,,
 suffix.store,available,80,92%,6,"Education,Technology",,,
 canon.pro,available,80,92%,5,"Media,Technology",,,
 designing.space,available,80,84%,9,"Arts,Fashion,Technology",,,
-definition.space,available,80,84%,10,"Education,Media,Technology",,,
-diffuse.it,resell,80,76%,7,"Engineering,Science,Technology",02/05/2024 16:00,02/05/2026 00:00,
 degauss.online,available,79,80%,7,"Science,Technology,Telecommunications",,,
 procedural.us,available,79,84%,10,"Business,Law,Technology",,,
 interactive.app,expiring,78,84%,11,"Education,Technology",24/07/2024 21:34,24/07/2025 21:34,GrepApps Technology Inc.
@@ -911,7 +909,7 @@ silicone.xyz,available,78,84%,8,"Manufacturing,Technology",,,
 lifeprotip.space,available,78,72%,12,"Education,Media,Technology",,,
 migrate.it,resell,78,88%,7,"Business,Technology,Transportation",01/08/2010 08:59,24/08/2025 00:00,
 pushbutton.cloud,expiring,78,80%,11,"Manufacturing,Retail,Technology",04/07/2022 23:48,04/07/2025 23:48,Registrar.eu
-responsive.co,resell,78,36%,10,"Technology,Telecommunications",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
+responsive.co,resell,78,40%,10,"Technology,Telecommunications",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
 Toshiba.at,available,78,92%,7,Technology,,,
 functional.xyz,sold,78,72%,10,"Business,Healthcare,Technology",09/03/2018 17:11,09/03/2029 23:59,Dynadot LLC
 sequel.app,expired,78,88%,6,"Entertainment,Media,Technology",08/05/2018 16:00,08/05/2025 16:00,Marcaria.com International
@@ -946,9 +944,9 @@ dating.xyz,available,78,88%,6,"Entertainment,Hospitality,Technology",,,
 minimalist.online,expired,78,84%,10,"Arts,Fashion,Technology",16/05/2024 02:10,16/05/2025 23:59,Communigal Communications Ltd
 operation.io,expiring,78,72%,9,"Business,General,Healthcare,Technology",28/07/2017 01:08,28/07/2025 01:08,Porkbun LLC
 camera.net,resell,78,76%,6,"Media,Retail,Technology",13/12/1998 05:00,12/12/2025 05:00,Dynadot Inc
-foreign.co,expired,78,32%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
+foreign.co,expired,78,24%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
 overdub.zone,available,78,84%,7,"Entertainment,Media,Technology",,,
-responsive.com,resell,78,36%,10,"Technology,Telecommunications",12/12/2000 11:41,09/11/2030 11:59,"GoDaddy.com, LLC"
+responsive.com,resell,78,40%,10,"Technology,Telecommunications",12/12/2000 11:41,09/11/2030 11:59,"GoDaddy.com, LLC"
 designate.so,available,78,76%,9,"Business,Education,Technology",,,
 collaborative.gg,available,78,80%,13,"Business,Education,Technology",,,
 fiber.tech,available,78,84%,5,"Healthcare,Manufacturing,Technology",,,
@@ -961,6 +959,7 @@ Toshiba.ninja,available,78,92%,7,Technology,,,
 zooming.at,available,78,76%,7,"Media,Technology,Transportation",,,
 libre.at,sold,78,88%,5,"Media,Technology",,,World4You Internet Services GmbH ( https://nic.at/registrar/61 )
 shard.space,available,78,88%,5,"Arts,Media,Technology",,,
+accessible.zone,expiring,78,36%,10,"Healthcare,Retail,Technology",25/08/2024 05:38,25/08/2025 05:38,Porkbun LLC
 ready.store,available,78,92%,5,"Business,Retail,Technology",,,
 accepted.space,available,78,32%,8,"Business,Education,Technology",,,
 whirlpool.pro,available,78,100%,9,"Environment,Technology",,,
@@ -969,6 +968,7 @@ DSLR.online,available,78,80%,4,"Media,Technology",,,
 inroad.ninja,available,78,80%,6,"Business,Technology,Transportation",,,
 blueprint.cloud,resell,78,88%,9,"Construction,Engineering,Technology",01/11/2019 11:48,01/11/2025 11:48,NAMECHEAP
 bootstrap.it,resell,78,84%,9,"Business,Technology",28/11/2011 14:31,28/11/2025 00:00,
+foreign.space,expiring,78,24%,7,"Science,Technology",25/08/2021 23:12,25/08/2025 23:59,"Go Daddy, LLC"
 details.tech,available,78,92%,7,"Arts,Business,Technology",,,
 details.xyz,resell,78,92%,7,"Arts,Business,Technology",02/04/2018 12:01,02/04/2028 23:59,Dynadot LLC
 nonfungible.co,resell,78,88%,11,"Business,Finance,Technology",18/02/2020 05:34,18/02/2026 05:34,"GoDaddy.com, LLC"
@@ -989,7 +989,7 @@ handsfree.at,available,78,80%,9,"Automotive,Technology,Telecommunications",,,
 recognised.online,available,78,24%,10,"Business,Education,Technology",,,
 rolodex.at,available,78,84%,7,"Business,Media,Technology",,,
 convenient.pro,resell,78,84%,10,"Retail,Technology,Transportation",14/11/2022 17:01,14/11/2025 17:01,Epik LLC
-available.space,available,78,88%,9,"Retail,Technology",,,
+available.space,available,78,40%,9,"Retail,Technology",,,
 amp.cloud,available,78,88%,3,Technology,,,
 blueprint.ninja,available,78,88%,9,"Construction,Engineering,Technology",,,
 putup.dev,available,78,76%,6,"Business,Construction,Technology",,,
@@ -1006,7 +1006,7 @@ monotype.store,available,78,72%,8,"Arts,Media,Technology",,,
 unbreakable.com,resell,78,88%,11,"Manufacturing,Media,Technology",02/01/1998 05:00,01/01/2029 05:00,"GoDaddy.com, LLC"
 convergent.it,sold,78,84%,10,"Engineering,Science,Technology",07/04/2005 00:00,07/04/2026 00:00,
 monotype.co,available,78,72%,8,"Arts,Media,Technology",,,
-accessible.us,resell,78,44%,10,"Healthcare,Retail,Technology",16/12/2014 17:37,15/12/2025 23:59,"Wild West Domains, Inc."
+accessible.us,resell,78,36%,10,"Healthcare,Retail,Technology",16/12/2014 17:37,15/12/2025 23:59,"Wild West Domains, Inc."
 transcode.so,available,78,80%,9,"Business,Technology,Telecommunications",,,
 postmark.it,resell,78,80%,8,"Business,Technology,Telecommunications",18/01/2014 16:00,18/01/2026 00:00,
 singleclick.online,available,78,76%,12,"Media,Technology,Telecommunications",,,
@@ -1036,7 +1036,7 @@ hightechnology.ai,available,77,80%,15,"Business,General,Technology",,,
 dropin.expert,available,76,88%,7,"Business,Hospitality,Technology",,,
 simulate.ninja,available,76,88%,8,"Education,Engineering,Technology",,,
 ATV.space,available,76,80%,3,"Entertainment,Technology",,,
-back.zone,sold,76,88%,4,"Business,General,Media,Technology",05/07/2018 06:24,05/07/2026 06:24,"Cloudflare, Inc"
+back.zone,sold,76,48%,4,"Business,General,Media,Technology",05/07/2018 06:24,05/07/2028 06:24,"Cloudflare, Inc"
 spamblock.expert,available,76,80%,9,"Technology,Telecommunications",,,
 announce.expert,available,76,76%,8,"Business,Media,Technology",,,
 fireretardant.store,available,76,80%,14,"Construction,Manufacturing,Technology",,,
@@ -1059,14 +1059,14 @@ GTA.app,expiring,76,88%,3,"Entertainment,Media,Technology",22/07/2019 18:39,22/0
 facepalm.so,available,76,80%,8,"Entertainment,Media,Technology",,,
 multiselect.site,available,76,76%,11,"Business,Education,Technology",,,
 setup.store,available,76,88%,6,"Business,Construction,Technology",,,
-adhesive.site,available,76,36%,8,"Construction,Manufacturing,Technology",,,
+adhesive.site,available,76,28%,8,"Construction,Manufacturing,Technology",,,
 motioncapture.co,expired,76,76%,14,"Entertainment,Media,Technology",28/05/2024 17:00,28/05/2025 17:00,Above.com Pty Ltd.
 unlimited.store,available,76,76%,9,"Business,Media,Technology",,,
 listing.at,available,76,88%,7,"Business,Real Estate,Technology",,,
 putthrough.us,available,76,72%,11,"Business,Technology,Telecommunications",,,
 butterflykeyboard.net,available,76,72%,18,"Retail,Technology",,,
 lipsynch.space,available,76,72%,9,"Entertainment,Media,Technology",,,
-threed.it,sold,76,32%,7,Technology,25/06/2002 00:00,25/06/2026 02:00,
+threed.it,sold,76,32%,7,Technology,25/06/2002 00:00,25/06/2026 00:00,
 floppy.expert,available,76,88%,6,"Fashion,Retail,Technology",,,
 teletype.space,available,76,88%,8,"Media,Technology,Telecommunications",,,
 screencap.so,available,76,76%,9,"Entertainment,Media,Technology",,,
@@ -1274,7 +1274,7 @@ keystroke.online,expired,74,92%,9,"Media,Technology,Telecommunications",21/04/20
 computing.dev,available,74,84%,9,"Business,Education,Technology",,,
 memory.us,resell,74,80%,6,"General,Healthcare,Technology",24/04/2002 14:01,23/04/2026 23:59,Porkbun
 multinational.so,available,74,80%,13,"Business,Finance,Technology",,,
-later.site,available,74,36%,5,"Education,Media,Technology",,,
+later.site,available,74,40%,5,"Education,Media,Technology",,,
 augmentative.cloud,available,74,72%,12,"Education,Science,Technology",,,
 jameswatt.gg,available,74,88%,10,"Engineering,Technology",,,
 stops.gg,available,74,84%,5,"Media,Technology,Transportation",,,
@@ -1321,7 +1321,7 @@ level.site,available,74,92%,5,"Construction,Engineering,Technology",,,
 jumpcut.io,resell,74,72%,8,"Entertainment,Media,Technology",12/08/2023 13:11,12/08/2025 13:11,"NameCheap, Inc."
 resolution.xyz,resell,74,88%,10,"Business,General,Technology",12/08/2015 02:01,12/08/2029 23:59,Dynadot LLC
 unplug.site,resell,74,84%,6,"Media,Technology,Telecommunications",25/06/2025 02:39,25/06/2026 23:59,VIRTUA DRUG Kutatási Szolgáltató Korlátolt Felelősségű Társaság
-later.online,available,74,36%,5,"Education,Media,Technology",,,
+later.online,available,74,40%,5,"Education,Media,Technology",,,
 merging.space,available,74,76%,7,"Business,Finance,Technology",,,
 clarifying.io,available,74,80%,10,"Education,Media,Technology",,,
 useful.me,expiring,74,84%,6,"Business,Education,Technology",17/07/2008 18:01,17/07/2025 18:01,DNPric.es
@@ -1336,7 +1336,7 @@ crossref.app,available,74,80%,8,"Education,Technology",,,
 colourcode.online,expired,74,80%,11,"Manufacturing,Media,Technology",19/04/2024 06:28,19/04/2025 23:59,Communigal Communications Ltd
 videogameconsole.cloud,available,74,72%,18,"Entertainment,Retail,Technology",,,
 imagery.so,available,74,72%,7,"Arts,Media,Technology",,,
-adsorbent.so,available,74,4%,9,"Energy,Manufacturing,Technology",,,
+adsorbent.so,expired,74,4%,9,"Energy,Manufacturing,Technology",,,
 supervise.io,resell,74,84%,9,"Business,Education,Technology",11/11/2020 14:31,11/11/2025 14:31,"GoDaddy.com, LLC"
 exceed.cloud,available,74,76%,6,"Business,Education,Technology",,,
 thumbshot.pro,available,74,80%,9,"Media,Technology",,,
@@ -1494,10 +1494,10 @@ html.store,available,72,88%,4,"Education,Media,Technology",,,
 posting.ninja,available,72,76%,7,"Business,Media,Technology",,,
 thnx.site,available,72,84%,4,"Media,Technology",,,
 truncate.store,available,72,76%,8,"Mathematics,Science,Technology",,,
-absorbed.zone,available,72,20%,8,"Entertainment,Media,Technology",,,
+absorbed.zone,available,72,16%,8,"Entertainment,Media,Technology",,,
 workings.net,resell,72,72%,8,"Business,Education,Technology",25/05/2003 18:00,25/05/2026 18:00,Epik LLC
 numeric.store,available,72,80%,7,"Education,Mathematics,Technology",,,
-absorbed.pro,available,72,20%,8,"Entertainment,Media,Technology",,,
+absorbed.pro,available,72,16%,8,"Entertainment,Media,Technology",,,
 spot.at,sold,72,92%,4,"General,Media,Technology",,,Key-Systems GmbH ( https://nic.at/registrar/404 )
 driver.xyz,resell,72,88%,6,"Automotive,Technology,Transportation",05/08/2019 09:43,05/08/2030 23:59,Dynadot LLC
 vendible.pro,available,72,76%,8,"Business,Retail,Technology",,,
@@ -1527,6 +1527,7 @@ biotech.at,available,72,88%,7,"Healthcare,Pharmaceuticals,Technology",,,
 flashmemory.tech,available,72,72%,12,Technology,,,
 hdtv.cloud,available,72,84%,4,"Entertainment,Media,Technology",,,
 makeflexible.pro,available,72,72%,13,"Business,Education,Technology",,,
+robotic.it,expiring,72,36%,7,Technology,29/08/2000 00:00,29/08/2025 00:00,
 AMTI.cloud,available,72,92%,4,"Business,Technology,Telecommunications",,,
 modify.me,sold,72,88%,6,"Business,Education,Technology",10/07/2008 03:30,10/07/2026 03:30,"GoDaddy.com, LLC"
 adaptative.ninja,available,72,20%,10,"Business,Education,Technology",,,
@@ -1544,7 +1545,7 @@ greylist.ai,available,72,80%,8,"Business,Media,Technology",,,
 refrigerate.at,available,72,68%,11,"Food and Beverage,Healthcare,Technology",,,
 makeflexible.co,available,72,72%,13,"Business,Education,Technology",,,
 computerchip.online,available,72,72%,13,"Manufacturing,Technology",,,
-analog.me,sold,72,56%,6,"Technology,Telecommunications",18/07/2008 08:29,18/07/2026 08:29,"GoDaddy.com, LLC"
+analog.me,resell,72,52%,6,"Technology,Telecommunications",18/07/2008 08:29,18/07/2026 08:29,"GoDaddy.com, LLC"
 visible.store,available,72,80%,7,"Business,Media,Technology",,,
 electriccar.gg,resell,72,84%,12,"Automotive,Environment,Technology",,,1API (http://www.1api.net)
 declarative.at,available,72,80%,11,"Education,Media,Technology",,,
@@ -1580,6 +1581,7 @@ gradient.gg,resell,72,92%,8,"Engineering,Science,Technology",,,Enrapture Limited
 USBdrive.so,available,72,72%,9,"Technology,Telecommunications",,,
 Latinalphabet.so,available,72,72%,14,"Education,Humanities,Technology",,,
 likely.gg,available,72,72%,6,"Business,Finance,Technology",,,
+robotic.app,resell,72,36%,7,Technology,25/08/2019 00:28,25/08/2026 00:28,Dynadot LLC.
 buyin.online,expiring,72,84%,6,"Business,Finance,Technology",09/07/2023 03:09,09/07/2025 23:59,Namecheap
 flashmemory.dev,available,72,72%,12,Technology,,,
 executable.space,available,72,80%,10,"Business,Engineering,Technology",,,
@@ -1590,7 +1592,7 @@ unpredictable.zone,available,72,76%,13,"Finance,Technology",,,
 billgates.at,available,72,76%,10,"Business,Media,Technology",,,
 discovery.space,available,72,88%,9,"Media,Science,Technology",,,
 electriccar.expert,expired,72,84%,12,"Automotive,Environment,Technology",14/05/2017 21:09,14/05/2025 21:09,"GoDaddy.com, LLC"
-abreast.zone,available,72,12%,7,"Business,Technology",,,
+abreast.zone,available,72,8%,7,"Business,Technology",,,
 FYP.at,available,72,84%,3,"Entertainment,Media,Technology",,,
 transportable.dev,available,72,72%,13,"Real Estate,Technology",,,
 articulated.me,available,72,72%,11,"Engineering,Media,Technology",,,
@@ -1608,7 +1610,7 @@ bistable.online,available,72,72%,8,"Engineering,Science,Technology",,,
 sal.online,available,72,88%,3,"Business,Media,Technology",,,
 rattling.ai,available,72,72%,8,"Entertainment,Media,Technology",,,
 hub.cloud,available,72,92%,3,"Business,Technology,Transportation",,,
-robotic.at,available,72,76%,7,Technology,,,
+robotic.at,available,72,36%,7,Technology,,,
 replaceable.xyz,available,72,80%,11,"Business,Manufacturing,Technology",,,
 numeral.me,available,72,76%,7,"Education,Mathematics,Technology",,,
 beatmaker.expert,available,72,88%,9,"Entertainment,Technology",,,
@@ -1761,7 +1763,7 @@ astronaut.me,resell,70,84%,9,"Media,Technology",18/12/2016 03:23,18/12/2025 03:2
 doublecheck.zone,available,70,92%,12,"Business,Education,Technology",,,
 spaceshuttle.me,available,70,80%,13,"Aviation,Science,Technology",,,
 directaccess.store,available,70,80%,13,Technology,,,
-automated.co,expiring,70,92%,9,"Manufacturing,Technology",20/07/2010 18:06,19/07/2025 23:59,"GoDaddy.com, LLC"
+automated.co,sold,70,52%,9,"Manufacturing,Technology",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
 multitasker.me,available,70,72%,11,"Business,Education,Technology",,,
 edgeup.zone,available,70,80%,7,"Business,Real Estate,Technology",,,
 aviation.site,available,70,88%,8,"Aviation,Technology",,,
@@ -2053,7 +2055,7 @@ conducting.app,available,68,76%,10,"Education,Technology",,,
 hifi.so,available,68,88%,5,"Entertainment,Retail,Technology",,,
 proximity.io,resell,68,84%,9,"Business,Real Estate,Technology",05/06/2018 07:17,05/06/2026 07:17,"NameCheap, Inc."
 virtualimage.online,available,68,80%,13,"Education,Science,Technology",,,
-assisted.xyz,resell,68,36%,8,"Healthcare,Technology",11/10/2020 23:40,11/10/2026 23:59,Dynadot LLC
+assisted.xyz,sold,68,36%,8,"Healthcare,Technology",11/10/2020 23:40,11/10/2027 23:59,Dynadot LLC
 bioincubator.expert,available,68,72%,12,"Healthcare,Pharmaceuticals,Technology",,,
 televise.online,available,68,80%,8,"Entertainment,Media,Technology",,,
 flubber.expert,available,68,84%,7,"Entertainment,Media,Technology",,,
@@ -2095,6 +2097,7 @@ adjust.us,resell,68,84%,6,"Business,Technology",27/06/2017 18:00,26/06/2026 23:5
 antistatic.so,available,68,84%,10,"Manufacturing,Technology",,,
 oriented.gg,available,68,76%,8,"Business,Education,Technology",,,
 homecomputing.me,available,68,76%,14,Technology,,,
+aural.co,resell,68,48%,5,"Entertainment,Technology",05/10/2017 00:55,04/10/2025 23:59,Dynadot Inc
 improving.store,available,68,88%,9,"Business,Healthcare,Technology",,,
 cashmachine.co,available,68,72%,12,"Banking,Finance,Technology",,,
 airlike.cloud,available,68,32%,7,Technology,,,
@@ -2179,9 +2182,10 @@ voyager.co,expiring,68,84%,7,"Technology,Travel",20/07/2010 18:03,19/07/2025 23:
 Landsat.me,available,68,80%,7,"Environment,Geography,Technology",,,
 sharingeconomy.ai,available,68,72%,15,"Business,Finance,Technology",,,
 highresolution.so,available,68,76%,15,"General,Media,Technology",,,
-link.tech,expiring,68,88%,4,"Business,Media,Technology",31/07/2019 13:28,31/07/2025 23:59,"Porkbun, LLC"
+link.tech,expiring,68,76%,4,"Business,Media,Technology",31/07/2019 13:28,31/07/2025 23:59,"Porkbun, LLC"
 enterprise.site,available,68,100%,10,"Business,Finance,Technology",,,
 kelvin.io,resell,68,88%,6,"Education,Science,Technology",03/09/2018 10:35,03/09/2025 10:35,"GoDaddy.com, LLC"
+aural.cloud,resell,68,48%,5,"Entertainment,Technology",04/11/2024 20:02,04/11/2025 20:02,"XIAMEN CHINASOURCE INTERNET SERVICE CO., LTD."
 analogwatch.pro,available,68,72%,12,"Fashion,Retail,Technology",,,
 dropshipper.dev,available,68,80%,11,"Business,Retail,Technology",,,
 recoverable.at,available,68,72%,11,"Business,Law,Technology",,,
@@ -2290,7 +2294,7 @@ Googlish.xyz,available,68,72%,8,"Business,Media,Technology",,,
 securitycommunity.gg,available,68,72%,18,"Technology,Telecommunications",,,
 packageleaflet.io,available,68,72%,15,"Media,Retail,Technology",,,
 inc.site,resell,68,84%,3,"Business,Finance,Technology",10/11/2020 12:34,10/11/2025 23:59,Radix FZC
-aural.ninja,available,68,88%,5,"Entertainment,Technology",,,
+aural.ninja,available,68,48%,5,"Entertainment,Technology",,,
 tracker.tech,available,68,92%,7,"Military,Technology,Transportation",,,
 membranekeyboard.ninja,available,68,72%,17,"Retail,Technology",,,
 adapter.me,resell,68,76%,7,"Engineering,Technology",09/11/2024 05:32,09/11/2025 05:32,"Chengdu West Dimension Digital Technology Co., Ltd."
@@ -2441,7 +2445,7 @@ photographable.xyz,available,66,72%,14,"Media,Technology,Travel",,,
 maximising.net,available,66,68%,10,"Business,Media,Technology",,,
 pointer.expert,available,66,88%,7,"Business,Sports,Technology",,,
 industrialize.tech,available,66,84%,13,"Business,Manufacturing,Technology",,,
-alert.ai,resell,66,56%,5,Technology,16/12/2017 04:54,12/01/2027 04:54,"GoDaddy.com, LLC"
+alert.ai,resell,66,52%,5,Technology,16/12/2017 04:54,12/01/2027 04:54,"GoDaddy.com, LLC"
 wiktionary.store,available,66,84%,10,"Education,Technology",,,
 blaster.expert,available,66,76%,7,"Entertainment,Technology",,,
 PSU.store,available,66,88%,3,"Education,Engineering,Technology",,,
@@ -2481,7 +2485,7 @@ according.so,available,66,16%,9,"Business,Education,Technology",,,
 hiveoff.gg,available,66,72%,8,"Business,Finance,Technology",,,
 arriveat.dev,available,66,72%,9,"Business,Technology,Travel",,,
 pocketdictionary.store,available,66,72%,17,"Education,Retail,Technology",,,
-armored.it,expired,66,76%,7,"Automotive,Military,Technology",19/06/2019 09:00,05/07/2025 00:00,
+armored.it,resell,66,24%,7,"Automotive,Military,Technology",19/06/2019 09:00,05/07/2026 00:00,
 digitalmedia.gg,available,66,84%,13,"General,Media,Technology",,,
 classify.so,available,66,76%,8,"Education,Science,Technology",,,
 megabyte.io,resell,66,84%,8,"Science,Technology,Telecommunications",09/04/2015 03:11,09/04/2026 03:11,"GoDaddy.com, LLC"
@@ -2492,6 +2496,7 @@ highdef.pro,available,66,84%,8,"General,Media,Technology",,,
 maxout.expert,available,66,92%,7,"Business,Finance,Technology",,,
 mediaplayer.zone,available,66,80%,12,"Media,Technology",,,
 delete.cloud,available,66,88%,6,Technology,,,
+armored.org,expiring,66,24%,7,"Automotive,Military,Technology",02/09/2006 18:51,02/09/2025 18:51,"GoDaddy.com, LLC"
 seamless.xyz,sold,66,80%,8,"Fashion,Manufacturing,Technology",08/10/2016 07:15,08/10/2030 23:59,Dynadot LLC
 catchon.expert,available,66,84%,8,"Entertainment,Media,Technology",,,
 refocus.pro,resell,66,88%,7,"Business,Education,Technology",29/01/2025 15:16,29/01/2026 15:16,"Sav.com, LLC - 15"
@@ -2574,7 +2579,7 @@ subsonic.net,premium,66,84%,8,"Aviation,Science,Technology",24/05/2011 19:07,24/
 playthrough.pro,available,66,72%,11,"Entertainment,Media,Technology",,,
 mapquest.expert,available,66,92%,8,"Media,Technology,Travel",,,
 received.at,available,66,76%,8,"Business,Technology,Telecommunications",,,
-alert.tech,available,66,56%,5,Technology,,,
+alert.tech,available,66,52%,5,Technology,,,
 signon.co,resell,66,80%,7,"Business,Media,Technology",24/01/2016 18:07,23/01/2026 23:59,"Spaceship, Inc."
 MacGyver.at,available,66,80%,8,"Entertainment,Media,Technology",,,
 millisecond.so,available,66,80%,11,"Media,Science,Technology",,,
@@ -2667,12 +2672,12 @@ resonate.ninja,available,66,100%,8,"Arts,Media,Technology",,,
 cars.xyz,expiring,66,56%,4,"Automotive,General,Technology",30/07/2021 18:48,30/07/2025 23:59,"NameSilo, LLC"
 inventive.gg,available,66,88%,9,"Arts,Business,Technology",,,
 bosskey.ai,available,66,76%,8,"Business,Entertainment,Technology",,,
-latest.ninja,available,66,40%,6,Technology,,,
+latest.ninja,available,66,36%,6,Technology,,,
 webcamera.so,available,66,76%,9,"Media,Retail,Technology",,,
 postaladdress.space,available,66,72%,14,"Business,Technology,Telecommunications",,,
 advertizer.zone,available,66,76%,10,"Business,Media,Technology",,,
 throughgoing.us,available,66,72%,12,"Construction,Technology,Transportation",,,
-buzzing.ninja,available,66,36%,7,"Entertainment,Media,Technology",,,
+buzzing.ninja,available,66,40%,7,"Entertainment,Media,Technology",,,
 spaceman.at,sold,66,92%,8,"Media,Technology",,,World4You Internet Services GmbH ( https://nic.at/registrar/61 )
 registeredtrademark.io,available,66,72%,20,"Business,Law,Technology",,,
 lock.expert,available,66,88%,4,"Construction,Technology",,,
@@ -3166,7 +3171,7 @@ locate.zone,available,64,88%,6,"Business,Real Estate,Technology",,,
 deciphering.site,available,64,76%,11,"Education,Science,Technology",,,
 datasmoothing.ai,available,64,8%,14,"Education,General,Technology",,,
 repeated.xyz,resell,64,72%,8,"Business,Education,Technology",13/05/2025 12:41,13/05/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
-unreal.gg,resell,64,80%,6,"Entertainment,Technology",,,Dynadot Inc. (https://www.dynadot.com)
+unreal.gg,resell,64,48%,6,"Entertainment,Technology",,,Dynadot Inc. (https://www.dynadot.com)
 ecounselling.space,available,64,12%,13,"General,Healthcare,Technology",,,
 hotlink.gg,available,64,76%,7,Technology,,,
 starmap.cloud,available,64,88%,8,"Education,Science,Technology",,,
@@ -3537,7 +3542,7 @@ intelligencelike.dev,available,62,72%,16,"Business,Education,Technology",,,
 Googleeffect.ai,available,62,4%,13,Technology,,,
 picturing.at,available,62,80%,9,"Arts,Media,Technology",,,
 seller.online,available,62,92%,6,"Business,Retail,Technology",,,
-adjuvant.me,expiring,62,28%,8,"Healthcare,Manufacturing,Technology",23/07/2018 21:08,23/07/2025 21:08,"GoDaddy.com, LLC"
+adjuvant.me,sold,62,28%,8,"Healthcare,Manufacturing,Technology",23/07/2018 21:08,23/07/2026 21:08,"GoDaddy.com, LLC"
 immediacy.ninja,available,62,80%,9,"Business,Media,Technology",,,
 identified.us,expiring,62,76%,10,"Media,Science,Technology",15/07/2024 10:35,15/07/2025 10:35,"NameCheap, Inc."
 rocketscientist.tech,available,62,72%,16,"Science,Technology",,,
@@ -3670,7 +3675,7 @@ corsair.so,available,62,76%,7,"Entertainment,Media,Technology",,,
 diversified.org,resell,62,84%,11,"Business,Finance,Technology",26/09/2000 10:39,26/09/2025 10:39,"GoDaddy.com, LLC"
 whatsit.zone,available,62,76%,7,"Entertainment,Media,Technology",,,
 cryptoeconomy.tech,available,62,76%,13,"Business,Finance,Technology",,,
-quivive.tech,available,62,28%,8,Technology,,,
+quivive.tech,available,62,24%,8,Technology,,,
 particle.co,resell,62,80%,8,"Engineering,Science,Technology",07/10/2020 17:00,07/10/2025 17:00,"GoDaddy.com, LLC"
 defroster.us,available,62,72%,9,"Automotive,Retail,Technology",,,
 bellsandwhistles.so,available,62,88%,18,"General,Technology",,,
@@ -3693,7 +3698,7 @@ sciencecentre.app,available,62,68%,14,"Education,Science,Technology",,,
 listbox.us,available,62,72%,8,"Business,Technology,Telecommunications",,,
 armyunit.co,available,62,72%,9,"Engineering,Military,Technology",,,
 lockin.at,sold,62,96%,7,"Business,Real Estate,Technology",,,EPAG Domainservices GmbH ( https://nic.at/registrar/372 )
-roughly.so,available,62,28%,7,"Business,Media,Technology",,,
+roughly.so,available,62,16%,7,"Business,Media,Technology",,,
 magiccookie.io,available,62,72%,12,"Entertainment,Media,Technology",,,
 registry.store,available,62,96%,8,"Business,Healthcare,Technology",,,
 geekchic.pro,available,62,36%,9,"Fashion,Media,Technology",,,
@@ -3938,7 +3943,7 @@ enhancer.dev,available,62,84%,8,"Food and Beverage,Pharmaceuticals,Technology",,
 Emeter.store,available,62,76%,7,Technology,,,
 clockon.cloud,available,62,76%,8,"Business,Manufacturing,Technology",,,
 pairing.expert,available,62,80%,7,"Food and Beverage,Technology",,,
-light.zone,resell,62,56%,5,"Science,Technology",16/07/2018 08:19,16/07/2026 08:19,"DNSPod, Inc."
+light.zone,resell,62,52%,5,"Science,Technology",16/07/2018 08:19,16/07/2026 08:19,"DNSPod, Inc."
 san.gg,resell,62,92%,3,"Entertainment,Media,Technology",,,"Web Gnomes, LLC (https://www.webgnomes.org)"
 futurologist.ninja,available,62,72%,12,"Business,Science,Technology",,,
 scanner.ninja,available,62,96%,7,"Healthcare,Retail,Technology",,,
@@ -4068,7 +4073,7 @@ tokenise.expert,available,62,88%,8,"Finance,Technology,Telecommunications",,,
 unorthodox.tech,available,62,80%,10,"Business,Media,Technology",,,
 casebasedreasoning.online,available,62,8%,20,"Education,General,Technology",,,
 reworking.pro,available,62,72%,9,"Business,Manufacturing,Technology",,,
-quivive.me,available,62,28%,8,Technology,,,
+quivive.me,available,62,24%,8,Technology,,,
 timethrust.xyz,available,62,72%,11,"Entertainment,Technology",,,
 inserting.expert,available,62,72%,9,"Engineering,Manufacturing,Technology",,,
 ATMmachine.cloud,available,62,80%,11,"Banking,Finance,Technology",,,
@@ -4104,7 +4109,7 @@ galvanise.ninja,available,62,84%,9,"Manufacturing,Technology",,,
 printerbuffer.store,available,62,72%,14,"Manufacturing,Media,Technology",,,
 segway.ai,resell,62,88%,6,"Technology,Transportation,Travel",23/05/2023 20:10,23/05/2027 20:10,"NameCheap, Inc."
 jumpercable.gg,available,62,72%,12,"Automotive,Retail,Technology",,,
-light.store,available,62,56%,5,"Science,Technology",,,
+light.store,available,62,52%,5,"Science,Technology",,,
 rocketscientist.online,available,62,72%,16,"Science,Technology",,,
 digitise.us,resell,62,76%,8,"Business,Media,Technology",02/09/2021 00:00,02/09/2025 00:00,Dynadot Inc
 MILC.ai,available,62,80%,4,"Finance,Technology",,,
@@ -4217,7 +4222,6 @@ wrappedup.me,available,62,76%,10,"Business,Media,Technology",,,
 offair.so,available,62,80%,7,"Entertainment,Media,Technology",,,
 flightdatarecorder.ninja,available,62,76%,20,"Aviation,Technology,Transportation",,,
 washingmachine.ninja,available,62,80%,15,"Retail,Technology",,,
-harmonizer.tech,available,62,84%,10,"Entertainment,Technology",,,
 promotive.so,available,61,76%,9,"Business,Technology",,,
 ionised.net,available,61,72%,7,"Engineering,Science,Technology",,,
 exporter.store,available,61,84%,8,"Business,Finance,Technology",,,
@@ -4259,7 +4263,7 @@ SDK.us,expiring,60,88%,3,"Business,Media,Technology",16/07/2018 00:08,16/07/2025
 tubeway.ai,available,60,76%,7,"Construction,Technology,Transportation",,,
 synthesis.zone,available,60,88%,9,"Education,Science,Technology",,,
 memorycell.co,available,60,76%,11,"Healthcare,Science,Technology",,,
-autonomic.expert,available,60,80%,9,"Healthcare,Technology",,,
+autonomic.expert,available,60,44%,9,"Healthcare,Technology",,,
 techbaron.online,available,60,72%,10,Technology,,,
 inkcartridge.org,available,60,68%,13,"Business,Retail,Technology",,,
 Webaholic.org,available,60,80%,9,"Health and Fitness,Media,Technology",,,
@@ -4476,7 +4480,7 @@ lecturing.zone,available,60,76%,9,"Education,Media,Technology",,,
 digitalmeter.cloud,available,60,72%,13,"Engineering,Technology,Utilities",,,
 thingamabob.expert,available,60,76%,11,"Entertainment,Media,Technology",,,
 iPadkid.ninja,available,60,72%,8,"Education,Media,Technology",,,
-hearable.us,resell,60,80%,8,"Entertainment,Technology",03/09/2021 06:54,03/09/2025 06:54,"Spaceship, Inc."
+hearable.us,resell,60,36%,8,"Entertainment,Technology",03/09/2021 06:54,03/09/2026 06:54,"Spaceship, Inc."
 authoringprogram.zone,available,60,72%,17,"Education,Media,Technology",,,
 imbed.ninja,available,60,76%,5,"Business,Media,Technology",,,
 databinning.zone,available,60,8%,12,Technology,,,
@@ -5151,7 +5155,6 @@ snoozebutton.xyz,available,60,72%,13,"Health and Fitness,Retail,Technology",,,
 tweeter.ninja,available,60,84%,7,"Media,Technology",,,
 filepath.site,available,60,76%,8,"Business,Technology,Telecommunications",,,
 haste.site,available,60,84%,5,"Business,Technology,Transportation",,,
-voicechanger.us,available,60,80%,13,Technology,,,
 proofed.ninja,available,59,76%,7,"Manufacturing,Media,Technology",,,
 electromagneticunit.com,available,59,72%,20,"Science,Technology",,,
 aurally.us,available,59,76%,7,"Healthcare,Media,Technology",,,
@@ -5391,7 +5394,7 @@ mousewheel.so,available,58,72%,11,"Media,Technology,Telecommunications",,,
 fogger.tech,expiring,58,84%,6,Technology,31/07/2020 02:45,31/07/2025 23:59,"Go Daddy, LLC"
 telegraphist.ai,available,58,72%,12,"Media,Technology,Telecommunications",,,
 dogyear.org,available,58,72%,8,"Entertainment,Media,Technology",,,
-aslope.pro,available,58,72%,6,Technology,,,
+aslope.pro,available,58,8%,6,Technology,,,
 appmt.app,available,58,72%,5,"Business,Media,Technology",,,
 vehicularlanguage.so,available,58,72%,18,"Education,Technology,Transportation",,,
 geocentricorbit.gg,available,58,72%,16,"Aviation,Science,Technology",,,
@@ -5459,7 +5462,7 @@ answerer.space,available,58,76%,8,"Education,Media,Technology",,,
 foodwastedisposer.expert,available,58,72%,19,"Environment,Technology,Utilities",,,
 compartmentalise.us,available,58,72%,16,"Business,Education,Technology",,,
 highpressure.ai,available,58,80%,13,"Engineering,General,Technology",,,
-armoured.at,available,58,76%,8,"Automotive,Military,Technology",,,
+armoured.at,available,58,24%,8,"Automotive,Military,Technology",,,
 shading.site,available,58,84%,7,"Arts,Media,Technology",,,
 hackette.co,available,58,72%,8,"Business,Media,Technology",,,
 designdepth.us,available,58,76%,12,"Engineering,General,Technology",,,
@@ -5661,7 +5664,7 @@ echoboomer.xyz,available,58,72%,11,"Business,Media,Technology",,,
 telegraphist.gg,available,58,72%,12,"Media,Technology,Telecommunications",,,
 captioning.us,available,58,76%,10,"Education,Media,Technology",,,
 shortcutkey.gg,available,58,76%,12,"Business,Education,Technology",,,
-airtoair.ninja,available,58,16%,10,"Aviation,Technology",,,
+airtoair.ninja,available,58,12%,10,"Aviation,Technology",,,
 transistor.app,available,58,88%,10,Technology,,,
 assuch.expert,available,58,72%,7,"Business,Media,Technology",,,
 anemometer.ai,available,58,72%,10,"Environment,Science,Technology",,,
@@ -5874,7 +5877,7 @@ reheating.io,available,58,72%,9,"Food and Beverage,Hospitality,Technology",,,
 inall.pro,available,58,76%,6,"Business,Media,Technology",,,
 distinctivefeature.org,available,58,72%,19,Technology,,,
 firemachine.co,available,58,72%,12,"Manufacturing,Media,Technology",,,
-abuzz.gg,available,58,44%,5,"Entertainment,Media,Technology",,,
+abuzz.gg,available,58,40%,5,"Entertainment,Media,Technology",,,
 crystalradio.me,available,58,80%,13,"Education,Media,Technology",,,
 flowchart.zone,available,58,88%,10,"Business,Education,Technology",,,
 querystring.expert,available,58,80%,12,Technology,,,
@@ -5953,7 +5956,7 @@ speakerphone.ninja,available,58,72%,12,"Business,Technology,Telecommunications",
 backlit.me,available,58,72%,7,"Arts,Media,Technology",,,
 overagain.us,available,58,72%,10,"Business,Media,Technology",,,
 telegrapher.xyz,available,58,76%,11,"Media,Technology,Telecommunications",,,
-aslope.io,available,58,72%,6,Technology,,,
+aslope.io,available,58,8%,6,Technology,,,
 selfidentify.tech,available,58,72%,13,"Healthcare,Media,Technology",,,
 keyboardbass.at,available,58,72%,13,"Entertainment,Technology",,,
 intelligenceoffice.store,available,58,72%,19,"Business,Technology",,,
@@ -6131,7 +6134,7 @@ ontime.dev,available,58,84%,7,"Business,Technology,Transportation",,,
 datatransferrate.space,available,58,72%,18,"Finance,Technology,Telecommunications",,,
 filtered.at,available,58,88%,8,"Environment,Media,Technology",,,
 hotpotatorouting.org,available,58,72%,18,"General,Technology,Telecommunications",,,
-airtoair.dev,available,58,16%,10,"Aviation,Technology",,,
+airtoair.dev,available,58,12%,10,"Aviation,Technology",,,
 JavaME.me,available,58,72%,6,Technology,,,
 SCO.pro,available,58,88%,3,"Business,Technology,Telecommunications",,,
 assembling.expert,available,58,76%,10,"Engineering,Manufacturing,Technology",,,
@@ -7165,7 +7168,7 @@ newsbill.pro,available,56,72%,8,"Business,Media,Technology",,,
 teinoscope.co,available,56,72%,10,"Engineering,Science,Technology",,,
 typically.ninja,available,56,72%,9,"Business,Media,Technology",,,
 alphablending.net,available,56,72%,14,"General,Media,Technology",,,
-alary.store,available,56,36%,5,"Science,Technology",,,
+alary.store,available,56,32%,5,"Science,Technology",,,
 emojilike.space,available,56,72%,9,"Media,Technology",,,
 actionitem.ninja,available,56,76%,11,"Business,Education,Technology",,,
 checkminus.tech,available,56,72%,11,"Business,Education,Technology",,,
@@ -7406,7 +7409,6 @@ renumbering.cloud,available,56,72%,11,"Business,Engineering,Technology",,,
 ghostcall.pro,available,56,84%,10,"Media,Technology,Telecommunications",,,
 cableship.xyz,available,56,72%,10,"Technology,Telecommunications,Transportation",,,
 anonymiser.io,available,56,72%,10,"Technology,Telecommunications",,,
-siliconwafer.cloud,available,56,76%,13,"Engineering,Manufacturing,Technology",,,
 electromotion.expert,available,55,12%,14,"Engineering,Science,Technology",,,
 reversive.so,available,55,72%,9,"Engineering,Science,Technology",,,
 electroacoustics.ninja,available,55,76%,16,"Entertainment,Technology",,,
@@ -7540,7 +7542,7 @@ transposer.dev,available,54,72%,10,"Education,Technology",,,
 linkspam.us,available,54,72%,9,Technology,,,
 photosensitive.site,available,54,72%,14,"Healthcare,Science,Technology",,,
 gamelike.app,available,54,72%,8,"Entertainment,Media,Technology",,,
-tiein.tech,available,54,80%,6,Technology,,,
+tiein.tech,available,54,16%,6,Technology,,,
 onthat.ai,available,54,72%,7,"Business,Media,Technology",,,
 rotaryencoder.ninja,available,54,72%,14,"Engineering,Technology",,,
 optically.online,resell,54,76%,9,"Healthcare,Science,Technology",31/12/2024 02:31,31/12/2025 23:59,Hosting Concepts B.V. d/b/a Registrar.eu
@@ -8352,7 +8354,6 @@ catproof.us,available,54,72%,8,"Construction,Retail,Technology",,,
 linkspam.org,available,54,72%,9,Technology,,,
 manufacturer.at,expired,54,76%,12,"Business,Manufacturing,Technology",,,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 )
 dimensional.online,available,54,80%,11,"Engineering,Science,Technology",,,
-alkalineearth.site,available,54,72%,14,"Manufacturing,Science,Technology",,,
 siliconlike.store,available,53,72%,11,"Manufacturing,Science,Technology",,,
 damped.co,available,53,72%,6,"Engineering,Science,Technology",,,
 differentiator.io,available,53,72%,14,"Business,Technology",,,
@@ -8407,7 +8408,7 @@ doubleflash.io,available,52,72%,12,"General,Technology",,,
 raggedarray.ai,available,52,72%,12,"Engineering,Mathematics,Technology",,,
 polyphase.so,available,52,84%,9,"Engineering,Science,Technology",,,
 fasttracked.space,available,52,24%,12,"Business,Technology",,,
-alchemical.me,sold,52,44%,10,"Science,Technology",22/01/2023 19:29,22/01/2026 19:29,Key-Systems GmbH
+alchemical.me,sold,52,36%,10,"Science,Technology",22/01/2023 19:29,22/01/2026 19:29,Key-Systems GmbH
 maximally.org,available,52,76%,9,"Business,Health and Fitness,Technology",,,
 reductive.io,expiring,52,80%,9,"Engineering,Science,Technology",29/07/2019 18:40,29/07/2025 18:40,"GoDaddy.com, LLC"
 Glassey.at,available,52,80%,7,"Fashion,Retail,Technology",,,
@@ -8862,7 +8863,6 @@ shellpad.gg,available,52,72%,9,"Construction,Manufacturing,Technology",,,
 carboninsetting.ai,available,52,72%,16,"Business,General,Technology",,,
 telephonic.tech,available,52,72%,10,"Media,Technology,Telecommunications",,,
 nobreakspace.ai,available,52,72%,14,"Media,Technology,Telecommunications",,,
-cryogenic.so,available,52,76%,9,"Medicine,Science,Technology",,,
 combinative.at,available,51,76%,11,"Mathematics,Technology",,,
 havta.io,available,50,72%,5,"Entertainment,Media,Technology",,,
 curators.cloud,available,50,60%,8,"Arts,Media,Technology",,,
