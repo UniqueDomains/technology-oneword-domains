@@ -1,17 +1,17 @@
 
-# **Technology One-Word Domain Names**: Daily Updated List of Available Domains
+# **technology One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Technology one-word domains.
+This regularly updated dataset includes the latest available technology one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/technology-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Technology one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **technology one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Technology domains.
+- **Domain Name**: High-quality, single-word technology domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Technology one-word
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain        | status    | attractiveness | demand | length | created          | expires          | registrar                                    | sectors                           |
-| ------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------------------------- | --------------------------------- |
-| out.online    | available | 152            | 88     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| correct.so    | available | 140            | 72     | 7      |                  |                  |                                              | Business,Education,Technology     |
-| correct.us    | resell    | 140            | 72     | 7      | 24/04/2002 14:53 | 23/04/2026 23:59 | Tucows Domains Inc.                          | Business,Education,Technology     |
-| one.cab       | resell    | 132            | 44     | 3      | 19/01/2024 17:00 | 19/01/2026 17:00 | Xiamen ChinaSource Internet Service Co., Ltd | Business,General,Media,Technology |
-| one.family    | expired   | 132            | 44     | 3      | 21/06/2024 06:02 | 21/06/2025 06:02 | Porkbun LLC                                  | Business,General,Media,Technology |
-| one.bar       | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.airforce  | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.kim       | resell    | 132            | 44     | 3      | 16/12/2023 17:00 | 16/12/2025 17:00 | Dominet (HK) Limited                         | Business,General,Media,Technology |
-| one.boston    | resell    | 132            | 44     | 3      | 10/10/2017 22:33 | 10/10/2025 22:33 | GoDaddy.com, LLC                             | Business,General,Media,Technology |
-| one.sexy      | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.ceo       | resell    | 132            | 44     | 3      | 28/04/2025 08:13 | 28/04/2026 23:59 | Sav.com, LLC - 47                            | Business,General,Media,Technology |
-| one.voto      | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.jewelry   | resell    | 132            | 44     | 3      | 06/01/2025 17:16 | 06/01/2026 17:16 | Sav.com, LLC                                 | Business,General,Media,Technology |
-| one.software  | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.spot      | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.engineer  | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.lifestyle | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.furniture | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.boats     | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.luxury    | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.monster   | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.makeup    | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.sydney    | available | 132            | 44     | 3      |                  |                  |                                              | Business,General,Media,Technology |
-| one.cricket   | resell    | 132            | 44     | 3      | 01/09/2019 00:48 | 01/09/2029 00:48 | Porkbun                                      | Business,General,Media,Technology |
-| chief.xyz     | sold      | 120            | 84     | 5      | 19/08/2021 08:40 | 19/08/2030 23:59 | Dynadot LLC                                  | Business,General,Media,Technology |
-| howdy.co      | expiring  | 120            | 80     | 5      | 20/07/2010 18:09 | 19/07/2025 23:59 | GoDaddy.com, LLC                             | Technology                        |
-| wizard.space  | available | 118            | 60     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| wizard.store  | available | 118            | 60     | 6      |                  |                  |                                              | Entertainment,Media,Technology    |
-| solo.online   | available | 116            | 80     | 4      |                  |                  |                                              | Entertainment,Media,Technology    |
-| solo.pro      | available | 116            | 80     | 4      |                  |                  |                                              | Entertainment,Media,Technology    |
+| domain                | status    | attractiveness | demand | length | created | expires | registrar | sectors                           |
+| --------------------- | --------- | -------------- | ------ | ------ | ------- | ------- | --------- | --------------------------------- |
+| second.technology     | available | 120            | 23     | 6      |         |         |           | General,Mathematics               |
+| tenth.technology      | available | 116            | 7      | 5      |         |         |           | Mathematics                       |
+| flat.technology       | available | 116            | 24     | 4      |         |         |           | Construction,Real Estate          |
+| twentieth.technology  | available | 92             | 3      | 9      |         |         |           | Mathematics                       |
+| nought.technology     | available | 92             | 4      | 6      |         |         |           | Mathematics                       |
+| leash.technology      | available | 90             | 7      | 5      |         |         |           | General,Health and Fitness,Retail |
+| sixteen.technology    | available | 88             | 11     | 7      |         |         |           | Mathematics                       |
+| three.technology      | available | 88             | 24     | 5      |         |         |           | Mathematics                       |
+| fifteen.technology    | available | 88             | 13     | 7      |         |         |           | Mathematics                       |
+| hundred.technology    | available | 88             | 14     | 7      |         |         |           | Mathematics                       |
+| xiv.technology        | available | 86             | 12     | 3      |         |         |           | Mathematics                       |
+| xix.technology        | available | 86             | 11     | 3      |         |         |           | Mathematics                       |
+| nineteen.technology   | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| fourteen.technology   | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| twentyone.technology  | available | 84             | 13     | 10     |         |         |           | Mathematics                       |
+| thirteen.technology   | available | 84             | 10     | 8      |         |         |           | Mathematics                       |
+| thousand.technology   | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| seventeen.technology  | available | 84             | 7      | 9      |         |         |           | Mathematics                       |
+| dozen.technology      | available | 82             | 10     | 5      |         |         |           | Mathematics                       |
+| decade.technology     | available | 82             | 10     | 6      |         |         |           | Mathematics                       |
+| twenty.technology     | available | 80             | 12     | 6      |         |         |           | Mathematics                       |
+| twentysix.technology  | available | 78             | 8      | 10     |         |         |           | Mathematics                       |
+| nineteenth.technology | available | 76             | 3      | 10     |         |         |           | Mathematics                       |
+| thirteenth.technology | available | 76             | 4      | 10     |         |         |           | Mathematics                       |
+| eighteen.technology   | available | 76             | 7      | 8      |         |         |           | Mathematics                       |
+| thousandth.technology | available | 76             | 1      | 10     |         |         |           | Mathematics                       |
+| fourteenth.technology | available | 76             | 1      | 10     |         |         |           | Mathematics                       |
+| threed.technology     | available | 76             | 7      | 7      |         |         |           | Technology                        |
+| fifteenth.technology  | available | 76             | 2      | 9      |         |         |           | Mathematics                       |
+| hundredth.technology  | available | 76             | 1      | 9      |         |         |           | Mathematics                       |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/technology-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/technology-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
