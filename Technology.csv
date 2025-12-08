@@ -1,4 +1,5 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
+92c9f58b-3360-4443-a7a6-f1606784cf22,internetofthings.dev,premium,66,84,18,,,
 7aca1419-dc19-4970-9bbd-2903ab6d233b,internetofthings.expert,available,66,84,18,,,
 098ca259-33e3-4ba8-8c8a-38dad134fd49,internetofthings.io,resell,66,84,18,"GoDaddy.com, LLC",08/07/2019 10:09,08/07/2026 10:09
 f6484f9b-5730-4ea2-836b-901b60745edc,internetofthings.me,expiring,66,84,18,"GoDaddy.com, LLC",15/07/2012 01:05,15/07/2025 01:05
@@ -10,7 +11,6 @@ f6484f9b-5730-4ea2-836b-901b60745edc,internetofthings.me,expiring,66,84,18,"GoDa
 1f3a9a0e-16cf-4880-b32c-08ec5a684828,internetofthings.tech,expiring,66,84,18,1API GmbH,02/08/2015 16:00,02/08/2025 23:59
 9193edcc-3621-47a9-bf98-8abb1b317ac9,internetofthings.us,expiring,66,84,18,Sav.com LLC,12/07/2012 03:08,11/07/2025 23:59
 ccaecdaf-3d50-4a72-abe1-6b49fde3be1c,internetofthings.zone,available,66,84,18,,,
-92c9f58b-3360-4443-a7a6-f1606784cf22,internetofthings.dev,premium,66,84,18,,,
 c73776cb-d4ee-4d1c-a6a4-3da245e7aaa9,development.at,premium,62,84,11,,,
 30d159fe-8883-447d-ba23-9679a0a6c949,development.cloud,premium,62,84,11,,,
 699a6171-f03f-4fd9-a998-19fd9106c083,development.expert,expired,62,84,11,Nom-iq Ltd. dba COM LAUDE,14/05/2014 16:00,14/05/2025 16:00
@@ -59,349 +59,371 @@ a2b2193a-24a1-4bcd-a2f5-48996857967a,datascience.pro,resell,72,64,12,"GKG.NET, I
 f3a9a63f-2231-4bfc-9bab-d2981163397f,datascience.so,available,72,64,12,,,
 9e321ca9-1f3a-40ec-8c6d-370b5117e025,datascience.store,available,72,64,12,,,
 290b492a-6a63-464f-8e52-6b1203f0a144,datascience.zone,available,72,64,12,,,
-7f44037d-c6d6-417a-b41e-8dab2e891674,technology.ac,available,88,28,10,,,
-9e73c966-a110-42ae-ba03-30ca7aa74408,technology.accountant,available,88,28,10,,,
-917d9aa6-9b9f-48c8-abdc-3a72b63b0bdc,technology.accountants,available,88,28,10,,,
-aa42d8d7-5f14-4eff-9297-8007ea62913b,technology.actor,available,88,28,10,,,
-365e4c88-f426-44d5-8e3d-31a182ae9db8,technology.adult,available,88,28,10,,,
-f5f9cbdf-8655-4d00-8956-1ce252ac83c2,technology.airforce,available,88,28,10,,,
-cd04f1ff-00ca-423e-86b8-e5151ba8f324,technology.apartments,available,88,28,10,,,
-ca9b1a4a-1a6c-4449-a752-cfff5d402eaa,technology.archi,available,88,28,10,,,
-b12808e9-7b5c-423e-8290-01df50d37902,technology.army,available,88,28,10,,,
-aa55f926-e1e6-4c5d-9e9e-018ca227cb51,technology.art,available,88,28,10,,,
-2604bf72-dddb-4064-a497-f4f0df419dc3,technology.asia,expiring,88,28,10,Dynadot Inc,25/09/2008 05:03,25/09/2025 05:03
-1a3c3f39-a9e9-4e50-aef6-fbefe1f7a5a4,technology.attorney,available,88,28,10,,,
-df881d48-7d4b-4ca0-af01-8316f94a1e66,technology.auction,available,88,28,10,,,
-c0b617f0-60da-474c-a758-88769fe95b73,technology.audio,available,88,28,10,,,
-f5e63cf1-0d29-4223-9625-d2f954d5351e,technology.auto,available,88,28,10,,,
-102e544d-4bb6-4bf7-902a-41bcc39f2d43,technology.autos,available,88,28,10,,,
-dce89190-39c9-4a30-8fae-63bcc7c94a7b,technology.baby,available,88,28,10,,,
-f18818bc-017d-4ca2-90d6-043569a19f02,technology.band,available,88,28,10,,,
-8cc48283-0a66-4ab4-a49b-7c82e2bdb657,technology.bar,available,88,28,10,,,
-9f8a5b4f-d26c-43e7-96de-4df5d7043e1c,technology.bayern,available,88,28,10,,,
-9461d1e8-9c1a-4ffa-96f1-4cf33a96488b,technology.beauty,available,88,28,10,,,
-487aca36-77fc-4698-8485-1b57783fa0f1,technology.berlin,available,88,28,10,,,
-394649f1-d284-4d1b-b589-9c025e25c4fe,technology.bike,available,88,28,10,,,
-00fa979d-2941-4ca0-b376-2ddf282dc7b9,technology.bingo,available,88,28,10,,,
-ec34e302-26ed-4d62-9e19-ff811e76a91d,technology.bio,available,88,28,10,,,
-72753fbf-d0c2-413b-8f12-b9d6ef062516,technology.biz,resell,88,28,10,"GoDaddy.com, LLC",02/06/2004 17:14,01/06/2026 23:59
-7f230c5a-a603-40c0-a430-6a7cdddbb34a,technology.blackfriday,available,88,28,10,,,
-df851e9e-9935-46b0-bb96-798472c9bf07,technology.blog,available,88,28,10,,,
-70235fa8-8d4e-41f8-8520-936de1143a6f,technology.blue,available,88,28,10,,,
-144d348d-8e47-47ba-bfea-283053e850b6,technology.boats,available,88,28,10,,,
-057542ee-ecfc-4aec-b683-ea91cf19f336,technology.boo,available,88,28,10,,,
-72142ff9-4463-4c71-964d-2eeeed668ffc,technology.boston,available,88,28,10,,,
-124f29a5-f50d-4f5b-a7ad-9260364de900,technology.build,available,88,28,10,,,
-5642fa2a-e2f0-4c65-9c8d-0c68971f4945,technology.business,resell,88,28,10,"Spaceship, Inc.",28/02/2021 05:28,28/02/2026 05:28
-583411d3-6bed-4a9d-8802-b41b1f74fea4,technology.buzz,available,88,28,10,,,
-28a83c66-f320-45d0-9fed-dbd8afbc8a7f,technology.bz,resell,88,28,10,"humbly, LLC",12/04/2022 01:09,12/04/2026 01:09
-b4972d05-a27d-4529-8bc2-5089dfcee04a,technology.cab,available,88,28,10,,,
-0608ed34-c465-4ff2-b91e-49870bdd5858,technology.cafe,resell,88,28,10,"Chengdu West Dimension Digital Technology Co., Ltd.",30/05/2023 15:15,30/05/2026 15:15
-7f929947-d1d7-442b-bcc3-be8fe3dbf519,technology.cam,available,88,28,10,,,
-b2fa2725-d0d1-46e1-9628-fc98cafcc828,technology.camera,available,88,28,10,,,
-95bc4a66-b5ad-4acf-9b60-687127b17e5c,technology.car,available,88,28,10,,,
-ffb4c851-8c14-4b48-8d12-a98084089476,technology.careers,available,88,28,10,,,
-ea53b406-09e8-41fc-b1f9-c679f636895c,technology.cars,available,88,28,10,,,
-f8c78662-475c-4b9e-b484-968308390707,technology.casa,resell,88,28,10,Porkbun,20/01/2025 06:02,20/01/2026 06:02
-ea1c38ab-fa30-4c07-9322-6e1d45ac1855,technology.cash,available,88,28,10,,,
-107bbcfb-9642-486c-b310-b5c57b02f109,technology.casino,available,88,28,10,,,
-1aa7ae30-26fd-41a9-afe0-71b3f040f9c5,technology.catering,available,88,28,10,,,
-207a079d-5d1c-47d1-9727-68fd4ec3e3b0,technology.center,expiring,88,28,10,united-domains GmbH,15/09/2017 23:29,15/09/2025 23:29
-3cb20638-8438-4ace-bf40-2dbe7e9483f9,technology.cfd,available,88,28,10,,,
-fc2f1c12-61e2-4fa8-bca5-c74b41f690b4,technology.charity,available,88,28,10,,,
-25a52dfb-2969-4351-b62d-d44f46a5866a,technology.chat,available,88,28,10,,,
-858fd05e-eecc-4221-96c2-25cf1cc181a1,technology.christmas,expiring,88,28,10,Super Registry,21/09/2014 15:37,21/09/2025 23:59
-64febc1d-167d-4c23-a9aa-5cffaf6c9876,technology.church,resell,88,28,10,"Global Domains International, Inc. DBA DomainCostClub.com",01/06/2020 15:26,01/06/2026 15:26
-b1ae29c9-c2ad-442a-8065-251e23db153a,technology.city,available,88,28,10,,,
-52b71759-370d-4e98-a010-a0e0f7e37f47,technology.claims,available,88,28,10,,,
-4173edd1-372a-4c26-9b4e-98a826d2fa68,technology.cleaning,available,88,28,10,,,
-9b03b8c3-6028-45dc-a7a7-7b04999c05e3,technology.click,available,88,28,10,,,
-689a651a-d775-4d20-92c1-567bcc4f5203,technology.cloud,available,88,28,10,,,
-938c1d99-0fec-4673-9ec6-3eee336926d3,technology.club,resell,88,28,10,GoDaddy Online Services Cayman Islands Ltd.,08/12/2021 07:37,08/12/2032 07:37
-0c55a734-e193-456c-8cfc-8e4a900dd61e,technology.coffee,expired,88,28,10,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,25/06/2024 13:07,25/06/2025 13:07
-bc881f6a-9f6a-4881-bdad-6e50ad9ef42c,technology.college,available,88,28,10,,,
-ad7c9feb-f40d-4b52-93e4-0e44a7bd874a,technology.com,resell,88,28,10,Dynadot Inc,13/12/1994 05:00,12/12/2032 05:00
-687acd23-c8f0-44b9-bd8e-8cea2108fe93,technology.company,resell,88,28,10,"GoDaddy.com, LLC",24/06/2015 16:00,24/06/2026 16:00
-09e26a23-79de-4114-a31a-e6db79ab8609,technology.condos,available,88,28,10,,,
-7b4574db-b5d7-4b64-8d77-adee9c7f2e24,technology.consulting,available,88,28,10,,,
-b4719a1c-c0d4-4f6b-ae21-529662380853,technology.cooking,available,88,28,10,,,
-d69a46b8-cb60-4b72-91c1-b11c3146e28e,technology.cool,available,88,28,10,,,
-e88da3c0-7c6f-41fe-b67c-edd513b861f1,technology.country,available,88,28,10,,,
-5579b068-3b8b-414f-a12b-9f3d06997b2a,technology.coupons,resell,88,28,10,"Spaceship, Inc.",17/07/2025 12:25,17/07/2026 12:25
-28694d55-ce76-4b1a-b2c9-a2705dad104f,technology.courses,available,88,28,10,,,
-0b69e49a-f442-47bd-a744-4e711bc9ea7d,technology.credit,available,88,28,10,,,
-bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,88,28,10,,,
-74f7c0ac-b93b-4104-94a0-a12f19b5f9a7,technology.cricket,available,88,28,10,,,
-07fd7ab9-2a45-432c-a3b9-409047919305,technology.cruises,available,88,28,10,,,
-393a6e90-0333-47e9-8d00-e663ddfcb668,technology.dad,available,88,28,10,,,
-8a8c4c02-3845-4f61-9f30-7cb0b36eeb6a,technology.date,available,88,28,10,,,
-33204e5f-faac-4020-9f7e-863065e55d2f,technology.dating,available,88,28,10,,,
-1d2238eb-5f51-4972-9b15-a9e43049bab4,technology.day,available,88,28,10,,,
-16068de7-ed21-47fa-bec9-34e060ad4e81,technology.de,sold,88,28,10,,,
-c13b9c57-3134-4ec3-a036-303956da0d82,technology.dealer,available,88,28,10,,,
-83aca284-120e-4179-aff4-a7bc51de3bb3,technology.deals,available,88,28,10,,,
-98c2fb80-da8f-45fa-997a-52524c4c0765,technology.degree,available,88,28,10,,,
-a41fef63-05f1-48a5-b44c-6bd672ed35a1,technology.democrat,available,88,28,10,,,
-cf41e083-d45a-4fbe-b7ac-24b2658826ed,technology.dental,available,88,28,10,,,
-573f2843-2c51-4f78-923c-ac975acbbee2,technology.dentist,available,88,28,10,,,
-720aad22-e7e5-46e2-89a4-e3b6ab1ee0da,technology.design,available,88,28,10,,,
-bb15e6c8-deef-4288-97d8-9920dbfab2b1,technology.dev,available,88,28,10,,,
-c90052aa-731d-4900-b150-f8a83cdcdaff,technology.diamonds,available,88,28,10,,,
-c3d89880-3637-4965-9ff3-7bf5e8682acf,technology.diet,available,88,28,10,,,
-48d0f743-772d-459d-a4e0-670aca280499,technology.digital,available,88,28,10,,,
-47dff4c5-8691-4e06-9199-683151d48f98,technology.direct,available,88,28,10,,,
-b4980960-4935-40d8-8d8e-0a483e13aa58,technology.discount,available,88,28,10,,,
-0d959e09-6ccc-47b6-8f0f-296ba8d2a765,technology.diy,available,88,28,10,,,
-54843b16-e51b-47e3-8315-4e25c1b4816a,technology.doctor,available,88,28,10,,,
-c2324451-9e12-4d61-b0bd-9262e68901cb,technology.dog,available,88,28,10,,,
-12d5274c-5617-4318-89ba-00eb75edb533,technology.domains,available,88,28,10,,,
-48002019-4e68-4c4f-a020-bb03ed6f26a0,technology.download,available,88,28,10,,,
-a5b5b390-08a8-440e-9535-5356ac553f13,technology.energy,available,88,28,10,,,
-47ab468f-fc1b-4ce6-911e-6293b6b4e223,technology.engineer,available,88,28,10,,,
-514edac2-c742-45d3-bb04-fe219883fea2,technology.enterprises,resell,88,28,10,Porkbun LLC,27/04/2022 13:15,27/04/2026 13:15
-b688a579-b28c-4ca6-9ffd-b9d085303ad2,technology.equipment,expiring,88,28,10,"Sav.com, LLC",08/09/2020 10:21,08/09/2025 10:21
-65cc8e65-d617-4c0b-b280-02a94ed86acf,technology.esq,available,88,28,10,,,
-1dd7cad6-5afd-4f6d-963f-705b1d5e7f2a,technology.estate,available,88,28,10,,,
-500a3580-bb4d-47ad-80bc-525fc6fd08b5,technology.eu,expired,88,28,10,Name: IONOS SE Website: https://ionos.com,,
-67c9c692-a677-4ad8-b29e-5102dfc3e492,technology.exposed,available,88,28,10,,,
-9daa687a-18ff-4aab-a662-ef7c5a0077b1,technology.express,available,88,28,10,,,
-accb77b4-1cc0-4176-9217-87739955271e,technology.fail,available,88,28,10,,,
-cec124c1-1605-4f21-ae8f-365737f6d66b,technology.faith,available,88,28,10,,,
-2f3dcad9-2a21-4256-b748-f26baa6c03fb,technology.family,available,88,28,10,,,
-35d57826-58ca-4b77-98e3-928c942cfdcf,technology.fan,available,88,28,10,,,
-c759cf51-ca4f-4189-93fd-4142d94f8e0a,technology.fans,available,88,28,10,,,
-99edcc27-31ca-47ad-a213-859a348e98e6,technology.farm,resell,88,28,10,"GoDaddy.com, LLC",11/12/2024 14:54,11/12/2026 14:54
-d5e4c893-a825-4adb-a132-dc842a85ca8e,technology.fashion,available,88,28,10,,,
-43b8ac03-ff6d-4dfa-bb74-f2293ee195a0,technology.film,available,88,28,10,,,
-3e87b0e6-a2ee-468a-b24f-5629e30eba67,technology.finance,expiring,88,28,10,GoDaddy Online Services Cayman Islands Ltd.,28/09/2014 10:44,28/09/2025 10:44
-86f35571-ae1b-4d27-adf9-b94ed0293a89,technology.financial,available,88,28,10,,,
-7521d709-3693-45db-892e-944a54f12d11,technology.fish,available,88,28,10,,,
-1b6989c7-6c88-4544-81fa-ca5f7b6f1e57,technology.fishing,available,88,28,10,,,
-6d548f1b-685b-4a0c-b6ac-e5ebee4e917e,technology.fit,available,88,28,10,,,
-249a39f2-1b02-4b2a-a697-7c97802debb8,technology.fitness,available,88,28,10,,,
-7c10c8d5-c4dd-4a9a-acf4-6be38323e88e,technology.flights,available,88,28,10,,,
-f9e6360c-806e-4fa7-8d0e-4310b7d6dbc4,technology.florist,available,88,28,10,,,
-65598944-4a8a-45ba-bab6-f78c4399d7c4,technology.flowers,available,88,28,10,,,
-86e85c11-a67a-4f54-9d51-d2c8b7b1ddf0,technology.fm,resell,88,28,10,Instra Corporation Pty Ltd,17/07/2013 23:59,17/07/2026 23:59
-8fbf9369-a799-4e44-81a6-0ae7be8e0289,technology.foo,available,88,28,10,,,
-c969143b-b74b-4aea-8c76-52ef2c3949cd,technology.food,available,88,28,10,,,
-bf247ba2-ea2e-48d8-8166-29163185ce2a,technology.forsale,available,88,28,10,,,
-0631f799-beeb-40c4-ad81-5ce5bb1f143b,technology.fun,available,88,28,10,,,
-c19a2f6b-40b1-4e20-ba63-40131ec789d9,technology.fund,available,88,28,10,,,
-5daec17f-87b7-4930-bb0b-b8e445f5a3ff,technology.furniture,available,88,28,10,,,
-019a161a-dbc1-4513-9b83-f555058effaf,technology.futbol,available,88,28,10,,,
-5c3fbe5a-4304-4fba-9933-09498377be36,technology.fyi,resell,88,28,10,"GoDaddy.com, LLC",04/08/2023 04:38,04/08/2026 04:38
-627ebb37-d6da-4633-8c5c-2151c609a695,technology.gallery,available,88,28,10,,,
-35076bc7-183a-476a-a559-6df835a4e4c2,technology.game,available,88,28,10,,,
-31898edf-2161-49ce-ba35-281a1c94f6fd,technology.games,available,88,28,10,,,
-1a1c1771-3b37-46f2-a9ba-7e3431c4e4ad,technology.garden,available,88,28,10,,,
-78f1913a-cc4f-4072-8715-67e0c06270d5,technology.gay,resell,88,28,10,"GoDaddy.com, LLC",01/06/2023 14:34,01/06/2026 14:34
-4b19a964-9c4e-40af-b2c4-343528638f05,technology.gg,resell,88,28,10,Docky Company (https://docky.ly),,
-5d4ea070-2b86-471d-9758-fb1d956efc69,technology.gives,available,88,28,10,,,
-f41a2d49-d2b0-46d4-8fb5-727f9e22c09f,technology.giving,available,88,28,10,,,
-2ff8a4d8-620c-4f45-affc-411450f25541,technology.glass,available,88,28,10,,,
-dae49ccd-e6e7-4a3c-94b8-12ad4dacbcd7,technology.global,available,88,28,10,,,
-31097413-844b-4a42-8d52-2227228ec7f5,technology.golf,available,88,28,10,,,
-efe456b3-999c-4fa7-b404-aff003f05ef0,technology.gratis,available,88,28,10,,,
-d016b67d-a084-46d8-9a90-16dcb6b715b3,technology.green,available,88,28,10,,,
-9693b1d5-1345-4c00-b166-7aef1b1e10c2,technology.gripe,available,88,28,10,,,
-cfebbf15-00a6-43ab-9ec6-ec3ab54eccc0,technology.guide,expiring,88,28,10,Porkbun LLC,14/09/2014 16:09,14/09/2025 16:09
-884ee9fc-7cb2-48c6-a855-ec3890a9977b,technology.guitars,available,88,28,10,,,
-a1973798-55ee-483c-af0f-ffc6a8686299,technology.hair,available,88,28,10,,,
-2ecae870-5559-409d-a9a4-65d8a84af30f,technology.healthcare,available,88,28,10,,,
-230bcac8-4ae0-4749-9f2b-e36e183a017a,technology.hiphop,available,88,28,10,,,
-b6c869f9-1a2c-4390-b960-dc259ee92b11,technology.hiv,available,88,28,10,,,
-84089002-4b2f-49ec-8f57-3640e2f6be93,technology.hockey,available,88,28,10,,,
-c946538b-ee51-45fe-9697-4c3ab8138352,technology.holdings,expired,88,28,10,"Sav.com, LLC",23/06/2022 21:15,23/06/2025 21:15
-4d8a8786-423f-4574-88e9-c344c723f386,technology.holiday,available,88,28,10,,,
-74246c39-5046-467d-a847-e31d57aab9c4,technology.homes,available,88,28,10,,,
-b9c762aa-0d5c-40b2-ab17-e281244c0761,technology.horse,available,88,28,10,,,
-374ebc0d-94bc-4d8f-909b-706b96d9e0fb,technology.hospital,available,88,28,10,,,
-6c8e6652-216c-4d6d-b82f-42d8f1083d19,technology.host,available,88,28,10,,,
-0efa2611-df4c-45f1-8446-aac10c5f3072,technology.hosting,available,88,28,10,,,
-2b6406b8-63d8-4b86-aec1-fe461cec9079,technology.hot,available,88,28,10,,,
-d9309b3c-a7af-4754-b552-3be716bafb9e,technology.house,resell,88,28,10,"Sav.com, LLC",25/02/2021 06:52,25/02/2026 06:52
-c45ace58-060c-4135-a96a-90771fec803d,technology.im,available,88,28,10,,,
-25e949e1-6852-4e1c-80e7-2f3e86da6057,technology.immo,available,88,28,10,,,
-451cb813-baac-4a0b-a797-6c26ccd52665,technology.immobilien,available,88,28,10,,,
-f0cf1666-8723-4223-bf08-ddbde8864abf,technology.inc,available,88,28,10,,,
-2172b636-8b9a-49a9-ae59-a30cc5427d2b,technology.industries,available,88,28,10,,,
-014594b8-9f2c-4d96-9bf5-a53b39c0a772,technology.ing,available,88,28,10,,,
-be1c42bf-0d94-4d13-9f63-2c24b759d199,technology.insure,expiring,88,28,10,"GoDaddy.com, LLC",10/09/2014 16:26,10/09/2025 16:26
-2cdca74c-e58a-466d-b1b6-f0e6d776716e,technology.international,resell,88,28,10,Dynadot Inc,02/07/2020 23:18,02/07/2026 23:18
-b020ecc2-f134-4a09-a7c3-205e748cbd20,technology.investments,available,88,28,10,,,
-a49a8240-7808-4c46-a01a-6884d971fec8,technology.jetzt,available,88,28,10,,,
-707ffc77-b2a1-46cc-b8b2-b9232b6a8c1f,technology.jewelry,available,88,28,10,,,
-23cb2b0d-8e94-46df-90bd-73210c6ac04b,technology.juegos,available,88,28,10,,,
-5ba6efad-4bc4-4e35-a5d0-eb6c7e38ed54,technology.kaufen,available,88,28,10,,,
-e2c8dbeb-208f-4aff-81a7-00c33bb3bdb4,technology.kim,available,88,28,10,,,
-ab585a23-11b9-460a-84a1-6626bc90110b,technology.kitchen,available,88,28,10,,,
-566005eb-dc90-4938-ac2b-fe7981216a77,technology.land,available,88,28,10,,,
-1a8b0cf8-8a80-49e9-889d-6a100c5235a9,technology.lat,resell,88,28,10,"Spaceship, Inc.",16/02/2025 15:09,16/02/2026 23:59
-7f48b4dd-4047-4b64-9ee7-2104078fe12d,technology.law,expired,88,28,10,101domain GRS Limited,30/06/2017 02:57,30/06/2025 02:57
-600f2bcd-a78d-4cbd-b2cd-d12880a64a5f,technology.lawyer,available,88,28,10,,,
-1e38a0dc-e5a7-4a34-878c-be050b52aab7,technology.lease,available,88,28,10,,,
-40393cfe-90ec-4ecd-888b-5956941b5b8e,technology.life,expiring,88,28,10,"Sav.com, LLC",06/09/2020 11:24,06/09/2025 11:24
-3cd29bc7-4d38-4a6a-a22a-ff237429078c,technology.lifestyle,available,88,28,10,,,
-6d4a0b67-c9ac-4979-b6c2-1b9a4d610373,technology.lighting,available,88,28,10,,,
-99f0245b-9411-4177-b16f-18c279c5c578,technology.limo,available,88,28,10,,,
-8970d3d8-68fa-43d3-bb89-634fe9cf328e,technology.link,resell,88,28,10,NAMECHEAP,23/08/2020 20:52,23/08/2026 20:52
-97d36b3b-8bc2-45a9-a464-e5d0e8ab3990,technology.live,available,88,28,10,,,
-a21b3f1e-99e7-44ff-a6d3-0da2535a7a4c,technology.living,available,88,28,10,,,
-9c56edbc-10e9-4fa3-86c5-b9b1f4362e2d,technology.llc,available,88,28,10,,,
-bad16a71-adc7-4085-87b7-3dcc6d3cffa6,technology.loan,available,88,28,10,,,
-cfae5068-3abb-4f36-b4bf-876a2448000a,technology.locker,available,88,28,10,,,
-4e81511d-ce3d-48bd-b3f8-bac55a7401b7,technology.lol,available,88,28,10,,,
-2ac43326-f067-4715-9298-b49d3f1153a2,technology.love,available,88,28,10,,,
-1be50f68-ec06-4c40-a503-b03e253ea6ac,technology.ltd,resell,88,28,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 08:39,21/06/2026 08:39
-700d6691-6f52-47a3-a139-9c6698ee68cd,technology.ltda,available,88,28,10,,,
-8268c4fa-a296-4a24-bfa7-3fac91230dfb,technology.luxe,available,88,28,10,,,
-dfc4bf00-bbad-4170-866f-8c25bf04cabd,technology.luxury,available,88,28,10,,,
-e871475f-6ccc-414f-a815-b217afb44064,technology.maison,available,88,28,10,,,
-73d5f722-2fdd-422d-8713-ee8a937cc570,technology.makeup,available,88,28,10,,,
-a6a61b4a-b400-40ce-8438-e673ac8045c3,technology.market,available,88,28,10,,,
-17c9ff3e-6b68-43cf-9303-eb19f92825f8,technology.marketing,resell,88,28,10,"Name.com, Inc.",16/04/2014 16:00,16/04/2026 16:00
-905e5bb5-d870-47c3-ba6f-b57b970ae0ce,technology.me,resell,88,28,10,"GoDaddy.com, LLC",29/04/2008 18:03,29/04/2026 18:03
-1958e5e5-d25b-4d3e-9aff-bba52b0fb0ef,technology.melbourne,available,88,28,10,,,
-501ea821-21e2-448b-8310-e229b4524126,technology.meme,available,88,28,10,,,
-7c10807a-bfa6-4f88-8fab-bcb09d52dcbd,technology.memorial,available,88,28,10,,,
-13163b78-266b-478c-b2df-3d6a91a6a158,technology.men,available,88,28,10,,,
-9c010a49-44c2-495d-9031-f9ba7120d888,technology.miami,expiring,88,28,10,Go Australia Domains Inc,02/10/2015 16:00,02/10/2025 16:00
-52e2512f-4113-4d00-9500-a3c87df44085,technology.mobi,available,88,28,10,,,
-2e91fcf2-ef1f-42c6-8f63-23c5f1812bc4,technology.moda,available,88,28,10,,,
-e8003161-8d97-44dc-b590-a7cfbaae12fe,technology.moe,available,88,28,10,,,
-d8a9b3db-3e90-489f-b99a-3a750b8a2a11,technology.mom,available,88,28,10,,,
-5324c1d7-0b0f-4e78-9339-ce28d52a64bb,technology.motorcycles,available,88,28,10,,,
-8e8c53ac-c729-486b-9089-b8e4aa5be52f,technology.mov,available,88,28,10,,,
-b53a4554-a00b-4b5c-9fc9-740b37c7ec06,technology.movie,available,88,28,10,,,
-f395288f-b77f-4d79-a92c-261e5f76ecf2,technology.music,available,88,28,10,,,
-65faae9e-7974-4a35-bcc2-9cf6fe029081,technology.mx,resell,88,28,10,Dynadot Inc,17/03/2025 00:00,17/03/2026 00:00
-1abfd7a9-d1fc-4946-868f-dd9594179a2a,technology.my,expiring,88,28,10,Exabytes Network Sdn Bhd,01/10/2017 16:00,01/10/2025 16:00
-a6fb8864-e25e-4bf2-b2e2-9a0d2db647ec,technology.navy,available,88,28,10,,,
-ddfef516-721c-498c-982f-a7a6f810a0a1,technology.network,resell,88,28,10,Dynadot Inc,03/05/2018 02:33,03/05/2026 02:33
-04d1c45b-c6d4-4004-a031-0fd3503991f2,technology.ngo,available,88,28,10,,,
-23316b9d-773b-45b6-95d0-7dd6c56a070b,technology.ninja,available,88,28,10,,,
-d247c659-d243-4d4a-9b69-075ac9ab6e3b,technology.nyc,available,88,28,10,,,
-344ac966-d442-4e4f-b16a-279050d86c16,technology.ong,available,88,28,10,,,
-f8c49b80-3559-42e8-b67a-614b51f48af9,technology.onl,available,88,28,10,,,
-c0c20c0c-ed9c-4023-b5d3-e42b96711fd6,technology.ooo,available,88,28,10,,,
-ac7f8c40-303d-41c7-a3fe-21dda8971406,technology.organic,available,88,28,10,,,
-345f8587-ded0-46ec-9423-2352fb853f4d,technology.osaka,available,88,28,10,,,
-03850819-a244-47c5-a37c-a6611bb5d842,technology.page,available,88,28,10,,,
-f95d9a3f-e6c2-41fb-b3c0-f00f3b04eca2,technology.parts,available,88,28,10,,,
-aee989fb-0d50-4712-a89f-354a1c20ae09,technology.party,available,88,28,10,,,
-f413160e-e864-448b-93fe-08cf1756f73d,technology.phd,available,88,28,10,,,
-539cf1fd-a3b9-418c-a6f5-7981a4892e4b,technology.photo,available,88,28,10,,,
-92c38f96-b730-40e4-9bca-052714270c83,technology.photos,available,88,28,10,,,
-dcf332d6-6ab3-4bbf-9438-11ae052e6eac,technology.pics,resell,88,28,10,Dynadot LLC,09/07/2025 16:54,09/07/2026 23:59
-f69eb1a8-721c-43e0-809c-1a2607582fb6,technology.pictures,available,88,28,10,,,
-c4c1abbd-b330-4062-b7eb-7dcca39ad7b7,technology.pink,available,88,28,10,,,
-7eb5e1d3-5314-4362-85ee-b9c78c7ac851,technology.pizza,available,88,28,10,,,
-231b42d5-934b-4c69-a9b1-547437d517da,technology.plumbing,available,88,28,10,,,
-da00f462-0934-4dc0-b897-eae0f581d8ad,technology.plus,expiring,88,28,10,"Spaceship, Inc.",20/09/2021 17:00,20/09/2025 17:00
-79f227fe-0ffb-48e0-9360-80bb7e62750a,technology.poker,available,88,28,10,,,
-7e7d986f-f8e1-4bab-866f-bf22a06371ba,technology.porn,available,88,28,10,,,
-52ebd963-1bbf-44a5-b58e-1885bba02675,technology.press,available,88,28,10,,,
-f19c0929-8f0e-4bce-a835-960043657268,technology.productions,available,88,28,10,,,
-1037e13b-9fdc-4048-8373-54edee451bbf,technology.prof,available,88,28,10,,,
-8bf4d71c-18e7-4760-84c2-0ea5e7cdd5e2,technology.promo,available,88,28,10,,,
-1f620e01-7d61-4948-8520-75f694fe8b15,technology.properties,available,88,28,10,,,
-2e5092a8-1dee-4b7c-b182-cdeb230505f2,technology.property,available,88,28,10,,,
-0e276dd0-ff66-4961-a276-b6a015c78989,technology.protection,available,88,28,10,,,
-2262b4c8-f82c-4d79-aeb0-d7688be971f1,technology.pub,resell,88,28,10,"Chengdu West Dimension Digital Technology Co., Ltd.",28/01/2018 02:35,28/01/2026 02:35
-4fc8b90c-c204-41a5-a8c6-c806b0c8e243,technology.pw,available,88,28,10,,,
-6087d589-5a36-4130-b25f-ee06922b7404,technology.qpon,available,88,28,10,,,
-f01fa3c1-9e25-4283-bb7c-6bd4b6c4fff3,technology.quest,available,88,28,10,,,
-3e8fe5b9-b745-4088-8f50-88b65737e332,technology.racing,available,88,28,10,,,
-e9f30b2d-115d-4cf5-a16d-b4006e78ef9d,technology.realty,available,88,28,10,,,
-f5ed4f23-6b83-4959-b35b-be4b631d2447,technology.recipes,available,88,28,10,,,
-931596a2-203a-4aef-93b4-dd0ec9ad9e6f,technology.red,available,88,28,10,,,
-187bc964-655b-4c1c-b509-7e642dcd4c67,technology.rehab,available,88,28,10,,,
-e88a7f61-5e18-4e02-b747-c8ceb26ee451,technology.reise,available,88,28,10,,,
-703b7622-c697-4b09-b8aa-dd1f7830de94,technology.reisen,available,88,28,10,,,
-4f637cbb-eda9-43fa-b641-7c41f7235969,technology.rent,available,88,28,10,,,
-b54ba074-af3f-4561-88eb-3df2d68ab010,technology.rentals,available,88,28,10,,,
-2813cd2f-c35e-4b4f-b559-0ad59b78ec15,technology.report,resell,88,28,10,Dynadot Inc,05/05/2020 08:35,05/05/2026 08:35
-b6ed53a5-c9c2-4a75-b6bf-26cb471ff7fc,technology.republican,available,88,28,10,,,
-e9287129-2939-41d5-82de-0bde773c8e9c,technology.rest,available,88,28,10,,,
-0b8698dc-fbc6-493b-8824-a670254ce76a,technology.review,expiring,88,28,10,Safenames Ltd,20/09/2016 11:51,19/09/2025 23:59
-8f6d57a4-b4f5-4dce-8a29-96723a5e6515,technology.rich,available,88,28,10,,,
-434859cb-c586-443b-802c-a04de2f0774a,technology.rip,resell,88,28,10,Dynadot Inc,25/06/2025 17:01,25/06/2026 17:01
-4552ccb3-1dcd-4fd2-908f-4f62e74bcaf5,technology.rodeo,available,88,28,10,,,
-746bad67-ec61-4683-91e9-677f785a0e59,technology.rsvp,available,88,28,10,,,
-8750898e-112a-423e-8a5d-2566bc2c84bd,technology.run,resell,88,28,10,"Chengdu West Dimension Digital Technology Co., Ltd.",03/09/2021 17:00,03/09/2026 17:00
-0beb7bc7-d5cc-400f-b665-f4a63c8d92fe,technology.sale,available,88,28,10,,,
-ccd542e2-31a7-4abd-a82a-b09744f3819c,technology.salon,available,88,28,10,,,
-cb38f7d3-8d1e-47c3-9486-8bb18fc104be,technology.sarl,available,88,28,10,,,
-ff7355dd-a28d-4365-8049-53fff70f7b62,technology.sbs,available,88,28,10,,,
-dff308b8-50c0-419e-a1bb-172084d92e58,technology.schule,available,88,28,10,,,
-37034893-368f-4b88-8ace-19e8f3d9eb4c,technology.science,available,88,28,10,,,
-5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,88,28,10,,,
-a4d18501-69fd-4f2f-aed7-9877253ed8cc,technology.sexy,available,88,28,10,,,
-92d3a58f-90f5-443d-8df8-cc6800115711,technology.shiksha,available,88,28,10,,,
-ecdb5173-ff8c-43a7-9a15-7866934a9416,technology.shopping,available,88,28,10,,,
-1dcd152a-3805-440e-969a-7c97590c1964,technology.singles,available,88,28,10,,,
-196db482-b72d-4dc6-9bd3-0642a3abce86,technology.site,available,88,28,10,,,
-72ebf1df-48b7-49be-a4e9-bcd521651d75,technology.ski,available,88,28,10,,,
-a68fdef4-347b-49a1-b427-eabb92914d9d,technology.skin,available,88,28,10,,,
-521dc422-51e0-4946-9f95-2d6324d45361,technology.so,resell,88,28,10,SOSTEC TECHNOLOGIES_LR,08/09/2021 07:38,08/09/2025 07:38
-98dae784-9c10-4e77-ae20-20a7650b5539,technology.social,available,88,28,10,,,
-6b01f33b-1f70-48c5-9f83-2b66b6374ef8,technology.soy,available,88,28,10,,,
-91e6ca2d-54b5-4cff-b546-acb8627dca6f,technology.space,available,88,28,10,,,
-3408d465-dbd5-412d-b8b0-0fe5288656de,technology.spot,available,88,28,10,,,
-029fbd6e-23f4-40a9-a17f-6367844f9ea3,technology.srl,available,88,28,10,,,
-ca8f3d2c-5575-4fed-9527-b768130ee213,technology.storage,available,88,28,10,,,
-1ffc2444-71da-48c5-b40a-d184fc85e2f9,technology.store,available,88,28,10,,,
-e796ec4f-5216-48c2-9650-5673e6fcd762,technology.stream,available,88,28,10,,,
-e942fcff-0754-449f-92d9-0470e5cb115d,technology.study,available,88,28,10,,,
-0b341698-47e1-4512-9df9-2bfcd858395b,technology.supplies,available,88,28,10,,,
-b1b93944-36c7-406a-898c-8a977f5527cb,technology.supply,available,88,28,10,,,
-06812a91-01b3-4821-a146-f55d259a2701,technology.surgery,available,88,28,10,,,
-388ebd26-8f7d-4437-823c-58f22adfbaaf,technology.sydney,available,88,28,10,,,
-8edbc9c3-c88f-4267-83a3-b52f63aa1b73,technology.systems,resell,88,28,10,Dynadot Inc,02/01/2018 08:12,02/01/2026 08:12
-77ac138b-c503-4900-92af-d930827b6478,technology.tattoo,available,88,28,10,,,
-123219f0-f2db-47ad-8a62-b0adfab0d149,technology.tax,available,88,28,10,,,
-00c9a244-3da0-4033-95a8-2d622986dbae,technology.tech,available,88,28,10,,,
-5f30c464-c188-421f-be6a-c36f1acec6cc,technology.tennis,available,88,28,10,,,
-97ea94b1-af69-4d67-bb1d-32f53b3f0488,technology.theater,available,88,28,10,,,
-9d655ce0-ca61-48b1-83b6-bc0435889952,technology.theatre,available,88,28,10,,,
-3d09c796-fbb9-40da-9172-0d99875f5a7a,technology.tickets,available,88,28,10,,,
-605af222-8801-493e-8a9b-c105542b9745,technology.tienda,available,88,28,10,,,
-696df593-6079-4c1d-868d-3330b2648b0a,technology.tips,available,88,28,10,,,
-9e8ae662-de1e-4d4b-b16a-803637f101c6,technology.tires,available,88,28,10,,,
-031d8438-c794-4e06-b830-edb6791eef63,technology.today,resell,88,28,10,"GoDaddy.com, LLC",22/09/2019 22:40,22/09/2026 22:40
-541cba36-792e-4e0e-a479-9ceafc38d1db,technology.tools,available,88,28,10,,,
-b5f724cf-1fec-4e0d-8441-76da5c86e88a,technology.tours,resell,88,28,10,"Sav.com, LLC",22/01/2025 17:11,22/01/2026 17:11
-ae1b4570-60dd-4335-be91-fdfaa3c710e9,technology.town,available,88,28,10,,,
-7e4de769-ceeb-4c07-86f3-acc5e7b8d027,technology.toys,available,88,28,10,,,
-f57b7d99-17cb-4de4-b183-21080d5f0e34,technology.trade,available,88,28,10,,,
-12637c3a-6941-4b94-8246-1c55320c8ab7,technology.tv,resell,88,28,10,Dynadot Inc,08/06/2007 08:01,08/06/2026 08:01
-70fce0e8-4580-44b8-97f0-9ad33d32df06,technology.uno,available,88,28,10,,,
-f8f93e47-f75b-445e-b981-812ac114715d,technology.vacations,available,88,28,10,,,
-c4a4a8ef-0993-4e6e-87da-ac3187ae6784,technology.vana,available,88,28,10,,,
-3dda7aca-9840-48b2-9408-f59b044141c9,technology.vc,resell,88,28,10,"Sav.com, LLC",07/03/2017 01:05,07/03/2026 01:05
-1ca0901c-68a6-47eb-9cca-45fad17d43fa,technology.ventures,resell,88,28,10,"GoDaddy.com, LLC",04/02/2014 04:58,04/02/2026 04:58
-24d0d35d-73bb-44df-868e-9efbd0b9c86d,technology.vet,available,88,28,10,,,
-041d8fa8-24d1-4179-9c7a-50d45658932e,technology.viajes,available,88,28,10,,,
-ca628981-3015-49b9-b7d2-6b16fe3a8d28,technology.video,available,88,28,10,,,
-9034b19e-75cf-4c4e-8ad9-184d8fc998ad,technology.villas,available,88,28,10,,,
-9ac05c7d-6080-4417-b116-4b7ecafa4802,technology.vin,available,88,28,10,,,
-9bb298af-1711-435e-9718-3d9c217eb435,technology.vision,available,88,28,10,,,
-b047b92e-b2b7-47ff-93af-5a82647e4a75,technology.vodka,available,88,28,10,,,
-4414f220-c8af-40af-ba5d-693c8d6aa3bd,technology.voting,available,88,28,10,,,
-281b788c-8104-4cec-85a7-6c3ab2f3ec66,technology.voto,available,88,28,10,,,
-b9c03e21-b6bd-4277-bd70-2aa78f94f015,technology.watch,available,88,28,10,,,
-b180fbfc-835c-4d9a-b45b-b6f2daf4a8ee,technology.webcam,available,88,28,10,,,
-46f81fd5-6cf2-4f64-ba87-6111d08ea512,technology.website,available,88,28,10,,,
-f72ab1da-3f2e-491b-8939-d840af42efad,technology.wedding,available,88,28,10,,,
-fd61d8a4-f96c-46ed-938f-bce2ed56d54f,technology.win,available,88,28,10,,,
-066aa850-fc67-4840-b787-7de14f920215,technology.wine,available,88,28,10,,,
-7bfbbf60-261f-48c9-a77a-8253c2043801,technology.world,resell,88,28,10,Epik LLC,19/06/2020 09:26,19/06/2026 09:26
-3955257c-9cbe-426c-932f-4df917697a4d,technology.xyz,available,88,28,10,,,
-b1377b5e-c877-494c-ab5b-721f4c40fbfd,technology.yachts,available,88,28,10,,,
-f6f26487-630c-463d-b4e2-e002da4a89fe,technology.yoga,resell,88,28,10,Porkbun,13/03/2023 04:01,13/03/2027 04:01
-94b890cd-d0aa-4486-aebe-cb4bbfd01111,technology.zip,available,88,28,10,,,
-64cf6740-f3ac-4558-ae3f-b7cb0de6ef61,technology.zone,resell,88,28,10,Porkbun LLC,29/04/2014 08:33,29/04/2026 08:33
+7f44037d-c6d6-417a-b41e-8dab2e891674,technology.ac,available,88,26,10,,,
+9e73c966-a110-42ae-ba03-30ca7aa74408,technology.accountant,available,88,26,10,,,
+917d9aa6-9b9f-48c8-abdc-3a72b63b0bdc,technology.accountants,available,88,26,10,,,
+aa42d8d7-5f14-4eff-9297-8007ea62913b,technology.actor,available,88,26,10,,,
+365e4c88-f426-44d5-8e3d-31a182ae9db8,technology.adult,available,88,26,10,,,
+f5f9cbdf-8655-4d00-8956-1ce252ac83c2,technology.airforce,available,88,26,10,,,
+cd04f1ff-00ca-423e-86b8-e5151ba8f324,technology.apartments,available,88,26,10,,,
+3ac86e5a-5216-4a51-ba6b-1be0b1ac7a11,technology.app,expiring,88,26,10,Namecheap Inc.,06/01/2022 19:49,06/01/2026 19:49
+ca9b1a4a-1a6c-4449-a752-cfff5d402eaa,technology.archi,available,88,26,10,,,
+b12808e9-7b5c-423e-8290-01df50d37902,technology.army,available,88,26,10,,,
+aa55f926-e1e6-4c5d-9e9e-018ca227cb51,technology.art,available,88,26,10,,,
+2604bf72-dddb-4064-a497-f4f0df419dc3,technology.asia,resell,88,26,10,"Spaceship, Inc.",25/09/2008 05:03,25/09/2026 05:03
+7f4f62cc-9476-49c9-bef1-481d737e4dc0,technology.associates,expiring,88,26,10,"NameCheap, Inc.",03/01/2024 21:37,03/01/2026 21:37
+1a3c3f39-a9e9-4e50-aef6-fbefe1f7a5a4,technology.attorney,available,88,26,10,,,
+df881d48-7d4b-4ca0-af01-8316f94a1e66,technology.auction,available,88,26,10,,,
+c0b617f0-60da-474c-a758-88769fe95b73,technology.audio,available,88,26,10,,,
+f5e63cf1-0d29-4223-9625-d2f954d5351e,technology.auto,available,88,26,10,,,
+102e544d-4bb6-4bf7-902a-41bcc39f2d43,technology.autos,available,88,26,10,,,
+dce89190-39c9-4a30-8fae-63bcc7c94a7b,technology.baby,available,88,26,10,,,
+f18818bc-017d-4ca2-90d6-043569a19f02,technology.band,available,88,26,10,,,
+8cc48283-0a66-4ab4-a49b-7c82e2bdb657,technology.bar,available,88,26,10,,,
+9f8a5b4f-d26c-43e7-96de-4df5d7043e1c,technology.bayern,available,88,26,10,,,
+9461d1e8-9c1a-4ffa-96f1-4cf33a96488b,technology.beauty,available,88,26,10,,,
+487aca36-77fc-4698-8485-1b57783fa0f1,technology.berlin,available,88,26,10,,,
+394649f1-d284-4d1b-b589-9c025e25c4fe,technology.bike,available,88,26,10,,,
+00fa979d-2941-4ca0-b376-2ddf282dc7b9,technology.bingo,available,88,26,10,,,
+ec34e302-26ed-4d62-9e19-ff811e76a91d,technology.bio,available,88,26,10,,,
+72753fbf-d0c2-413b-8f12-b9d6ef062516,technology.biz,resell,88,26,10,"GoDaddy.com, LLC",02/06/2004 17:14,01/06/2026 23:59
+7f230c5a-a603-40c0-a430-6a7cdddbb34a,technology.blackfriday,available,88,26,10,,,
+df851e9e-9935-46b0-bb96-798472c9bf07,technology.blog,available,88,26,10,,,
+70235fa8-8d4e-41f8-8520-936de1143a6f,technology.blue,available,88,26,10,,,
+144d348d-8e47-47ba-bfea-283053e850b6,technology.boats,available,88,26,10,,,
+057542ee-ecfc-4aec-b683-ea91cf19f336,technology.boo,available,88,26,10,,,
+72142ff9-4463-4c71-964d-2eeeed668ffc,technology.boston,available,88,26,10,,,
+7ff3a7cd-858f-4051-ac98-fc094381ef4c,technology.bot,available,88,26,10,,,
+124f29a5-f50d-4f5b-a7ad-9260364de900,technology.build,available,88,26,10,,,
+5642fa2a-e2f0-4c65-9c8d-0c68971f4945,technology.business,resell,88,26,10,"Spaceship, Inc.",28/02/2021 05:28,28/02/2026 05:28
+583411d3-6bed-4a9d-8802-b41b1f74fea4,technology.buzz,available,88,26,10,,,
+28a83c66-f320-45d0-9fed-dbd8afbc8a7f,technology.bz,resell,88,26,10,"humbly, LLC",12/04/2022 01:09,12/04/2026 01:09
+b4972d05-a27d-4529-8bc2-5089dfcee04a,technology.cab,available,88,26,10,,,
+0608ed34-c465-4ff2-b91e-49870bdd5858,technology.cafe,resell,88,26,10,"Chengdu West Dimension Digital Technology Co., Ltd.",30/05/2023 15:15,30/05/2026 15:15
+7f929947-d1d7-442b-bcc3-be8fe3dbf519,technology.cam,available,88,26,10,,,
+b2fa2725-d0d1-46e1-9628-fc98cafcc828,technology.camera,available,88,26,10,,,
+c11528d6-3da5-47ab-a07b-49d9ae75760d,technology.camp,resell,88,26,10,"Sav.com, LLC - 15",07/11/2025 15:16,07/11/2026 15:16
+51f6150f-dee6-4e82-8223-b1278c98dc02,technology.capital,available,88,26,10,,,
+95bc4a66-b5ad-4acf-9b60-687127b17e5c,technology.car,available,88,26,10,,,
+ffb4c851-8c14-4b48-8d12-a98084089476,technology.careers,available,88,26,10,,,
+ea53b406-09e8-41fc-b1f9-c679f636895c,technology.cars,available,88,26,10,,,
+f8c78662-475c-4b9e-b484-968308390707,technology.casa,resell,88,26,10,Porkbun,20/01/2025 06:02,20/01/2026 06:02
+ea1c38ab-fa30-4c07-9322-6e1d45ac1855,technology.cash,available,88,26,10,,,
+107bbcfb-9642-486c-b310-b5c57b02f109,technology.casino,available,88,26,10,,,
+1aa7ae30-26fd-41a9-afe0-71b3f040f9c5,technology.catering,available,88,26,10,,,
+207a079d-5d1c-47d1-9727-68fd4ec3e3b0,technology.center,sold,88,26,10,united-domains GmbH,15/09/2017 23:29,15/09/2026 23:29
+d1eb0460-9bc4-4079-b022-8a54e769b7da,technology.ceo,resell,88,26,10,Dynadot LLC,03/11/2025 22:29,03/11/2026 23:59
+3cb20638-8438-4ace-bf40-2dbe7e9483f9,technology.cfd,available,88,26,10,,,
+fc2f1c12-61e2-4fa8-bca5-c74b41f690b4,technology.charity,available,88,26,10,,,
+25a52dfb-2969-4351-b62d-d44f46a5866a,technology.chat,available,88,26,10,,,
+dff093c3-8064-46d5-820a-9c098daa6e3f,technology.cheap,premium,88,26,10,,,
+858fd05e-eecc-4221-96c2-25cf1cc181a1,technology.christmas,expiring,88,26,10,Super Registry,21/09/2014 15:37,21/09/2025 23:59
+64febc1d-167d-4c23-a9aa-5cffaf6c9876,technology.church,resell,88,26,10,"Global Domains International, Inc. DBA DomainCostClub.com",01/06/2020 15:26,01/06/2026 15:26
+b1ae29c9-c2ad-442a-8065-251e23db153a,technology.city,available,88,26,10,,,
+52b71759-370d-4e98-a010-a0e0f7e37f47,technology.claims,available,88,26,10,,,
+4173edd1-372a-4c26-9b4e-98a826d2fa68,technology.cleaning,available,88,26,10,,,
+9b03b8c3-6028-45dc-a7a7-7b04999c05e3,technology.click,available,88,26,10,,,
+689a651a-d775-4d20-92c1-567bcc4f5203,technology.cloud,available,88,26,10,,,
+938c1d99-0fec-4673-9ec6-3eee336926d3,technology.club,sold,88,26,10,GoDaddy Online Services Cayman Islands Ltd.,08/12/2021 07:37,08/12/2032 07:37
+0c55a734-e193-456c-8cfc-8e4a900dd61e,technology.coffee,available,88,26,10,,,
+bc881f6a-9f6a-4881-bdad-6e50ad9ef42c,technology.college,available,88,26,10,,,
+ad7c9feb-f40d-4b52-93e4-0e44a7bd874a,technology.com,resell,88,26,10,Dynadot Inc,13/12/1994 05:00,12/12/2032 05:00
+e3b28ce4-ea38-4bce-88e2-668bbadab308,technology.community,expiring,88,26,10,"GoDaddy.com, LLC",27/12/2017 08:08,27/12/2025 08:08
+687acd23-c8f0-44b9-bd8e-8cea2108fe93,technology.company,resell,88,26,10,"GoDaddy.com, LLC",24/06/2015 16:00,24/06/2027 16:00
+8c65577b-3745-487c-a4ec-88f5ec463551,technology.computer,resell,88,26,10,"NameCheap, Inc.",08/06/2020 11:20,08/06/2026 11:20
+09e26a23-79de-4114-a31a-e6db79ab8609,technology.condos,available,88,26,10,,,
+7b4574db-b5d7-4b64-8d77-adee9c7f2e24,technology.consulting,available,88,26,10,,,
+b4719a1c-c0d4-4f6b-ae21-529662380853,technology.cooking,available,88,26,10,,,
+d69a46b8-cb60-4b72-91c1-b11c3146e28e,technology.cool,available,88,26,10,,,
+e88da3c0-7c6f-41fe-b67c-edd513b861f1,technology.country,available,88,26,10,,,
+5579b068-3b8b-414f-a12b-9f3d06997b2a,technology.coupons,resell,88,26,10,"Spaceship, Inc.",17/07/2025 12:25,17/07/2026 12:25
+28694d55-ce76-4b1a-b2c9-a2705dad104f,technology.courses,available,88,26,10,,,
+0b69e49a-f442-47bd-a744-4e711bc9ea7d,technology.credit,available,88,26,10,,,
+bafd2864-ea4d-4bc3-88ea-7093fc3c56d4,technology.creditcard,available,88,26,10,,,
+74f7c0ac-b93b-4104-94a0-a12f19b5f9a7,technology.cricket,available,88,26,10,,,
+07fd7ab9-2a45-432c-a3b9-409047919305,technology.cruises,available,88,26,10,,,
+393a6e90-0333-47e9-8d00-e663ddfcb668,technology.dad,available,88,26,10,,,
+8a8c4c02-3845-4f61-9f30-7cb0b36eeb6a,technology.date,available,88,26,10,,,
+33204e5f-faac-4020-9f7e-863065e55d2f,technology.dating,available,88,26,10,,,
+1d2238eb-5f51-4972-9b15-a9e43049bab4,technology.day,available,88,26,10,,,
+16068de7-ed21-47fa-bec9-34e060ad4e81,technology.de,sold,88,26,10,,,
+0d33f47e-4f01-41b0-a822-90e45882b619,technology.deal,available,88,26,10,,,
+c13b9c57-3134-4ec3-a036-303956da0d82,technology.dealer,available,88,26,10,,,
+83aca284-120e-4179-aff4-a7bc51de3bb3,technology.deals,available,88,26,10,,,
+98c2fb80-da8f-45fa-997a-52524c4c0765,technology.degree,available,88,26,10,,,
+a41fef63-05f1-48a5-b44c-6bd672ed35a1,technology.democrat,available,88,26,10,,,
+cf41e083-d45a-4fbe-b7ac-24b2658826ed,technology.dental,available,88,26,10,,,
+573f2843-2c51-4f78-923c-ac975acbbee2,technology.dentist,available,88,26,10,,,
+720aad22-e7e5-46e2-89a4-e3b6ab1ee0da,technology.design,available,88,26,10,,,
+bb15e6c8-deef-4288-97d8-9920dbfab2b1,technology.dev,available,88,26,10,,,
+c90052aa-731d-4900-b150-f8a83cdcdaff,technology.diamonds,available,88,26,10,,,
+c3d89880-3637-4965-9ff3-7bf5e8682acf,technology.diet,available,88,26,10,,,
+48d0f743-772d-459d-a4e0-670aca280499,technology.digital,resell,88,26,10,Dynadot Inc,26/09/2025 18:15,26/09/2026 18:15
+47dff4c5-8691-4e06-9199-683151d48f98,technology.direct,available,88,26,10,,,
+b4980960-4935-40d8-8d8e-0a483e13aa58,technology.discount,available,88,26,10,,,
+0d959e09-6ccc-47b6-8f0f-296ba8d2a765,technology.diy,available,88,26,10,,,
+54843b16-e51b-47e3-8315-4e25c1b4816a,technology.doctor,available,88,26,10,,,
+c2324451-9e12-4d61-b0bd-9262e68901cb,technology.dog,available,88,26,10,,,
+12d5274c-5617-4318-89ba-00eb75edb533,technology.domains,available,88,26,10,,,
+48002019-4e68-4c4f-a020-bb03ed6f26a0,technology.download,available,88,26,10,,,
+3b5c13b7-4e79-4b15-b241-6da8ae5b2fac,technology.earth,expiring,88,26,10,"GoDaddy.com, LLC",05/01/2020 14:11,05/01/2026 14:11
+a5b5b390-08a8-440e-9535-5356ac553f13,technology.energy,available,88,26,10,,,
+47ab468f-fc1b-4ce6-911e-6293b6b4e223,technology.engineer,available,88,26,10,,,
+514edac2-c742-45d3-bb04-fe219883fea2,technology.enterprises,resell,88,26,10,Porkbun LLC,27/04/2022 13:15,27/04/2026 13:15
+b688a579-b28c-4ca6-9ffd-b9d085303ad2,technology.equipment,resell,88,26,10,"Sav.com, LLC",08/09/2020 10:21,08/09/2026 10:21
+65cc8e65-d617-4c0b-b280-02a94ed86acf,technology.esq,available,88,26,10,,,
+1dd7cad6-5afd-4f6d-963f-705b1d5e7f2a,technology.estate,available,88,26,10,,,
+500a3580-bb4d-47ad-80bc-525fc6fd08b5,technology.eu,premium,88,26,10,,,
+67c9c692-a677-4ad8-b29e-5102dfc3e492,technology.exposed,available,88,26,10,,,
+9daa687a-18ff-4aab-a662-ef7c5a0077b1,technology.express,available,88,26,10,,,
+accb77b4-1cc0-4176-9217-87739955271e,technology.fail,available,88,26,10,,,
+cec124c1-1605-4f21-ae8f-365737f6d66b,technology.faith,available,88,26,10,,,
+2f3dcad9-2a21-4256-b748-f26baa6c03fb,technology.family,available,88,26,10,,,
+35d57826-58ca-4b77-98e3-928c942cfdcf,technology.fan,available,88,26,10,,,
+c759cf51-ca4f-4189-93fd-4142d94f8e0a,technology.fans,available,88,26,10,,,
+99edcc27-31ca-47ad-a213-859a348e98e6,technology.farm,resell,88,26,10,"GoDaddy.com, LLC",11/12/2024 14:54,11/12/2026 14:54
+d5e4c893-a825-4adb-a132-dc842a85ca8e,technology.fashion,available,88,26,10,,,
+261c72f3-5355-4c5e-b11f-1a31d3bea748,technology.fast,available,88,26,10,,,
+43b8ac03-ff6d-4dfa-bb74-f2293ee195a0,technology.film,available,88,26,10,,,
+3e87b0e6-a2ee-468a-b24f-5629e30eba67,technology.finance,expiring,88,26,10,GoDaddy Online Services Cayman Islands Ltd.,28/09/2014 10:44,28/09/2025 10:44
+86f35571-ae1b-4d27-adf9-b94ed0293a89,technology.financial,available,88,26,10,,,
+7521d709-3693-45db-892e-944a54f12d11,technology.fish,available,88,26,10,,,
+1b6989c7-6c88-4544-81fa-ca5f7b6f1e57,technology.fishing,available,88,26,10,,,
+6d548f1b-685b-4a0c-b6ac-e5ebee4e917e,technology.fit,available,88,26,10,,,
+249a39f2-1b02-4b2a-a697-7c97802debb8,technology.fitness,available,88,26,10,,,
+7c10c8d5-c4dd-4a9a-acf4-6be38323e88e,technology.flights,available,88,26,10,,,
+f9e6360c-806e-4fa7-8d0e-4310b7d6dbc4,technology.florist,available,88,26,10,,,
+65598944-4a8a-45ba-bab6-f78c4399d7c4,technology.flowers,available,88,26,10,,,
+86e85c11-a67a-4f54-9d51-d2c8b7b1ddf0,technology.fm,resell,88,26,10,Instra Corporation Pty Ltd,17/07/2013 23:59,17/07/2026 23:59
+8fbf9369-a799-4e44-81a6-0ae7be8e0289,technology.foo,available,88,26,10,,,
+c969143b-b74b-4aea-8c76-52ef2c3949cd,technology.food,available,88,26,10,,,
+c9896002-70be-4c9d-8c51-22958c00f5bb,technology.football,available,88,26,10,,,
+bf247ba2-ea2e-48d8-8166-29163185ce2a,technology.forsale,available,88,26,10,,,
+c9e32b67-5806-40ea-88c6-60527d41cd80,technology.free,available,88,26,10,,,
+0631f799-beeb-40c4-ad81-5ce5bb1f143b,technology.fun,available,88,26,10,,,
+c19a2f6b-40b1-4e20-ba63-40131ec789d9,technology.fund,available,88,26,10,,,
+5daec17f-87b7-4930-bb0b-b8e445f5a3ff,technology.furniture,available,88,26,10,,,
+019a161a-dbc1-4513-9b83-f555058effaf,technology.futbol,available,88,26,10,,,
+5c3fbe5a-4304-4fba-9933-09498377be36,technology.fyi,resell,88,26,10,"GoDaddy.com, LLC",04/08/2023 04:38,04/08/2026 04:38
+627ebb37-d6da-4633-8c5c-2151c609a695,technology.gallery,available,88,26,10,,,
+35076bc7-183a-476a-a559-6df835a4e4c2,technology.game,available,88,26,10,,,
+31898edf-2161-49ce-ba35-281a1c94f6fd,technology.games,available,88,26,10,,,
+1a1c1771-3b37-46f2-a9ba-7e3431c4e4ad,technology.garden,available,88,26,10,,,
+78f1913a-cc4f-4072-8715-67e0c06270d5,technology.gay,resell,88,26,10,"GoDaddy.com, LLC",01/06/2023 14:34,01/06/2026 14:34
+4b19a964-9c4e-40af-b2c4-343528638f05,technology.gg,resell,88,26,10,Docky Company (https://docky.ly),,
+07ace36b-a6aa-44b7-9c34-a251d6420bf7,technology.gifts,expiring,88,26,10,"Name.com, Inc.",06/01/2022 20:41,06/01/2026 20:41
+5d4ea070-2b86-471d-9758-fb1d956efc69,technology.gives,available,88,26,10,,,
+f41a2d49-d2b0-46d4-8fb5-727f9e22c09f,technology.giving,available,88,26,10,,,
+2ff8a4d8-620c-4f45-affc-411450f25541,technology.glass,available,88,26,10,,,
+dae49ccd-e6e7-4a3c-94b8-12ad4dacbcd7,technology.global,available,88,26,10,,,
+31097413-844b-4a42-8d52-2227228ec7f5,technology.golf,available,88,26,10,,,
+efe456b3-999c-4fa7-b404-aff003f05ef0,technology.gratis,available,88,26,10,,,
+d016b67d-a084-46d8-9a90-16dcb6b715b3,technology.green,available,88,26,10,,,
+9693b1d5-1345-4c00-b166-7aef1b1e10c2,technology.gripe,available,88,26,10,,,
+cfebbf15-00a6-43ab-9ec6-ec3ab54eccc0,technology.guide,expiring,88,26,10,Porkbun LLC,14/09/2014 16:09,14/09/2025 16:09
+884ee9fc-7cb2-48c6-a855-ec3890a9977b,technology.guitars,available,88,26,10,,,
+a1973798-55ee-483c-af0f-ffc6a8686299,technology.hair,available,88,26,10,,,
+2ecae870-5559-409d-a9a4-65d8a84af30f,technology.healthcare,available,88,26,10,,,
+230bcac8-4ae0-4749-9f2b-e36e183a017a,technology.hiphop,available,88,26,10,,,
+b6c869f9-1a2c-4390-b960-dc259ee92b11,technology.hiv,available,88,26,10,,,
+84089002-4b2f-49ec-8f57-3640e2f6be93,technology.hockey,available,88,26,10,,,
+c946538b-ee51-45fe-9697-4c3ab8138352,technology.holdings,available,88,26,10,,,
+4d8a8786-423f-4574-88e9-c344c723f386,technology.holiday,available,88,26,10,,,
+74246c39-5046-467d-a847-e31d57aab9c4,technology.homes,available,88,26,10,,,
+b9c762aa-0d5c-40b2-ab17-e281244c0761,technology.horse,available,88,26,10,,,
+374ebc0d-94bc-4d8f-909b-706b96d9e0fb,technology.hospital,available,88,26,10,,,
+6c8e6652-216c-4d6d-b82f-42d8f1083d19,technology.host,available,88,26,10,,,
+0efa2611-df4c-45f1-8446-aac10c5f3072,technology.hosting,available,88,26,10,,,
+2b6406b8-63d8-4b86-aec1-fe461cec9079,technology.hot,available,88,26,10,,,
+d9309b3c-a7af-4754-b552-3be716bafb9e,technology.house,resell,88,26,10,"Sav.com, LLC",25/02/2021 06:52,25/02/2026 06:52
+c45ace58-060c-4135-a96a-90771fec803d,technology.im,available,88,26,10,,,
+25e949e1-6852-4e1c-80e7-2f3e86da6057,technology.immo,available,88,26,10,,,
+451cb813-baac-4a0b-a797-6c26ccd52665,technology.immobilien,available,88,26,10,,,
+f0cf1666-8723-4223-bf08-ddbde8864abf,technology.inc,available,88,26,10,,,
+2172b636-8b9a-49a9-ae59-a30cc5427d2b,technology.industries,available,88,26,10,,,
+014594b8-9f2c-4d96-9bf5-a53b39c0a772,technology.ing,available,88,26,10,,,
+be1c42bf-0d94-4d13-9f63-2c24b759d199,technology.insure,sold,88,26,10,"GoDaddy.com, LLC",10/09/2014 16:26,10/09/2026 16:26
+2cdca74c-e58a-466d-b1b6-f0e6d776716e,technology.international,sold,88,26,10,Dynadot Inc,02/07/2020 23:18,02/07/2026 23:18
+b020ecc2-f134-4a09-a7c3-205e748cbd20,technology.investments,available,88,26,10,,,
+a49a8240-7808-4c46-a01a-6884d971fec8,technology.jetzt,available,88,26,10,,,
+707ffc77-b2a1-46cc-b8b2-b9232b6a8c1f,technology.jewelry,available,88,26,10,,,
+23cb2b0d-8e94-46df-90bd-73210c6ac04b,technology.juegos,available,88,26,10,,,
+5ba6efad-4bc4-4e35-a5d0-eb6c7e38ed54,technology.kaufen,available,88,26,10,,,
+e2c8dbeb-208f-4aff-81a7-00c33bb3bdb4,technology.kim,available,88,26,10,,,
+ab585a23-11b9-460a-84a1-6626bc90110b,technology.kitchen,available,88,26,10,,,
+566005eb-dc90-4938-ac2b-fe7981216a77,technology.land,available,88,26,10,,,
+1a8b0cf8-8a80-49e9-889d-6a100c5235a9,technology.lat,resell,88,26,10,"Spaceship, Inc.",16/02/2025 15:09,16/02/2026 23:59
+7f48b4dd-4047-4b64-9ee7-2104078fe12d,technology.law,available,88,26,10,,,
+600f2bcd-a78d-4cbd-b2cd-d12880a64a5f,technology.lawyer,available,88,26,10,,,
+1e38a0dc-e5a7-4a34-878c-be050b52aab7,technology.lease,available,88,26,10,,,
+40393cfe-90ec-4ecd-888b-5956941b5b8e,technology.life,resell,88,26,10,"Spaceship, Inc.",06/09/2020 11:24,06/09/2026 11:24
+3cd29bc7-4d38-4a6a-a22a-ff237429078c,technology.lifestyle,available,88,26,10,,,
+6d4a0b67-c9ac-4979-b6c2-1b9a4d610373,technology.lighting,available,88,26,10,,,
+99f0245b-9411-4177-b16f-18c279c5c578,technology.limo,available,88,26,10,,,
+8970d3d8-68fa-43d3-bb89-634fe9cf328e,technology.link,available,88,26,10,,,
+97d36b3b-8bc2-45a9-a464-e5d0e8ab3990,technology.live,available,88,26,10,,,
+a21b3f1e-99e7-44ff-a6d3-0da2535a7a4c,technology.living,available,88,26,10,,,
+9c56edbc-10e9-4fa3-86c5-b9b1f4362e2d,technology.llc,available,88,26,10,,,
+bad16a71-adc7-4085-87b7-3dcc6d3cffa6,technology.loan,available,88,26,10,,,
+cfae5068-3abb-4f36-b4bf-876a2448000a,technology.locker,available,88,26,10,,,
+4e81511d-ce3d-48bd-b3f8-bac55a7401b7,technology.lol,available,88,26,10,,,
+2ac43326-f067-4715-9298-b49d3f1153a2,technology.love,available,88,26,10,,,
+1be50f68-ec06-4c40-a503-b03e253ea6ac,technology.ltd,resell,88,26,10,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),21/06/2016 08:39,21/06/2026 08:39
+700d6691-6f52-47a3-a139-9c6698ee68cd,technology.ltda,available,88,26,10,,,
+8268c4fa-a296-4a24-bfa7-3fac91230dfb,technology.luxe,available,88,26,10,,,
+dfc4bf00-bbad-4170-866f-8c25bf04cabd,technology.luxury,available,88,26,10,,,
+e871475f-6ccc-414f-a815-b217afb44064,technology.maison,available,88,26,10,,,
+73d5f722-2fdd-422d-8713-ee8a937cc570,technology.makeup,available,88,26,10,,,
+a6a61b4a-b400-40ce-8438-e673ac8045c3,technology.market,available,88,26,10,,,
+17c9ff3e-6b68-43cf-9303-eb19f92825f8,technology.marketing,sold,88,26,10,"Name.com, Inc.",16/04/2014 16:00,16/04/2026 16:00
+905e5bb5-d870-47c3-ba6f-b57b970ae0ce,technology.me,resell,88,26,10,"GoDaddy.com, LLC",29/04/2008 18:03,29/04/2026 18:03
+1958e5e5-d25b-4d3e-9aff-bba52b0fb0ef,technology.melbourne,available,88,26,10,,,
+501ea821-21e2-448b-8310-e229b4524126,technology.meme,available,88,26,10,,,
+7c10807a-bfa6-4f88-8fab-bcb09d52dcbd,technology.memorial,available,88,26,10,,,
+13163b78-266b-478c-b2df-3d6a91a6a158,technology.men,available,88,26,10,,,
+9c010a49-44c2-495d-9031-f9ba7120d888,technology.miami,sold,88,26,10,Go Australia Domains Inc,02/10/2015 16:00,02/10/2027 16:00
+52e2512f-4113-4d00-9500-a3c87df44085,technology.mobi,available,88,26,10,,,
+2e91fcf2-ef1f-42c6-8f63-23c5f1812bc4,technology.moda,available,88,26,10,,,
+e8003161-8d97-44dc-b590-a7cfbaae12fe,technology.moe,available,88,26,10,,,
+d8a9b3db-3e90-489f-b99a-3a750b8a2a11,technology.mom,available,88,26,10,,,
+5324c1d7-0b0f-4e78-9339-ce28d52a64bb,technology.motorcycles,available,88,26,10,,,
+8e8c53ac-c729-486b-9089-b8e4aa5be52f,technology.mov,available,88,26,10,,,
+b53a4554-a00b-4b5c-9fc9-740b37c7ec06,technology.movie,available,88,26,10,,,
+f395288f-b77f-4d79-a92c-261e5f76ecf2,technology.music,available,88,26,10,,,
+65faae9e-7974-4a35-bcc2-9cf6fe029081,technology.mx,resell,88,26,10,Dynadot Inc,17/03/2025 00:00,17/03/2026 00:00
+1abfd7a9-d1fc-4946-868f-dd9594179a2a,technology.my,sold,88,26,10,Exabytes Network Sdn Bhd,01/10/2017 16:00,01/10/2026 16:00
+a6fb8864-e25e-4bf2-b2e2-9a0d2db647ec,technology.navy,available,88,26,10,,,
+ddfef516-721c-498c-982f-a7a6f810a0a1,technology.network,sold,88,26,10,Dynadot Inc,03/05/2018 02:33,03/05/2026 02:33
+04d1c45b-c6d4-4004-a031-0fd3503991f2,technology.ngo,available,88,26,10,,,
+23316b9d-773b-45b6-95d0-7dd6c56a070b,technology.ninja,available,88,26,10,,,
+449e5839-40e3-4c8c-bd7b-83a2672ee16e,technology.now,resell,88,26,10,Dynadot Inc,02/10/2024 21:53,02/10/2026 21:53
+d247c659-d243-4d4a-9b69-075ac9ab6e3b,technology.nyc,available,88,26,10,,,
+344ac966-d442-4e4f-b16a-279050d86c16,technology.ong,available,88,26,10,,,
+f8c49b80-3559-42e8-b67a-614b51f48af9,technology.onl,available,88,26,10,,,
+c0c20c0c-ed9c-4023-b5d3-e42b96711fd6,technology.ooo,available,88,26,10,,,
+ac7f8c40-303d-41c7-a3fe-21dda8971406,technology.organic,available,88,26,10,,,
+345f8587-ded0-46ec-9423-2352fb853f4d,technology.osaka,available,88,26,10,,,
+03850819-a244-47c5-a37c-a6611bb5d842,technology.page,available,88,26,10,,,
+f95d9a3f-e6c2-41fb-b3c0-f00f3b04eca2,technology.parts,available,88,26,10,,,
+aee989fb-0d50-4712-a89f-354a1c20ae09,technology.party,available,88,26,10,,,
+d5cda103-c27f-4e27-89f8-7e9d38a50ada,technology.pet,resell,88,26,10,"Xiamen ChinaSource Internet Service Co., Ltd",25/06/2025 15:15,25/06/2026 15:15
+f413160e-e864-448b-93fe-08cf1756f73d,technology.phd,available,88,26,10,,,
+539cf1fd-a3b9-418c-a6f5-7981a4892e4b,technology.photo,available,88,26,10,,,
+92c38f96-b730-40e4-9bca-052714270c83,technology.photos,available,88,26,10,,,
+dcf332d6-6ab3-4bbf-9438-11ae052e6eac,technology.pics,resell,88,26,10,Dynadot LLC,09/07/2025 16:54,09/07/2026 23:59
+f69eb1a8-721c-43e0-809c-1a2607582fb6,technology.pictures,available,88,26,10,,,
+c4c1abbd-b330-4062-b7eb-7dcca39ad7b7,technology.pink,available,88,26,10,,,
+7eb5e1d3-5314-4362-85ee-b9c78c7ac851,technology.pizza,available,88,26,10,,,
+88ad8c02-75a9-4185-96bc-99e161d75c57,technology.place,resell,88,26,10,Dynadot Inc,02/06/2020 17:53,02/06/2026 17:53
+231b42d5-934b-4c69-a9b1-547437d517da,technology.plumbing,available,88,26,10,,,
+da00f462-0934-4dc0-b897-eae0f581d8ad,technology.plus,resell,88,26,10,"Spaceship, Inc.",20/09/2021 17:00,20/09/2026 17:00
+79f227fe-0ffb-48e0-9360-80bb7e62750a,technology.poker,available,88,26,10,,,
+7e7d986f-f8e1-4bab-866f-bf22a06371ba,technology.porn,available,88,26,10,,,
+52ebd963-1bbf-44a5-b58e-1885bba02675,technology.press,available,88,26,10,,,
+f19c0929-8f0e-4bce-a835-960043657268,technology.productions,available,88,26,10,,,
+1037e13b-9fdc-4048-8373-54edee451bbf,technology.prof,available,88,26,10,,,
+8bf4d71c-18e7-4760-84c2-0ea5e7cdd5e2,technology.promo,available,88,26,10,,,
+1f620e01-7d61-4948-8520-75f694fe8b15,technology.properties,available,88,26,10,,,
+2e5092a8-1dee-4b7c-b182-cdeb230505f2,technology.property,available,88,26,10,,,
+0e276dd0-ff66-4961-a276-b6a015c78989,technology.protection,available,88,26,10,,,
+2262b4c8-f82c-4d79-aeb0-d7688be971f1,technology.pub,resell,88,26,10,"Chengdu West Dimension Digital Technology Co., Ltd.",28/01/2018 02:35,28/01/2026 02:35
+4fc8b90c-c204-41a5-a8c6-c806b0c8e243,technology.pw,available,88,26,10,,,
+6087d589-5a36-4130-b25f-ee06922b7404,technology.qpon,available,88,26,10,,,
+f01fa3c1-9e25-4283-bb7c-6bd4b6c4fff3,technology.quest,available,88,26,10,,,
+3e8fe5b9-b745-4088-8f50-88b65737e332,technology.racing,available,88,26,10,,,
+e9f30b2d-115d-4cf5-a16d-b4006e78ef9d,technology.realty,available,88,26,10,,,
+f5ed4f23-6b83-4959-b35b-be4b631d2447,technology.recipes,available,88,26,10,,,
+931596a2-203a-4aef-93b4-dd0ec9ad9e6f,technology.red,available,88,26,10,,,
+187bc964-655b-4c1c-b509-7e642dcd4c67,technology.rehab,available,88,26,10,,,
+e88a7f61-5e18-4e02-b747-c8ceb26ee451,technology.reise,available,88,26,10,,,
+703b7622-c697-4b09-b8aa-dd1f7830de94,technology.reisen,available,88,26,10,,,
+4f637cbb-eda9-43fa-b641-7c41f7235969,technology.rent,available,88,26,10,,,
+b54ba074-af3f-4561-88eb-3df2d68ab010,technology.rentals,available,88,26,10,,,
+2813cd2f-c35e-4b4f-b559-0ad59b78ec15,technology.report,sold,88,26,10,Dynadot Inc,05/05/2020 08:35,05/05/2026 08:35
+b6ed53a5-c9c2-4a75-b6bf-26cb471ff7fc,technology.republican,available,88,26,10,,,
+e9287129-2939-41d5-82de-0bde773c8e9c,technology.rest,available,88,26,10,,,
+0b8698dc-fbc6-493b-8824-a670254ce76a,technology.review,sold,88,26,10,Safenames Ltd,20/09/2016 11:51,19/09/2026 23:59
+8f6d57a4-b4f5-4dce-8a29-96723a5e6515,technology.rich,available,88,26,10,,,
+434859cb-c586-443b-802c-a04de2f0774a,technology.rip,resell,88,26,10,Dynadot Inc,25/06/2025 17:01,25/06/2026 17:01
+4552ccb3-1dcd-4fd2-908f-4f62e74bcaf5,technology.rodeo,available,88,26,10,,,
+746bad67-ec61-4683-91e9-677f785a0e59,technology.rsvp,available,88,26,10,,,
+8750898e-112a-423e-8a5d-2566bc2c84bd,technology.run,resell,88,26,10,"Chengdu West Dimension Digital Technology Co., Ltd.",03/09/2021 17:00,03/09/2026 17:00
+0beb7bc7-d5cc-400f-b665-f4a63c8d92fe,technology.sale,available,88,26,10,,,
+ccd542e2-31a7-4abd-a82a-b09744f3819c,technology.salon,available,88,26,10,,,
+cb38f7d3-8d1e-47c3-9486-8bb18fc104be,technology.sarl,available,88,26,10,,,
+ff7355dd-a28d-4365-8049-53fff70f7b62,technology.sbs,available,88,26,10,,,
+dff308b8-50c0-419e-a1bb-172084d92e58,technology.schule,available,88,26,10,,,
+37034893-368f-4b88-8ace-19e8f3d9eb4c,technology.science,available,88,26,10,,,
+5b8cf7bb-c46a-425e-9f7d-55a4722ffc35,technology.security,available,88,26,10,,,
+a4d18501-69fd-4f2f-aed7-9877253ed8cc,technology.sexy,available,88,26,10,,,
+92d3a58f-90f5-443d-8df8-cc6800115711,technology.shiksha,available,88,26,10,,,
+ecdb5173-ff8c-43a7-9a15-7866934a9416,technology.shopping,available,88,26,10,,,
+1dcd152a-3805-440e-969a-7c97590c1964,technology.singles,available,88,26,10,,,
+196db482-b72d-4dc6-9bd3-0642a3abce86,technology.site,available,88,26,10,,,
+72ebf1df-48b7-49be-a4e9-bcd521651d75,technology.ski,available,88,26,10,,,
+a68fdef4-347b-49a1-b427-eabb92914d9d,technology.skin,available,88,26,10,,,
+521dc422-51e0-4946-9f95-2d6324d45361,technology.so,resell,88,26,10,SOSTEC TECHNOLOGIES_LR,08/09/2021 07:38,08/09/2025 07:38
+98dae784-9c10-4e77-ae20-20a7650b5539,technology.social,available,88,26,10,,,
+960af77e-f911-4c4b-a550-fcbdad231589,technology.software,expiring,88,26,10,"GoDaddy.com, LLC",29/12/2022 05:59,29/12/2025 05:59
+6b01f33b-1f70-48c5-9f83-2b66b6374ef8,technology.soy,available,88,26,10,,,
+91e6ca2d-54b5-4cff-b546-acb8627dca6f,technology.space,available,88,26,10,,,
+3408d465-dbd5-412d-b8b0-0fe5288656de,technology.spot,available,88,26,10,,,
+029fbd6e-23f4-40a9-a17f-6367844f9ea3,technology.srl,available,88,26,10,,,
+ca8f3d2c-5575-4fed-9527-b768130ee213,technology.storage,available,88,26,10,,,
+1ffc2444-71da-48c5-b40a-d184fc85e2f9,technology.store,available,88,26,10,,,
+e796ec4f-5216-48c2-9650-5673e6fcd762,technology.stream,available,88,26,10,,,
+e942fcff-0754-449f-92d9-0470e5cb115d,technology.study,available,88,26,10,,,
+0b341698-47e1-4512-9df9-2bfcd858395b,technology.supplies,available,88,26,10,,,
+b1b93944-36c7-406a-898c-8a977f5527cb,technology.supply,available,88,26,10,,,
+06812a91-01b3-4821-a146-f55d259a2701,technology.surgery,available,88,26,10,,,
+388ebd26-8f7d-4437-823c-58f22adfbaaf,technology.sydney,available,88,26,10,,,
+8edbc9c3-c88f-4267-83a3-b52f63aa1b73,technology.systems,expiring,88,26,10,Dynadot Inc,02/01/2018 08:12,02/01/2026 08:12
+76db898a-f972-4bc1-b950-1fec07f61a5d,technology.talk,available,88,26,10,,,
+77ac138b-c503-4900-92af-d930827b6478,technology.tattoo,available,88,26,10,,,
+123219f0-f2db-47ad-8a62-b0adfab0d149,technology.tax,available,88,26,10,,,
+00c9a244-3da0-4033-95a8-2d622986dbae,technology.tech,available,88,26,10,,,
+5f30c464-c188-421f-be6a-c36f1acec6cc,technology.tennis,available,88,26,10,,,
+97ea94b1-af69-4d67-bb1d-32f53b3f0488,technology.theater,available,88,26,10,,,
+9d655ce0-ca61-48b1-83b6-bc0435889952,technology.theatre,available,88,26,10,,,
+3d09c796-fbb9-40da-9172-0d99875f5a7a,technology.tickets,available,88,26,10,,,
+605af222-8801-493e-8a9b-c105542b9745,technology.tienda,available,88,26,10,,,
+696df593-6079-4c1d-868d-3330b2648b0a,technology.tips,available,88,26,10,,,
+9e8ae662-de1e-4d4b-b16a-803637f101c6,technology.tires,available,88,26,10,,,
+031d8438-c794-4e06-b830-edb6791eef63,technology.today,sold,88,26,10,"GoDaddy.com, LLC",22/09/2019 22:40,22/09/2026 22:40
+541cba36-792e-4e0e-a479-9ceafc38d1db,technology.tools,available,88,26,10,,,
+b5f724cf-1fec-4e0d-8441-76da5c86e88a,technology.tours,resell,88,26,10,"Sav.com, LLC",22/01/2025 17:11,22/01/2026 17:11
+ae1b4570-60dd-4335-be91-fdfaa3c710e9,technology.town,available,88,26,10,,,
+7e4de769-ceeb-4c07-86f3-acc5e7b8d027,technology.toys,available,88,26,10,,,
+f57b7d99-17cb-4de4-b183-21080d5f0e34,technology.trade,available,88,26,10,,,
+c3daaead-f6dd-4c29-9a17-421d03a73e58,technology.tube,expired,88,26,10,"Latin American Telecom, LLC",08/11/2017 19:27,08/11/2025 19:27
+12637c3a-6941-4b94-8246-1c55320c8ab7,technology.tv,resell,88,26,10,Dynadot Inc,08/06/2007 08:01,08/06/2026 08:01
+70fce0e8-4580-44b8-97f0-9ad33d32df06,technology.uno,available,88,26,10,,,
+f8f93e47-f75b-445e-b981-812ac114715d,technology.vacations,available,88,26,10,,,
+c4a4a8ef-0993-4e6e-87da-ac3187ae6784,technology.vana,available,88,26,10,,,
+3dda7aca-9840-48b2-9408-f59b044141c9,technology.vc,resell,88,26,10,"Sav.com, LLC",07/03/2017 01:05,07/03/2026 01:05
+1ca0901c-68a6-47eb-9cca-45fad17d43fa,technology.ventures,resell,88,26,10,"GoDaddy.com, LLC",04/02/2014 04:58,04/02/2026 04:58
+24d0d35d-73bb-44df-868e-9efbd0b9c86d,technology.vet,available,88,26,10,,,
+041d8fa8-24d1-4179-9c7a-50d45658932e,technology.viajes,available,88,26,10,,,
+ca628981-3015-49b9-b7d2-6b16fe3a8d28,technology.video,available,88,26,10,,,
+9034b19e-75cf-4c4e-8ad9-184d8fc998ad,technology.villas,available,88,26,10,,,
+9ac05c7d-6080-4417-b116-4b7ecafa4802,technology.vin,available,88,26,10,,,
+9bb298af-1711-435e-9718-3d9c217eb435,technology.vision,available,88,26,10,,,
+b047b92e-b2b7-47ff-93af-5a82647e4a75,technology.vodka,available,88,26,10,,,
+4414f220-c8af-40af-ba5d-693c8d6aa3bd,technology.voting,available,88,26,10,,,
+281b788c-8104-4cec-85a7-6c3ab2f3ec66,technology.voto,available,88,26,10,,,
+b9c03e21-b6bd-4277-bd70-2aa78f94f015,technology.watch,available,88,26,10,,,
+b180fbfc-835c-4d9a-b45b-b6f2daf4a8ee,technology.webcam,available,88,26,10,,,
+46f81fd5-6cf2-4f64-ba87-6111d08ea512,technology.website,available,88,26,10,,,
+f72ab1da-3f2e-491b-8939-d840af42efad,technology.wedding,available,88,26,10,,,
+fd61d8a4-f96c-46ed-938f-bce2ed56d54f,technology.win,available,88,26,10,,,
+066aa850-fc67-4840-b787-7de14f920215,technology.wine,available,88,26,10,,,
+7bfbbf60-261f-48c9-a77a-8253c2043801,technology.world,resell,88,26,10,Epik LLC,19/06/2020 09:26,19/06/2026 09:26
+3955257c-9cbe-426c-932f-4df917697a4d,technology.xyz,resell,88,26,10,"Sav.com, LLC",18/09/2025 08:56,18/09/2026 23:59
+b1377b5e-c877-494c-ab5b-721f4c40fbfd,technology.yachts,available,88,26,10,,,
+f6f26487-630c-463d-b4e2-e002da4a89fe,technology.yoga,sold,88,26,10,Porkbun,13/03/2023 04:01,13/03/2027 04:01
+51a40319-b1c6-43d2-83ca-392a29746e14,technology.you,available,88,26,10,,,
+94b890cd-d0aa-4486-aebe-cb4bbfd01111,technology.zip,available,88,26,10,,,
+64cf6740-f3ac-4558-ae3f-b7cb0de6ef61,technology.zone,resell,88,26,10,Porkbun LLC,29/04/2014 08:33,29/04/2026 08:33
 a48251de-d485-4958-bed0-8257751dafcb,engineering.app,premium,74,84,11,,,
 6374b753-d375-448a-93b4-d7f5e6ba748c,engineering.at,premium,74,84,11,,,
 250b3ab7-d456-4ec5-b4aa-94b4680dd205,engineering.cloud,premium,74,84,11,,,
@@ -759,243 +781,221 @@ e7ea5c62-22e0-4fb2-85ca-1e55730a5bd6,digitalforensics.site,available,62,80,17,,,
 4f7181ff-95de-4005-9d79-290cf73e848d,digitalforensics.space,available,62,80,17,,,
 63f49f14-0e5c-47fb-99ed-e581482ad792,digitalforensics.store,available,62,80,17,,,
 0bd74a3a-0bd0-4238-8fcc-8b1bd3a6b985,digitalforensics.zone,available,62,80,17,,,
-d2ae27bd-4c39-441b-b2f4-45647a2a4598,computing.app,available,74,84,9,,,
-c34ac0f5-6871-48ec-95a0-b2c5c287053c,computing.at,available,74,84,9,,,
-ef89c8a7-d2a9-452c-999f-0e090d99d15b,computing.cloud,available,74,84,9,,,
-038c1931-0be3-4b15-9b8a-0eced5cebda3,computing.co,resell,74,84,9,Dynadot Inc,20/07/2010 18:00,19/07/2026 23:59
-051aba9c-cc34-452b-84ae-bb163c47b829,computing.dev,available,74,84,9,,,
-e0d33359-0dd7-4f00-8f79-6215a61901cf,computing.expert,resell,74,84,9,Gandi SAS,26/05/2020 06:33,26/05/2026 06:33
-dad0b09d-d5bb-412b-a853-94e878a1bc41,computing.io,resell,74,84,9,"GoDaddy.com, LLC",16/09/2018 10:11,16/09/2025 10:11
-6221a0bc-e23f-4de9-8661-b19dabedad3d,computing.me,expiring,74,84,9,"GoDaddy.com, LLC",09/07/2008 17:02,09/07/2025 17:02
-d28fc490-000e-4430-95dc-ef07797085b7,computing.site,expiring,74,84,9,1API GmbH,15/07/2015 16:00,15/07/2025 23:59
-180537f9-1207-4ae4-b783-c6fab39405fb,computing.store,available,74,84,9,,,
-e2f7a94b-9db7-4786-a173-4b6f6592a366,computing.tech,available,74,84,9,,,
-9964da74-0828-449b-ba84-e92c2c79d905,computing.xyz,resell,74,84,9,Dynadot LLC,02/11/2018 08:35,02/11/2030 23:59
-b0013fab-e545-4fba-ad6a-fc01f3ddfcfd,computing.zone,expired,74,84,9,"NameCheap, Inc.",30/04/2014 16:00,30/04/2025 16:00
-d6cc6987-3649-44a7-8a8e-88f7f27a6490,security.at,premium,70,88,8,,,
-0a76f5e9-e021-4385-91f6-1fea3b85e98b,security.cloud,premium,70,88,8,,,
-4be75790-d104-46c8-ba91-9bc46af54d07,security.co,resell,70,88,8,Dynadot Inc,24/02/2010 22:36,23/02/2026 23:59
-4bb5f2c7-89f3-453f-837c-5115993e5419,security.gg,resell,70,88,8,Enrapture Limited (https://enrapture.gg),,
-c3ebaa3d-64a7-4fc9-a7b1-e26713b96681,security.online,premium,70,88,8,,,
-74b7c158-38b1-4090-853e-41275033f4bf,security.pro,premium,70,88,8,,,
-206c826f-ba7f-46d2-b762-ff91f659b21d,security.site,premium,70,88,8,,,
-868686d1-59f7-4749-8907-03f1af6986d6,security.space,premium,70,88,8,,,
-cca28a89-cc9f-497d-a80f-9927ba151887,security.store,premium,70,88,8,,,
-00b0d917-5f44-4ab9-9a24-ef5c424fbf01,security.tech,expiring,70,88,8,Squarespace Domains II LLC,25/07/2022 15:50,25/07/2025 23:59
-039e6223-f89b-4fce-b043-8f461d78f0c2,network.at,available,90,80,7,,,
-311d8361-ebde-4de6-85c3-d42f4fbc9468,network.cloud,available,90,80,7,,,
-16d4ded1-0ccf-4ead-bd32-d6c5a6217826,network.co,resell,90,80,7,Hello Internet Corp.,25/02/2010 00:21,24/02/2026 23:59
-49941734-8ece-46ec-ae80-22ccdaac8c4e,network.expert,resell,90,80,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2026 16:00
-132abb09-3832-44d5-9c86-3016ffed3ee0,network.io,expiring,90,80,7,"CSC Corporate Domains, Inc.",04/08/2012 15:06,04/08/2025 15:06
-5e1a3c7a-a132-41ba-980d-ea335182c549,network.me,resell,90,80,7,"Spaceship, Inc.",29/04/2008 18:01,29/04/2026 18:01
-ca7f1118-eac9-4a59-9d44-d9cd53bbbde1,network.online,available,90,80,7,,,
-d67285cf-c64e-4788-85e5-a79d8fab2f84,network.tech,available,90,80,7,,,
-4f1e6758-cfbd-487c-99a0-3391ea464005,network.us,resell,90,80,7,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2026 23:59
-c7212f5d-deb0-4041-b1ec-53cead18726c,network.xyz,expiring,90,80,7,"Sav.com, LLC",05/07/2021 17:41,05/07/2025 23:59
-342d5a4a-dacc-4643-9d9e-bc43449c6b2b,solutions.at,available,,56,9,,,
-b2927401-e950-4a5e-953d-cf49bd3f08bd,solutions.cloud,premium,,56,9,,,
-9a5d0af1-4875-42a8-8906-0f532d379b63,solutions.com,resell,,56,9,Dynadot Inc,19/10/1988 04:00,18/10/2025 04:00
-bba29f98-e2cd-4784-a093-4055ff9731d1,solutions.dev,premium,,56,9,,,
-9fbcd919-938a-4363-a9cb-0a19323c582b,solutions.me,resell,,56,9,Dynadot Inc,09/07/2008 17:08,09/07/2026 17:08
-9a75b742-7d6c-420a-8b13-38bd3a0be8aa,solutions.online,premium,,56,9,,,
-495e6631-6479-41b5-9826-e6615d955800,solutions.so,resell,,56,9,Dynadot LLC,21/12/2023 14:12,21/12/2025 14:12
-45db63be-cc89-4324-89c2-45ac78b9f3b6,solutions.space,premium,,56,9,,,
-c5d3d345-dc30-469a-9c7a-995c7ca5edd4,solutions.store,premium,,56,9,,,
-26c56f31-aa66-4de1-9d82-e70ec5ec878a,solutions.tech,premium,,56,9,,,
-84cd5c12-b92a-4240-8e45-47da1bc740c8,solutions.us,resell,,56,9,"GoDaddy.com, LLC",24/04/2002 14:04,23/04/2026 23:59
-3c894b6f-5c01-44b0-b69b-d62368286adf,digital.accountants,available,100,40,7,,,
-2c309686-1739-43a2-9270-341518d1f395,digital.adult,available,100,40,7,,,
-139d6f12-48c7-4f8c-b264-4966f35f2a26,digital.ag,sold,100,40,7,Key-Systems GmbH,18/09/2017 01:05,18/09/2026 01:05
-b091c1ad-5ae3-4c71-b0aa-2d6f1b19bca2,digital.apartments,resell,100,40,7,"Sav.com, LLC - 46",19/04/2025 15:15,19/04/2026 15:15
-27d7a130-2139-4721-a143-daef8a8c76eb,digital.app,sold,100,40,7,Dynadot LLC.,15/12/2023 01:58,15/12/2026 01:58
-9ef2c93a-d5d3-4adb-9da7-dc617fb81550,digital.art,available,100,40,7,,,
-7c678652-e52b-42d8-a8ec-97297b6104e8,digital.asia,resell,100,40,7,"Spaceship, Inc.",21/06/2008 07:03,21/06/2026 07:03
-dbd090da-caac-4c35-b387-8d5910f30fc2,digital.auction,resell,100,40,7,IONOS SE,27/02/2016 09:18,27/02/2026 09:18
-4fd9358e-9102-41c7-860a-ed1386e55bcc,digital.autos,available,100,40,7,,,
-b8c6b6a7-f29d-48c0-8ba5-ffcefee4a380,digital.baby,available,100,40,7,,,
-fbdcd2b1-be0f-496b-bbb6-3c2bf38862b9,digital.bar,available,100,40,7,,,
-bdb81953-d7a3-428f-bd05-313b2be0bfe9,digital.bargains,available,100,40,7,,,
-a1951fbd-da08-4e86-bdfa-e66b42c2065a,digital.beauty,available,100,40,7,,,
-7bb1a31e-b602-42b8-afed-d9f8a7f75ea2,digital.bid,resell,100,40,7,Porkbun,26/07/2019 14:50,26/07/2026 14:50
-8ae78500-3c27-4dc4-b609-b1b8097c8a1d,digital.bike,resell,100,40,7,"Spaceship, Inc.",19/09/2023 15:15,19/09/2026 15:15
-d9d3e1b7-6150-4701-beaa-a17218dfb575,digital.bingo,available,100,40,7,,,
-603d2f12-e267-490a-b069-aae0114959d6,digital.bio,resell,100,40,7,Porkbun LLC,29/10/2023 19:02,29/10/2026 19:02
-71261429-11c7-439e-ab9c-cfe929a244ba,digital.black,available,100,40,7,,,
-fd88bb29-6e05-4286-9c3e-fa2e66294e2c,digital.blackfriday,available,100,40,7,,,
-3ebc5e8f-0d9f-423e-b495-26682ecb011f,digital.blog,available,100,40,7,,,
-1b6ee1a8-3194-4d18-8cba-3318a05e0e97,digital.blue,resell,100,40,7,"Sav.com, LLC",20/07/2016 12:55,20/07/2026 12:55
-8bbd5fd5-fd72-4c87-b949-c789eede0f5e,digital.boats,available,100,40,7,,,
-2e761856-3add-4f03-a599-cf2615c9d78d,digital.bond,resell,100,40,7,Dynadot LLC,20/11/2020 17:09,20/11/2026 23:59
-e16c45ae-18e7-4990-aad7-b55b11ce3ca6,digital.boo,available,100,40,7,,,
-2c6eada6-93bd-4d4f-82a9-5d7f61147103,digital.boston,available,100,40,7,,,
-8b5bf96f-58e5-41f8-abba-7a288b8b224a,digital.bot,resell,100,40,7,"Dynadot, LLC",20/05/2025 02:20,20/05/2026 02:20
-e848e1c4-47e4-4d1f-ac04-3b041ddf9c81,digital.boutique,resell,100,40,7,"Sav.com, LLC",18/07/2016 14:25,18/07/2026 14:25
-7a8af4c6-0c92-40f9-b7f8-a624d2850edb,digital.buzz,available,100,40,7,,,
-5d022651-495a-4805-ab84-0bd2eda7ed80,digital.cab,available,100,40,7,,,
-49e5177d-da28-4cd4-b5a9-78f2a6cd8d0e,digital.cam,available,100,40,7,,,
-c24f4b4a-f7c2-4fe8-beb2-6eb086eced87,digital.camp,resell,100,40,7,"Sav.com, LLC",05/09/2024 17:01,05/09/2026 17:01
-b183f316-95e0-4005-be32-7b5b7bc74849,digital.capital,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",13/07/2014 16:00,13/07/2027 16:00
-b3983f51-2309-4297-bd56-548c41dbee9e,digital.car,available,100,40,7,,,
-fa193ef2-4e13-4852-806b-f551792eaaef,digital.cards,expiring,100,40,7,1API GmbH,04/01/2024 15:15,04/01/2026 15:15
-393b846b-46f1-4f27-a6d4-7080db9e0c8c,digital.cars,available,100,40,7,,,
-60833a7e-c171-4645-bf5f-b92b03a70a30,digital.casa,expired,100,40,7,"Name.com, Inc.",04/12/2017 22:47,04/12/2025 22:47
-d81c608e-5c7c-4cee-b444-840c91bffbca,digital.catering,resell,100,40,7,"GoDaddy.com, LLC",03/05/2020 02:57,03/05/2026 02:57
-9d928116-1970-4e0d-8b37-2ea17932cb6d,digital.cc,resell,100,40,7,"Spaceship, Inc.",14/10/2024 08:02,14/10/2026 08:02
-9091e8b0-1bd6-4fb2-a263-79fb2bda09e3,digital.center,resell,100,40,7,"Spaceship, Inc.",16/09/2020 23:17,16/09/2026 23:17
-c9c591af-368a-4a7c-9a44-728aedcc479f,digital.ceo,available,100,40,7,,,
-ba5a9851-b733-48a8-b868-c4a6b5ace682,digital.cfd,resell,100,40,7,Dynadot LLC,29/04/2021 00:20,29/04/2027 23:59
-ffa36bb2-3f53-4339-9de5-8633bef829bf,digital.charity,available,100,40,7,,,
-4321cee8-0272-4ae8-a63f-5a3f4fc85a02,digital.cheap,resell,100,40,7,Porkbun LLC,08/05/2021 10:11,08/05/2026 10:11
-33806a09-b0f6-4c72-8ddd-a3a26a6e8c5c,digital.city,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",02/08/2015 16:00,02/08/2027 16:00
-98426a60-749b-4858-9e36-ff65f4283fae,digital.cleaning,available,100,40,7,,,
-943bae97-c984-4dab-80f2-feb3be7e6704,digital.clothing,resell,100,40,7,Porkbun LLC,04/09/2020 08:22,04/09/2026 08:22
-758bd45e-da19-4075-832e-8a5e89f537a2,digital.cloud,available,100,40,7,,,
-ec648d3c-ed08-418e-ad5b-21415d6ad364,digital.club,resell,100,40,7,"GoDaddy.com, LLC",26/01/2017 14:11,25/01/2026 23:59
-b5701f6c-5597-4eba-a516-e21f281bc64e,digital.co,resell,100,40,7,Hello Internet Corp.,25/02/2010 00:02,24/02/2026 23:59
-cc0d4913-163f-4800-874e-53f2556b8d1e,digital.coach,sold,100,40,7,Dynadot Inc,27/05/2018 04:12,27/05/2026 04:12
-7cda2200-06fa-46d0-a42f-8e7c99eb9fb5,digital.codes,resell,100,40,7,"Spaceship, Inc.",10/07/2024 15:15,10/07/2026 15:15
-ef923c7f-677b-40f8-9df8-dd237852ff5c,digital.college,available,100,40,7,,,
-14b6dac0-132e-474a-b4b2-abd096351e1a,digital.condos,available,100,40,7,,,
-c8abd205-9fc5-4400-b539-854677a0530f,digital.consulting,available,100,40,7,,,
-251916d6-3681-42f2-b253-71a5a5adef60,digital.contact,resell,100,40,7,"Sav.com, LLC - 6",06/02/2025 15:15,06/02/2026 15:15
-4b037b72-ffcf-42f2-b92d-b16c5a79daec,digital.cool,available,100,40,7,,,
-f9a970a2-f64a-49f6-9d50-af64283059e8,digital.country,available,100,40,7,,,
-88e1e856-d013-4f71-9e9e-2809c106a06c,digital.courses,available,100,40,7,,,
-e9d477f5-db77-42a5-b809-533ec763e2bf,digital.creditcard,resell,100,40,7,"Sav.com, LLC - 46",08/11/2025 15:15,08/11/2026 15:15
-ebd0f3e6-4175-441e-9724-ddfc793a3258,digital.cricket,available,100,40,7,,,
-dbc6f235-3a33-427b-845b-cb9270eb80e7,digital.cruises,available,100,40,7,,,
-5b8575f7-24b8-4ed1-a24a-79a379f5f96c,digital.cv,sold,100,40,7,ARME Reserved,10/07/2025 00:00,30/09/2026 00:00
-a0e3286a-e569-409c-a4a7-2b77f3f3caf9,digital.cx,resell,100,40,7,West263 International Limited,27/03/2025 00:00,27/03/2026 14:59
-4fdaee51-5633-4557-b762-e5071882456e,digital.cyou,sold,100,40,7,"Spaceship, Inc.",07/11/2024 10:30,07/11/2026 23:59
-022662fb-695e-45f8-93ac-3a5d4e2e8436,digital.dad,available,100,40,7,,,
-364af34e-94b2-4633-85f8-88a196f102a3,digital.date,available,100,40,7,,,
-ab6c1630-c92f-4808-a5b0-3275e305cb56,digital.day,available,100,40,7,,,
-5eb92c47-c253-4174-b6f9-d6b0f80e12f7,digital.deal,available,100,40,7,,,
-16536cfc-f7bd-4999-81ee-6162b6e1ab08,digital.dealer,available,100,40,7,,,
-a229a892-b3d6-490d-85ca-ddafff80a4d4,digital.degree,available,100,40,7,,,
-c1ad88db-5add-4306-8daf-11ca1b55d178,digital.delivery,sold,100,40,7,Dynadot Inc,25/04/2019 23:21,25/04/2026 23:21
-96055eb7-39b5-4fde-a7a0-b92a2df566f4,digital.dentist,available,100,40,7,,,
-044b855e-d509-4752-967b-c9e08069cc68,digital.diet,available,100,40,7,,,
-b58f2a78-ffeb-4f5e-b953-34ff38970fff,digital.direct,resell,100,40,7,"GoDaddy.com, LLC",26/07/2015 16:31,26/07/2026 16:31
-a412af20-0023-4690-a5c0-aa4634bd9c5e,digital.directory,sold,100,40,7,"Spaceship, Inc.",22/07/2023 15:15,22/07/2026 15:15
-aecc99bf-6c54-4427-a93e-ee4d944fc098,digital.discount,available,100,40,7,,,
-a7f55fb4-10e0-4af3-ac76-a18e2d53e98b,digital.diy,available,100,40,7,,,
-93f1af81-4e54-44e3-8ee6-4d5a339f8297,digital.doctor,sold,100,40,7,Dynadot Inc,16/01/2019 22:09,16/01/2026 22:09
-4562fc0a-77e4-4c2b-82f3-9960215cb4d5,digital.download,available,100,40,7,,,
-dc5b31ef-4e34-4f3d-aea3-b3a9136d26e9,digital.earth,expired,100,40,7,"Name.com, Inc.",23/11/2015 13:38,22/11/2025 23:59
-2d9bd2b9-26d8-4f33-bbe0-dc51d3c5ca0d,digital.energy,resell,100,40,7,"Sav.com, LLC",11/02/2015 17:42,11/02/2026 17:42
-0a3200ca-ab95-409b-ae5a-8cf679e3316a,digital.engineer,available,100,40,7,,,
-ab70c3c8-1582-437d-9247-15fdaae9cec0,digital.esq,available,100,40,7,,,
-ea9a1a57-421e-4980-8499-26e250045c7b,digital.estate,sold,100,40,7,"Spaceship, Inc.",25/07/2023 15:15,25/07/2026 15:15
-fccde8c1-f44f-4365-b92e-b71bff8f6868,digital.expert,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",15/07/2015 16:00,15/07/2027 16:00
-8f9e84bf-067d-41c6-9d7d-a4c053e1927b,digital.exposed,available,100,40,7,,,
-79aac146-e2cf-483f-b7b6-475e600dbde5,digital.express,resell,100,40,7,"Spaceship, Inc.",26/09/2022 13:15,26/09/2026 13:15
-c5535f66-f4a6-40e1-bcfb-ce8ddd5f9658,digital.fail,available,100,40,7,,,
-7d2693e1-1e08-4865-a8c0-31ca6efd7d0b,digital.faith,available,100,40,7,,,
-75c92947-1067-4d1f-a5a3-58373e70cf28,digital.fans,available,100,40,7,,,
-ca4cf21f-93fb-4abc-9d71-507c84697999,digital.farm,resell,100,40,7,"GoDaddy.com, LLC",30/07/2015 12:18,30/07/2026 12:18
-00f40abb-f995-48b3-b950-3645cac5febb,digital.fast,resell,100,40,7,"Dynadot, LLC",05/10/2025 15:16,05/10/2026 15:16
-ae514099-2793-40ef-826f-ae68034b65da,digital.film,available,100,40,7,,,
-0f5b8566-0645-4ab1-aeb4-67200473d1ae,digital.financial,resell,100,40,7,"GoDaddy.com, LLC",27/08/2024 02:04,27/08/2026 02:04
-f2a5be05-081c-4a0e-b4aa-97b7a1b9c6b0,digital.florist,sold,100,40,7,"HOSTINGER operations, UAB",08/11/2025 18:13,08/11/2026 18:13
-b297f61e-f07e-4aee-b9eb-d3e0de819cf5,digital.flowers,available,100,40,7,,,
-287da041-8a11-402b-9ad3-4dcdb88701e7,digital.foo,available,100,40,7,,,
-80fe147c-c547-403e-be4c-14dc26061b31,digital.food,available,100,40,7,,,
-bcb80231-08f7-4bd0-92d9-fd772b932ca9,digital.forsale,expiring,100,40,7,Porkbun LLC,10/12/2018 03:47,10/12/2025 03:47
-a251314b-a82d-4ef1-a40c-64b2c7024b6e,digital.forum,expiring,100,40,7,"Sav.com, LLC",14/12/2024 18:48,14/12/2025 18:48
-9cee9bf9-1296-4c90-8003-d7a634e105d5,digital.fun,available,100,40,7,,,
-ca74abc7-9322-4a2b-8f52-ed0d8ec5e7c8,digital.fund,resell,100,40,7,"Sav.com, LLC - 23",24/02/2023 15:15,24/02/2026 15:15
-cee25575-ed6c-4b1a-8490-23b059c3a19c,digital.furniture,sold,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/11/2024 15:15,14/11/2026 15:15
-8b585c00-040e-427c-bb31-7509758ef6ef,digital.games,available,100,40,7,,,
-de6947cc-164c-4092-9760-cc3550a7b4a7,digital.garden,expired,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",01/11/2023 07:04,01/11/2025 07:04
-a9650dde-a2a1-412e-9faf-468c04111800,digital.gay,available,100,40,7,,,
-ea167f20-6855-45dc-991d-6d00b94391b6,digital.gives,available,100,40,7,,,
-27c21e19-e93a-45b3-8110-af26ca4b714a,digital.giving,available,100,40,7,,,
-55711e9c-58ec-400f-8e0a-96d3c47a71bb,digital.glass,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",30/03/2014 16:00,30/03/2027 16:00
-18105e69-c4c1-4238-bd8c-60694a6ef212,digital.global,available,100,40,7,,,
-052b41da-167c-457a-9bfa-b09dc0a73e3c,digital.gmbh,available,100,40,7,,,
-792c5296-162f-42fa-9def-b7b7f7b6ecc2,digital.graphics,available,100,40,7,,,
-4dbd9b90-55b6-4a04-b40d-1f0fcb54c900,digital.gratis,available,100,40,7,,,
-4657cc1e-9252-492c-bed5-b2f63cedfdb3,digital.gripe,available,100,40,7,,,
-f03a3ec5-05ea-40ab-b76e-833649516af8,digital.group,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",05/06/2016 16:00,05/06/2027 16:00
-16a0b79d-0a64-44c2-9fd1-02450e90705d,digital.hair,available,100,40,7,,,
-8cefdf26-e535-49ec-9305-79b4715da8f6,digital.haus,resell,100,40,7,Cronon GmbH,20/08/2014 17:00,20/08/2026 17:00
-420c18b9-c7f9-456b-bdd7-9be606f92e11,digital.hiphop,sold,100,40,7,"Global Domains International, Inc.",22/09/2021 22:48,22/09/2026 22:48
-225ad699-5879-485c-8c58-1f525cc0b815,digital.hiv,available,100,40,7,,,
-26f144a0-57f5-4e18-9faf-e8e75d68b10f,digital.holiday,available,100,40,7,,,
-d3aecafc-4dfa-4a71-b4ab-c5a0dec9bccd,digital.homes,available,100,40,7,,,
-19d1a760-385e-4bd7-a7a6-54533636bc07,digital.horse,expiring,100,40,7,Sav.com LLC,18/12/2020 07:56,18/12/2025 07:56
-14722573-4cd7-4e47-b3d4-b9637a6989c9,digital.host,available,100,40,7,,,
-c20d4631-53fa-48a1-b193-676378df50bd,digital.hot,available,100,40,7,,,
-9f9f2325-5a5f-4803-8a82-c284bd93e929,digital.how,available,100,40,7,,,
-b6091ffe-69da-428d-a766-3b3510ebfdcc,digital.icu,expiring,100,40,7,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",25/12/2021 18:05,25/12/2025 23:59
-c5e1821c-10d8-4c64-9425-6e0a079c3f6a,digital.id,resell,100,40,7,PT Aksara Data Digital,19/06/2017 00:19,19/06/2026 23:59
-5c0c3edc-2ad2-4dbb-a26c-6b2e62be273d,digital.im,available,100,40,7,,,
-9e4be2ee-9cec-4085-807c-c4d0a707e584,digital.immobilien,resell,100,40,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
-53f26665-1a5b-48c5-b90f-bdd03ad4cab3,digital.ing,available,100,40,7,,,
-d521bd6f-f4e9-4ab5-b24a-9423786af802,digital.jewelry,resell,100,40,7,Porkbun LLC,15/01/2023 15:15,15/01/2026 15:15
-8e730782-d9ee-403a-ba97-7f97a1473ad6,digital.juegos,available,100,40,7,,,
-2a6fe042-ad9b-4d19-ade9-55e52ca9df92,digital.kaufen,expiring,100,40,7,"GoDaddy.com, LLC",18/12/2023 18:48,18/12/2025 18:48
-caabd80a-f76d-4800-9bd8-ac5361aeeeb8,digital.kids,available,100,40,7,,,
-7fbae6a6-b9de-4217-a168-a1a6f3f5f49e,digital.kim,resell,100,40,7,Porkbun LLC,10/05/2025 02:19,10/05/2026 02:19
-3ed811a4-bf2a-4c9a-bbeb-f4db5186009b,digital.kitchen,resell,100,40,7,Porkbun LLC,05/10/2024 15:15,05/10/2026 15:15
-8143350f-8799-49c1-a36f-f51025415bfe,digital.la,resell,100,40,7,TLD Registrar Solutions Ltd,18/02/2001 01:00,18/02/2026 23:59
-7a918678-930b-4882-bd1e-c9637f58e16f,digital.land,sold,100,40,7,"GoDaddy.com, LLC",25/07/2017 00:24,25/07/2026 00:24
-f85378ee-7533-4b62-8f4b-99d5650c48da,digital.lat,available,100,40,7,,,
-3d18ba13-f10c-4c97-bd2a-e455cf9b5ab4,digital.law,available,100,40,7,,,
-02036997-e7a1-4ee1-a1f1-103046dfcf8f,digital.lawyer,resell,100,40,7,"Spaceship, Inc.",19/07/2024 15:15,19/07/2026 15:15
-85dd05cd-1032-4040-976a-44f8d35cfcf4,digital.legal,resell,100,40,7,Porkbun LLC,25/04/2020 00:59,25/04/2026 00:59
-5b3daa64-493b-4580-abd1-19fa3ce42814,digital.lgbt,resell,100,40,7,1API GmbH,02/11/2021 18:13,02/11/2026 18:13
-d5fc96f0-2c3f-4ccf-a6d8-6408b84181c5,digital.life,resell,100,40,7,"GoDaddy.com, LLC",30/06/2015 06:33,30/06/2026 06:33
-cf105da4-6541-4386-80c7-fc6049050224,digital.lifestyle,available,100,40,7,,,
-f72c1c8a-c032-41d7-874e-401aeba83c82,digital.lighting,resell,100,40,7,Porkbun LLC,29/09/2024 15:16,29/09/2026 15:16
-5f978e37-9e48-4a7b-b40d-9f90ade8877f,digital.limited,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",11/01/2024 15:15,11/01/2026 15:15
-f814dc98-21c2-4456-b06b-ef3bf0cb886c,digital.link,resell,100,40,7,"Dynadot, LLC",18/03/2015 06:31,18/03/2026 06:31
-84c51aee-e4c0-4048-b55d-fb691bc04f6c,digital.live,sold,100,40,7,"Name.com, Inc.",21/09/2023 19:45,21/09/2026 19:45
-e41a7afe-acea-4f82-a0e6-caa215a3468e,digital.living,available,100,40,7,,,
-a17bcb4e-4aa5-41fa-972f-7c07ab782aa7,digital.llc,available,100,40,7,,,
-b9d08f61-4722-4f5c-a2aa-103c8de6f0c6,digital.loan,available,100,40,7,,,
-22fd508a-712e-4227-bb51-eddb2755fcea,digital.loans,available,100,40,7,,,
-9a975950-3391-4412-8748-0fb7cdff7c37,digital.locker,available,100,40,7,,,
-e9fa6b0d-bb65-4f5b-b666-bc68820b2925,digital.lol,expiring,100,40,7,"Sav.com, LLC - 38",14/12/2022 12:10,14/12/2025 23:59
-83ba5887-572e-4d51-be90-363d96b99650,digital.love,available,100,40,7,,,
-4a15d7a0-3087-426c-8290-538a6676a3b2,digital.ltda,available,100,40,7,,,
-cdd373fd-0db3-4890-82d1-0eca0236a6bc,digital.luxury,sold,100,40,7,"Sav.com, LLC",28/09/2023 13:12,28/09/2026 23:59
-66019150-14c2-422b-b5e8-afb95fc63eba,digital.makeup,available,100,40,7,,,
-a6c2a0de-1bb5-41af-8aff-90338f089eb3,digital.market,available,100,40,7,,,
-70ed3e81-abfc-4674-83f9-e4f9d83c5473,digital.marketing,resell,100,40,7,"GoDaddy.com, LLC",13/08/2015 16:51,13/08/2026 16:51
-f9ff08ae-6a58-4fb2-a192-f602e1a5f3ee,digital.mba,resell,100,40,7,"Sav.com, LLC",18/11/2017 17:42,18/11/2026 17:42
-907cfc97-6ef4-4b52-bb26-f294fddb2475,digital.me,resell,100,40,7,1API GmbH,29/04/2008 17:59,29/04/2026 17:59
-7a959c5d-005a-4401-ab8a-8f8bebda0690,digital.media,resell,100,40,7,1API GmbH,11/06/2015 16:00,11/06/2026 16:00
-f3157df8-9e4d-4f73-bade-425cf9b04c25,digital.meme,available,100,40,7,,,
-90efcbe8-992f-4ce0-94ce-b87f0c6bf30d,digital.men,resell,100,40,7,West263 International Limited,13/07/2018 09:56,13/07/2028 09:56
-170310b7-7ba4-4082-98ff-a1c8d595a9b6,digital.menu,available,100,40,7,,,
-004df0c0-5b46-4adb-994f-968c0cb879f9,digital.miami,resell,100,40,7,Hello Internet Corp.,27/02/2018 16:20,27/02/2026 16:20
-c220605b-17d3-4be5-aa0a-036519c523f3,digital.mobi,available,100,40,7,,,
-1e18b416-58c5-460a-a87c-73daddead9b7,digital.moda,resell,100,40,7,"NameCheap, Inc.",16/12/2016 18:18,16/12/2026 18:18
-96ef5d73-2056-439d-84d6-538d9f60cb2a,digital.moe,available,100,40,7,,,
-f9204409-4cbb-45b7-9b8d-25c2874d4a15,digital.mom,expiring,100,40,7,"XYZ.com, LLC",21/09/2023 00:02,21/09/2025 23:59
-dee74a94-fbb2-4f39-8b63-e186ebd7323a,digital.money,sold,100,40,7,"Name.com, Inc.",21/09/2023 19:50,21/09/2026 19:50
-23c8f645-da94-4ded-a737-08aa6df2f96f,digital.motorcycles,available,100,40,7,,,
-60dd058b-be76-48a8-ab2c-76bac79c263d,digital.mov,available,100,40,7,,,
-fc446988-8eeb-429c-ab33-e603882eb51b,digital.movie,available,100,40,7,,,
-d36f8bc9-4850-4dde-bbd6-6196c6a2c1a9,digital.music,available,100,40,7,,,
-791f9cfc-4185-40b1-991b-1fce100000a8,digital.mx,resell,100,40,7,GoDaddy.com,31/05/2009 00:00,30/05/2026 00:00
-22c3cf5f-70b0-4c3a-805b-058d34f702fd,digital.network,expiring,100,40,7,GoDaddy Online Services Cayman Islands Ltd.,10/12/2014 16:08,10/12/2025 16:08
-04eb4b46-6e6c-4529-8380-03ad586f7235,digital.news,available,100,40,7,,,
-1796aba6-8854-40ef-83a9-17e196920021,digital.nexus,available,100,40,7,,,
-56fd07c7-e8e7-459b-8d2a-6aeea9b38d0f,digital.ninja,available,100,40,7,,,
-a032842a-e680-44ba-9aca-1840cc7873c5,digital.now,resell,100,40,7,Porkbun LLC,27/09/2024 13:00,27/09/2026 13:00
-d736798d-2897-414f-addd-af9afd241cd4,digital.observer,available,100,40,7,,,
-701135d2-01ad-4e8e-bd3f-70f8cd7897f7,digital.ong,available,100,40,7,,,
-27a2e1f6-8add-4660-a6bc-52c0d9f69462,digital.online,available,100,40,7,,,
-6eb53e12-f7dd-4e53-9fed-f92549261a41,digital.ooo,available,100,40,7,,,
-14ebe57f-02f7-4e42-b211-080f937a1a2b,digital.osaka,available,100,40,7,,,
-0d76c25d-0a44-41f8-9b75-c409791ff7fb,digital.page,available,100,40,7,,,
-377cae6d-be87-4b07-9e94-1337d289b0dd,digital.partners,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",08/06/2014 16:00,08/06/2027 16:00
-451f4289-9a5e-4c0a-8417-1f3e68e25871,digital.pet,available,100,40,7,,,
-43524804-5ee7-40f4-8c4d-27787d68011d,digital.phd,available,100,40,7,,,
-9144ccba-c4db-4f9f-8a0f-c70713a60eba,digital.photo,resell,100,40,7,"Spaceship, Inc.",24/10/2024 18:56,24/10/2026 18:56
-7e080bca-7ab7-4dce-a767-e43522b6de4f,digital.photography,available,100,40,7,,,
-2a6500d1-a488-46be-9e6e-59b6611bb187,digital.photos,resell,100,40,7,"Global Domains International, Inc. DBA DomainCostClub.com",14/06/2015 16:00,14/06/2027 16:00
-b3adf6b2-c4e1-4c65-9cd8-a65db8f0bb2d,digital.pics,resell,100,40,7,"Spaceship, Inc.",15/04/2014 16:00,15/04/2026 23:59
+eafdfc7d-1233-4efa-b51e-cfa0a6f792da,comput.ing,available,74,15,9,,,
+a9446271-866b-4568-9866-f3f4aea0a6fa,computing.accountant,available,74,15,9,,,
+dd788809-4a19-4142-927d-01d82d73b662,computing.accountants,available,74,15,9,,,
+fd0f2778-0bfb-4cbb-9405-8f143f36913e,computing.actor,available,74,15,9,,,
+77650620-2a02-48e5-8b48-0eaa33e70eea,computing.adult,available,74,15,9,,,
+19b99d57-5cb9-4b5d-abb5-7987e4ef9bbf,computing.ag,available,74,15,9,,,
+c66a7574-f874-4b6d-8510-18dc5305e2e8,computing.agency,available,74,15,9,,,
+35986d13-e88d-4092-89a4-66b946a2b08b,computing.airforce,available,74,15,9,,,
+10b98fa8-0be7-4682-ae2b-2ca43395fea0,computing.apartments,available,74,15,9,,,
+d2ae27bd-4c39-441b-b2f4-45647a2a4598,computing.app,available,74,15,9,,,
+b973eed9-c4bf-454f-b4a8-9ebfefc7da97,computing.archi,available,74,15,9,,,
+bb20eb2e-bdbf-4e0b-b5dd-a654fd699ef1,computing.army,available,74,15,9,,,
+6d573d37-69a4-485a-8129-8e8e2ae8ac8d,computing.art,available,74,15,9,,,
+05186fcc-06cb-4829-b69f-3aa3300302ff,computing.associates,expiring,74,15,9,Dynadot Inc,18/12/2024 14:24,18/12/2025 14:24
+c34ac0f5-6871-48ec-95a0-b2c5c287053c,computing.at,available,74,15,9,,,
+acf4d2e0-5a8c-4c86-b345-e737637afd27,computing.attorney,resell,74,15,9,"eNom, LLC",04/09/2015 07:48,04/09/2026 07:48
+396bdc1b-47bc-4824-9822-2a3ed1b0ce09,computing.auction,available,74,15,9,,,
+5bc0280e-e09d-400d-aafd-125fa8c42c7a,computing.audio,available,74,15,9,,,
+d19de392-7862-49fc-9d03-89709c723776,computing.auto,available,74,15,9,,,
+4e2f56d2-2fdb-4bb2-8b1c-cf64ac1c0f07,computing.autos,available,74,15,9,,,
+db44ca58-4c68-4505-9e6d-c4e34874b477,computing.baby,available,74,15,9,,,
+2fdb4777-e36a-45f2-9021-8987869bcb12,computing.band,available,74,15,9,,,
+dd957f0b-1dc0-41ae-b785-2a9edd5dc039,computing.bargains,available,74,15,9,,,
+981ba699-c92a-43e8-be13-6dd85cac1d67,computing.bayern,available,74,15,9,,,
+ddfa06fb-bb43-44e0-98ae-e732b3750a33,computing.beauty,available,74,15,9,,,
+91a0b711-247f-4e6b-be55-9785f0d3770d,computing.beer,available,74,15,9,,,
+7055a6d2-7e3e-410a-af43-28243c09f9be,computing.berlin,available,74,15,9,,,
+3c6d7c86-9ddc-433f-9cc6-540b5ee29dcf,computing.best,available,74,15,9,,,
+a65ebb07-fd88-424a-ba46-bf1c8896c677,computing.bid,available,74,15,9,,,
+e32e4c34-40a6-4018-9f65-539a677bb3e1,computing.bike,available,74,15,9,,,
+f96c70df-2260-4881-848b-65053ba4cafe,computing.bingo,available,74,15,9,,,
+22b4febb-a42b-458a-ab52-8edeac930f54,computing.biz,resell,74,15,9,Dynadot Inc,07/06/2013 17:02,06/06/2026 23:59
+53a44f90-2eb1-40cf-8827-835ea31a0785,computing.black,available,74,15,9,,,
+3f561a82-bf2f-472a-93c5-89e2db2f5b5f,computing.blackfriday,available,74,15,9,,,
+57e177d8-9f48-4ef5-8de7-36d191cf4a8d,computing.blog,available,74,15,9,,,
+d1273fac-7a8c-45ca-ac75-96b75f934ebd,computing.blue,available,74,15,9,,,
+001480b7-5b6e-4e38-a99d-e0603381bd7b,computing.boats,available,74,15,9,,,
+80750910-cf63-4095-a2f4-ba8de29c997a,computing.bond,available,74,15,9,,,
+e6b8fb52-9b13-4eca-bb8f-2ec4dc5ce31a,computing.boo,available,74,15,9,,,
+41068a1c-79fb-422a-9411-bb8f3b492019,computing.boston,available,74,15,9,,,
+44133189-b7d9-4226-a5fb-c997754622f7,computing.bot,resell,74,15,9,"Spaceship, Inc.",08/09/2024 22:29,08/09/2026 22:29
+fdc870f2-7ec6-43f3-a23d-08bee455df20,computing.boutique,available,74,15,9,,,
+fc31c5be-2515-41e6-a4b5-a3deb2d031d5,computing.build,available,74,15,9,,,
+593268f2-35a6-4c8a-9a4b-8a54c82ea709,computing.builders,available,74,15,9,,,
+9d24c00e-b988-4242-97b9-0e8eba8094f4,computing.business,expiring,74,15,9,1API GmbH,10/12/2014 16:19,10/12/2025 16:19
+4c679961-60ef-4d39-8c70-9ea53d28aa82,computing.buzz,available,74,15,9,,,
+891fcfcc-0678-445d-942e-61a4d3d3abb1,computing.bz,available,74,15,9,,,
+dd220a86-3df1-4cc3-96d9-ae8635ca0ff1,computing.cab,available,74,15,9,,,
+3835aa79-6430-420a-95bc-3ee61d3d8fa8,computing.cam,available,74,15,9,,,
+d4b1889c-b811-4415-9bb9-ab619574bc1d,computing.camera,available,74,15,9,,,
+5145c58f-ebdc-4b0c-a2e2-89bd03458fc7,computing.camp,available,74,15,9,,,
+7f7030e7-2523-42d7-91cb-5bb00042e0d3,computing.car,available,74,15,9,,,
+1944c47c-bf60-4727-8201-9eb5955ca3ee,computing.cards,available,74,15,9,,,
+870b8c25-ef63-4e04-b3d7-3431552d7a5a,computing.care,available,74,15,9,,,
+e85cb276-d600-4eea-be5b-bae4b1677cab,computing.careers,available,74,15,9,,,
+07566788-9fe3-4543-816a-87ddd725ac9d,computing.cars,available,74,15,9,,,
+7da81ee0-4f63-4381-b071-47113795882d,computing.cash,available,74,15,9,,,
+9e8f5a1f-c978-4dd4-be66-25972700a0dd,computing.casino,available,74,15,9,,,
+00d7fc7f-4b1e-4cb1-8993-bb7019e80b6f,computing.catering,available,74,15,9,,,
+0c5448cb-997c-4ea7-890b-d45c68258d89,computing.cc,resell,74,15,9,Gname 160 Inc,14/02/2025 09:01,14/02/2026 09:01
+212fe329-31d0-461b-855a-594c668c4d79,computing.center,expiring,74,15,9,"GoDaddy.com, LLC",26/12/2024 19:13,26/12/2025 19:13
+7a8a008c-3af5-491d-8742-9e03ef7e498f,computing.ceo,available,74,15,9,,,
+e2ce0d5b-a42f-4ce4-a2d7-114922e89159,computing.cfd,available,74,15,9,,,
+bc57502c-c490-4575-87fd-e937318d702d,computing.charity,available,74,15,9,,,
+1efaf1f2-1320-45ba-9d36-ac9a00bb4c4f,computing.chat,resell,74,15,9,"DNSPod, Inc.",05/09/2025 12:56,05/09/2026 12:56
+e30f39c0-6ff8-41bd-b326-db2884dbbdaa,computing.cheap,available,74,15,9,,,
+7c45dade-54cb-41e3-8e55-31bfb5164eae,computing.christmas,available,74,15,9,,,
+1f78e4c7-4f75-4387-acd8-f1ef158bbc64,computing.church,available,74,15,9,,,
+5794bdad-7d70-4c04-ab76-bc4cd012176c,computing.city,available,74,15,9,,,
+1e471af5-d4dd-41c6-b5ae-1060612ac8f6,computing.claims,available,74,15,9,,,
+a200819a-1605-4324-95bc-016fc784dfce,computing.cleaning,available,74,15,9,,,
+f511da8a-b40a-4cb7-aebe-7dc824c78a9e,computing.clinic,available,74,15,9,,,
+3def9cfa-f0cb-4291-85b8-05177f4eb9dc,computing.clothing,available,74,15,9,,,
+ef89c8a7-d2a9-452c-999f-0e090d99d15b,computing.cloud,available,74,15,9,,,
+45929f1a-9d5a-48e8-a68d-0e1e65d741b8,computing.club,resell,74,15,9,"GoDaddy.com, LLC",07/05/2018 17:07,07/05/2028 17:07
+038c1931-0be3-4b15-9b8a-0eced5cebda3,computing.co,resell,74,15,9,Dynadot Inc,20/07/2010 18:00,19/07/2026 23:59
+5bf8d651-c66a-4762-9f19-ee77dc43afb6,computing.coach,available,74,15,9,,,
+b355b259-5bc1-4c5b-b974-b9a490bef2c8,computing.codes,expired,74,15,9,"NameCheap, Inc.",26/09/2016 19:32,26/09/2025 19:32
+2114e90c-25bc-4e6f-bbe6-a5db6522532e,computing.coffee,available,74,15,9,,,
+48380686-b041-4e5b-9d76-af5e90161627,computing.community,available,74,15,9,,,
+9786da4d-0617-4b99-9ace-ad98f1afd52f,computing.condos,available,74,15,9,,,
+9b883b3f-97e7-4ee7-ad89-bde44f84020c,computing.construction,available,74,15,9,,,
+74ecd308-dc54-4d80-852c-68effe05682b,computing.contact,available,74,15,9,,,
+59f2b5ef-931d-48ce-9fc2-bf0ec461c414,computing.contractors,available,74,15,9,,,
+e7b70a64-5311-42e8-b3eb-5f4eacd9f9d6,computing.cooking,available,74,15,9,,,
+e69bbfa2-8a06-4b9d-870a-798c0f3225e3,computing.cool,available,74,15,9,,,
+3908df57-ce0b-40f0-aa8b-03d5ba27c913,computing.country,available,74,15,9,,,
+83df2269-cef4-48db-9390-98d0df622603,computing.coupons,available,74,15,9,,,
+a0a40a0b-3de5-4b99-a0b6-566890e788a2,computing.courses,available,74,15,9,,,
+22dda709-ea3f-4767-8280-dcdee35d84c5,computing.credit,available,74,15,9,,,
+502f63b5-0dda-49ce-9de4-51cbd2e57902,computing.creditcard,available,74,15,9,,,
+b8764373-08e5-497b-b388-57cd4d78641b,computing.cricket,available,74,15,9,,,
+d22e843b-70ea-4b5f-9999-5cc9637b330e,computing.cruises,available,74,15,9,,,
+d4f4b8ae-278f-40cd-ae44-e743a39b0ad4,computing.cx,available,74,15,9,,,
+e0454139-2c86-4d5e-bdd9-fd36c3b6f539,computing.cyou,available,74,15,9,,,
+009b9cb8-2699-4ce5-ae24-f4ed67387c01,computing.dad,available,74,15,9,,,
+43664c6b-0230-432c-b203-324982d44e86,computing.dance,available,74,15,9,,,
+a5eab518-dbde-4445-b518-d228f947fa57,computing.date,available,74,15,9,,,
+350d1bc7-557c-4142-86e1-e9f58c28e621,computing.dating,available,74,15,9,,,
+3d7b63a8-0337-407a-a65d-33d1d777b728,computing.day,available,74,15,9,,,
+c23f47de-ccdf-4453-a70d-ee44ef2c6684,computing.deal,available,74,15,9,,,
+ab874998-3161-45a9-b86a-e161d6b2575e,computing.dealer,available,74,15,9,,,
+5b89bd50-0d33-434a-a5e3-e22789edd711,computing.deals,available,74,15,9,,,
+fbd60a6d-af84-48b7-a589-4ea39c336ce2,computing.degree,available,74,15,9,,,
+1acdae71-850c-4c73-956f-457752014a62,computing.delivery,available,74,15,9,,,
+70d0c93c-b2cd-4457-ad9e-dc51cd0c2e12,computing.democrat,available,74,15,9,,,
+4d88317e-ae29-4204-a538-7c7384aae26f,computing.dental,available,74,15,9,,,
+dbc2a015-ee1c-4024-847c-ee5677ce67cb,computing.dentist,available,74,15,9,,,
+513f3193-dbbd-47c3-8b5f-fc286bb7fc85,computing.design,available,74,15,9,,,
+051aba9c-cc34-452b-84ae-bb163c47b829,computing.dev,available,74,15,9,,,
+48568063-c2fb-4e94-8863-65c4fa27c165,computing.diamonds,available,74,15,9,,,
+400e5284-a0e6-4ac1-a373-acf19213884f,computing.diet,available,74,15,9,,,
+f1236b84-46e7-48d6-9b0b-fed22d7533b6,computing.digital,resell,74,15,9,Porkbun LLC,02/05/2020 00:27,02/05/2026 00:27
+c5313b9f-fa05-496c-b5b7-57ae699f67d7,computing.discount,available,74,15,9,,,
+5a762966-c2ea-409f-860e-f4674816f98e,computing.diy,available,74,15,9,,,
+38040334-e38b-40eb-8d8c-1d77e37740b5,computing.doctor,resell,74,15,9,"Go China Domains, LLC",02/11/2016 16:00,02/11/2026 16:00
+6356863c-0396-4e39-8c90-ff42c623cff9,computing.dog,available,74,15,9,,,
+86a6da2d-659c-4cd1-803b-270632a73869,computing.domains,available,74,15,9,,,
+d44321d1-8e5e-42ec-9ce9-e445d4be33f5,computing.download,available,74,15,9,,,
+63abf621-f20f-4a02-9adf-520f4cdd822a,computing.earth,available,74,15,9,,,
+f7c9ccee-8bf9-49f6-962f-6cc8d5aa12ae,computing.email,available,74,15,9,,,
+b0990fa4-b40a-4d32-acc5-52ad32c0e332,computing.energy,available,74,15,9,,,
+459f5330-6574-49c1-b3fb-ea86d06921f2,computing.engineer,available,74,15,9,,,
+06eca090-bb4b-4d6b-b187-11675fc88cdf,computing.engineering,available,74,15,9,,,
+bfdd41ee-ccc6-42cf-8884-66ee2623c24a,computing.enterprises,available,74,15,9,,,
+5ec45623-3abc-47ff-ba67-6305271dbd3a,computing.equipment,available,74,15,9,,,
+6919dedf-0605-437b-b47c-e6ba961be579,computing.esq,available,74,15,9,,,
+797cd3ad-8677-48e7-883d-66a26367df31,computing.estate,available,74,15,9,,,
+c9bbf9d0-0dde-46fe-bdf6-db58222e55aa,computing.eu,premium,74,15,9,,,
+29466951-8c2b-4279-b966-9f38749663e1,computing.events,available,74,15,9,,,
+e0d33359-0dd7-4f00-8f79-6215a61901cf,computing.expert,resell,74,15,9,Gandi SAS,26/05/2020 06:33,26/05/2026 06:33
+a7ae64c5-6919-4c31-bd28-94e4e3d6804e,computing.exposed,available,74,15,9,,,
+77d65227-ec87-4cdd-9e75-efe072af9f53,computing.express,available,74,15,9,,,
+550b9732-9af4-405b-9171-af9055f0ac6f,computing.fail,available,74,15,9,,,
+72f9a760-0f19-40ec-a6e2-38a77eb19f39,computing.faith,available,74,15,9,,,
+0d6c57a8-1f72-4d58-abb0-e5627e103c8b,computing.fan,available,74,15,9,,,
+9d1ec0d4-e782-4e8f-9ee6-0dad408c5390,computing.fans,available,74,15,9,,,
+29928aab-f2eb-4af1-95d8-a3998b4a6f67,computing.farm,available,74,15,9,,,
+898e51e9-6ea8-4a7e-bfd5-c34bcc4e4906,computing.fashion,available,74,15,9,,,
+2a983934-3491-48f9-87f6-c1c39abda965,computing.fast,available,74,15,9,,,
+7c14872e-4355-4282-a185-8b7f7948909b,computing.feedback,available,74,15,9,,,
+a5c1d41e-a393-4436-8fe7-f5ba037d327b,computing.film,available,74,15,9,,,
+640bba7d-b51c-4c6b-b11e-e43667bf31f6,computing.finance,available,74,15,9,,,
+9460df78-7269-4ab7-b7a2-26553f8f4ade,computing.financial,available,74,15,9,,,
+7679fa3a-c12a-4145-8725-0af3eaaa0c0f,computing.fish,available,74,15,9,,,
+cd64e3bc-f1b3-429c-add7-5f448451dfc2,computing.fishing,available,74,15,9,,,
+cde868fa-109f-43a5-900f-3e531a954d50,computing.fitness,available,74,15,9,,,
+f8e1dc92-4db0-4890-ae39-3530f4eee1eb,computing.flights,available,74,15,9,,,
+7ff867d4-2574-4f3b-bb84-5546d165ee20,computing.florist,available,74,15,9,,,
+651bb801-2575-472d-a9e6-3e81bd187448,computing.flowers,available,74,15,9,,,
+19d3c8ad-9ed1-4ad7-8250-ff0e2158b4ae,computing.fm,available,74,15,9,,,
+6af6513d-5686-4140-a2f9-00a8fb6fc6b3,computing.foo,available,74,15,9,,,
+9b1f1285-720e-48c8-94fa-9d1e1014658d,computing.food,available,74,15,9,,,
+ad62af1e-147f-43a6-9211-d3573e3c3788,computing.football,available,74,15,9,,,
+f988f753-a8c9-4937-ae2b-8dd8735d4459,computing.forsale,available,74,15,9,,,
+688d0709-2f12-45d1-a207-9331bb713ecb,computing.foundation,available,74,15,9,,,
+51d17d47-380f-4df9-8db0-264bb889c670,computing.free,available,74,15,9,,,
+ef7952fc-7c2e-454f-9449-6106a7caa14b,computing.fun,available,74,15,9,,,
+39e591be-8d2c-443e-9c1a-3bc9e771f038,computing.fund,available,74,15,9,,,
+251f4470-c893-48e9-b7e8-255ab368ae22,computing.furniture,available,74,15,9,,,
+dfc693e6-ae24-411c-af16-541d4f9828df,computing.futbol,available,74,15,9,,,
+c0bcb6bc-53cc-4f37-904c-d19d4aa79067,computing.gallery,available,74,15,9,,,
+92cd7846-c35a-4182-b7cd-73af445f0328,computing.game,available,74,15,9,,,
+5386fa02-7205-4aa1-94d5-8a85b702ce23,computing.gay,available,74,15,9,,,
+6896acc1-3807-40e2-9d69-8c1f1136f7be,computing.gg,available,74,15,9,,,
+a69293c4-5147-45f0-a0f3-8df76fb4aff3,computing.gift,available,74,15,9,,,
+96b4de78-a8aa-41d5-a8f6-afdcd561c689,computing.gifts,available,74,15,9,,,
+9ecf378f-82ab-4213-b41f-1aef2c3ecdbc,computing.gives,available,74,15,9,,,
+539948f2-8b43-4773-84ec-f0c5e03b3946,computing.giving,available,74,15,9,,,
+b82a8f7e-870f-44b4-a7e7-f8891605ecc8,computing.glass,available,74,15,9,,,
+7316efc5-e7b8-4dfc-a5a1-880c0c3a7557,computing.global,available,74,15,9,,,
+72c20ba3-bc8e-4bb6-a580-343e36c35cb2,computing.gmbh,available,74,15,9,,,
+0a03c741-04c1-4e03-877e-1ef30d79653f,computing.gold,available,74,15,9,,,
+fa4dd14b-264c-4e87-9dab-1055ad1ea2fe,computing.golf,available,74,15,9,,,
+b069b3eb-27be-4435-a42c-671dbc83617d,computing.graphics,available,74,15,9,,,
+033d92d7-a0e8-4c62-b135-d0f959a8fb90,computing.gratis,available,74,15,9,,,
+80ffbe8a-a333-45b5-8c35-36ecf9b0205b,computing.gripe,available,74,15,9,,,
+25cb126e-8c60-4223-9d02-18997b4d73e5,computing.guide,expiring,74,15,9,"Sav.com, LLC",17/12/2024 23:27,17/12/2025 23:27
+3f809d80-09cf-42ff-bca3-2a7848b44c78,computing.guitars,available,74,15,9,,,
+1bdbc475-2e7e-4e48-8dbe-f370662a066e,computing.hair,available,74,15,9,,,
+c3325afe-7588-4b9c-b1b4-664f33c59014,computing.haus,available,74,15,9,,,
+d0d16050-b944-4d5b-b467-86626ceda4d2,computing.health,available,74,15,9,,,
+ca79ae25-bad6-4cf3-bb66-5cff9bc8a6fe,computing.healthcare,available,74,15,9,,,
+a5018741-8773-4efb-a218-7cd21813921c,computing.hiphop,available,74,15,9,,,
+e368b61c-e839-4b5c-b745-7ba1b27e80de,computing.hiv,available,74,15,9,,,
+fcfbb91a-e38c-4209-8b37-a9e8372a09f3,computing.hockey,available,74,15,9,,,
+6c6f3501-0bb5-4432-9143-7cc204a4c2d5,computing.holdings,available,74,15,9,,,
+ee9a3afe-799a-4452-8291-0962b503eb3c,computing.holiday,available,74,15,9,,,
+9f15fde9-dd0a-4ef4-8ecc-831a2a523273,computing.homes,available,74,15,9,,,
+ec582630-5861-46b6-b8d1-e4d762d29473,computing.horse,available,74,15,9,,,
+3e7d6a67-814b-4fc6-8cd5-d1cd270e548f,computing.hospital,available,74,15,9,,,
+a47532e4-29e0-4b38-8a31-29f6c31a05e5,computing.host,available,74,15,9,,,
+37d7af90-2759-4b66-9dc2-1a088d3b6e00,computing.hosting,available,74,15,9,,,
+832a50ce-1222-4838-a769-ac26d8e4fd2f,computing.hot,available,74,15,9,,,
+1fbe5a90-9556-4955-b279-e7f773bd0b3e,computing.house,resell,74,15,9,Dynadot Inc,09/08/2025 07:39,09/08/2026 07:39
+d7743277-bce1-4315-a459-6e2c33292ec0,computing.how,available,74,15,9,,,
+b206cd9b-9baa-47ee-a45a-e2006d19a73e,computing.icu,available,74,15,9,,,
+33fcc368-ee6a-48a2-b9c6-075f91fb61b1,computing.im,available,74,15,9,,,
+5a27a693-c95e-456b-b502-3c3d02077928,computing.immo,available,74,15,9,,,
+d877e5d8-fece-417b-a195-49a6193a76fe,computing.immobilien,available,74,15,9,,,
+0b10738d-add3-4734-b474-45b4b205bfbd,computing.in,resell,74,15,9,"Spaceship, Inc.",16/02/2005 06:34,16/02/2026 06:34
+c0be5ac7-d0a2-400c-889a-88f08bb88ddc,computing.inc,available,74,15,9,,,
+7ad396f1-b6fa-430a-8163-0bdadeee78df,computing.industries,available,74,15,9,,,
+afd16e5b-0a47-4de0-81fe-0c1324380b1c,computing.info,resell,74,15,9,"Spaceship, Inc.",13/07/2002 19:33,13/07/2026 19:33
+5123cf8d-a431-48f1-95a1-bde220e4ae1d,computing.ing,available,74,15,9,,,
+d0986230-3f56-4983-9695-32a4986b4b1d,computing.insure,available,74,15,9,,,
+6f36c22d-9904-4cc6-b05c-0fa970e559fe,computing.investments,available,74,15,9,,,
+dad0b09d-d5bb-412b-a853-94e878a1bc41,computing.io,resell,74,15,9,"GoDaddy.com, LLC",16/09/2018 10:11,16/09/2026 10:11
+8b976a95-80bb-418f-8f19-d929618e3796,computing.irish,available,74,15,9,,,
+5f16b2c0-af6d-40c8-bccc-cd2e7b8b824b,computing.jetzt,available,74,15,9,,,
+eda877e7-cf74-48cc-9a09-87faeb657e51,computing.jewelry,available,74,15,9,,,
+d3ddb844-0a01-4d5a-95f0-2bcd14df3f55,computing.juegos,available,74,15,9,,,
+7cf2bd94-32e9-4c34-b225-b28cf1916e0a,computing.kaufen,available,74,15,9,,,
+83d7503e-af3b-4e21-86a7-6fe0fb29cecf,computing.kids,available,74,15,9,,,
+7a026e03-c3e9-4523-af9a-10fd3f7af80d,computing.kim,available,74,15,9,,,
+a0124bd1-5bd9-45f1-b0e8-192712e12de1,computing.kitchen,available,74,15,9,,,
+98724395-24af-49aa-a825-80a4e4cc4225,computing.la,resell,74,15,9,LA Domain Names,04/09/2019 18:50,04/09/2026 23:59
+7bb1ff77-9dba-44e9-8c66-199066cd6c70,computing.lat,available,74,15,9,,,
