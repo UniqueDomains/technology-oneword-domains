@@ -1,62 +1,62 @@
 
-# List of .TECHNOLOGY One Word Domain Names (5,684)
+# List of Technology One Word Domain Names (21,311)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/technology-oneword-domains.svg?style=flat)]() [![5,684 .TECHNOLOGY one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-5%2C684-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Technology-oneword-domains.svg?style=flat)]() [![21,311 Technology one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-21%2C311-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .TECHNOLOGY one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Technology one-word domains still available to buy.
 
-This dataset contains 5,861 .TECHNOLOGY one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Technology one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.TECHNOLOGY one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=description.top) (5,684) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Technology one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=description.top) (21,311) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/blob/main/technology.csv"><b>⬇️ CSV (5.86K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/blob/main/technology.json"><b>⬇️ JSON (5.86K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.68K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/blob/main/Technology.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/blob/main/Technology.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (21.31K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain                | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| --------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| abactinal.technology  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.technology      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.technology  | available | 58       | 7%     | 9      |           |         |         |
-| abashed.technology    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.technology     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.technology   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.technology     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.technology    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.technology   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.technology  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.technology  | available | 82       | 5%     | 9      |           |         |         |
-| abdominous.technology | available | 56       | 1%     | 10     |           |         |         |
-| abducens.technology   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.technology   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.technology  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.technology    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.technology | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.technology   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.technology    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.technology  | available | 54       | 3%     | 9      |           |         |         |
-| abide.technology      | available | 94       | 15%    | 5      |           |         |         |
-| abiding.technology    | available | 106      | 5%     | 7      |           |         |         |
-| abient.technology     | available | 54       | 1%     | 6      |           |         |         |
-| ability.technology    | available | 92       | 16%    | 7      |           |         |         |
-| abject.technology     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.technology     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.technology  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.technology     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.technology  | available | 78       | 1%     | 9      |           |         |         |
-| ablated.technology    | available | 52       | 2%     | 7      |           |         |         |
+| Domain                  | Status    | Attract. | Demand | Length | Registrar                                | Created          | Expires          |
+| ----------------------- | --------- | -------- | ------ | ------ | ---------------------------------------- | ---------------- | ---------------- |
+| internetofthings.dev    | premium   | 66       | 84%    | 18     |                                          |                  |                  |
+| internetofthings.expert | available | 66       | 84%    | 18     |                                          |                  |                  |
+| internetofthings.io     | resell    | 66       | 84%    | 18     | GoDaddy.com, LLC                         | 08/07/2019 10:09 | 08/07/2026 10:09 |
+| internetofthings.me     | expiring  | 66       | 84%    | 18     | GoDaddy.com, LLC                         | 15/07/2012 01:05 | 15/07/2025 01:05 |
+| internetofthings.net    | resell    | 66       | 84%    | 18     | NameCheap, Inc.                          | 18/06/2004 03:17 | 18/06/2026 03:17 |
+| internetofthings.ninja  | available | 66       | 84%    | 18     |                                          |                  |                  |
+| internetofthings.org    | resell    | 66       | 84%    | 18     | GoDaddy.com, LLC                         | 18/06/2004 03:18 | 18/06/2026 03:18 |
+| internetofthings.so     | available | 66       | 84%    | 18     |                                          |                  |                  |
+| internetofthings.store  | available | 66       | 84%    | 18     |                                          |                  |                  |
+| internetofthings.tech   | expiring  | 66       | 84%    | 18     | 1API GmbH                                | 02/08/2015 16:00 | 02/08/2025 23:59 |
+| internetofthings.us     | expiring  | 66       | 84%    | 18     | Sav.com LLC                              | 12/07/2012 03:08 | 11/07/2025 23:59 |
+| internetofthings.zone   | available | 66       | 84%    | 18     |                                          |                  |                  |
+| development.at          | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.cloud       | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.expert      | expired   | 62       | 84%    | 11     | Nom-iq Ltd. dba COM LAUDE                | 14/05/2014 16:00 | 14/05/2025 16:00 |
+| development.gg          | resell    | 62       | 84%    | 11     | Enrapture Limited (https://enrapture.gg) |                  |                  |
+| development.me          | expiring  | 62       | 84%    | 11     | GoDaddy.com, LLC                         | 09/07/2008 17:03 | 09/07/2025 17:03 |
+| development.online      | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.so          | expired   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.space       | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.store       | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.tech        | premium   | 62       | 84%    | 11     |                                          |                  |                  |
+| development.xyz         | resell    | 62       | 84%    | 11     | Go Daddy, LLC                            | 02/06/2014 17:02 | 02/06/2026 23:59 |
+| services.academy        | resell    | 72       | 24%    | 8      | Dynadot Inc                              | 06/07/2025 17:00 | 06/07/2026 17:00 |
+| services.accountant     | premium   | 72       | 24%    | 8      |                                          |                  |                  |
+| services.accountants    | premium   | 72       | 24%    | 8      |                                          |                  |                  |
+| services.actor          | available | 72       | 24%    | 8      |                                          |                  |                  |
+| services.adult          | premium   | 72       | 24%    | 8      |                                          |                  |                  |
+| services.ag             | available | 72       | 24%    | 8      |                                          |                  |                  |
+| services.airforce       | available | 72       | 24%    | 8      |                                          |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/blob/main/technology.csv"><b>⬇️ CSV (5.86K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/technology-oneword-domains/blob/main/technology.json"><b>⬇️ JSON (5.86K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (5.68K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/blob/main/Technology.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Technology-oneword-domains/blob/main/Technology.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (21.31K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.TECHNOLOGY one word d
 | Travel             | 23,630       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 17,983       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/technology-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=technology-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Technology-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=description.image)
         
