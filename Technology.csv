@@ -534,7 +534,7 @@ a5b5b390-08a8-440e-9535-5356ac553f13,technology.energy,premium,88,26,10,,,
 b688a579-b28c-4ca6-9ffd-b9d085303ad2,technology.equipment,resell,88,26,10,"Sav.com, LLC",08/09/2020 10:21,08/09/2026 10:21
 65cc8e65-d617-4c0b-b280-02a94ed86acf,technology.esq,premium,88,26,10,,,
 1dd7cad6-5afd-4f6d-963f-705b1d5e7f2a,technology.estate,premium,88,26,10,,,
-500a3580-bb4d-47ad-80bc-525fc6fd08b5,technology.eu,premium,88,26,10,,,
+500a3580-bb4d-47ad-80bc-525fc6fd08b5,technology.eu,sold,88,26,10,Name: IONOS SE Website: https://ionos.com,,
 67c9c692-a677-4ad8-b29e-5102dfc3e492,technology.exposed,premium,88,26,10,,,
 9daa687a-18ff-4aab-a662-ef7c5a0077b1,technology.express,premium,88,26,10,,,
 accb77b4-1cc0-4176-9217-87739955271e,technology.fail,premium,88,26,10,,,
@@ -750,6 +750,7 @@ b1b93944-36c7-406a-898c-8a977f5527cb,technology.supply,premium,88,26,10,,,
 605af222-8801-493e-8a9b-c105542b9745,technology.tienda,available,88,26,10,,,
 696df593-6079-4c1d-868d-3330b2648b0a,technology.tips,premium,88,26,10,,,
 9e8ae662-de1e-4d4b-b16a-803637f101c6,technology.tires,available,88,26,10,,,
+47c87844-79fd-44a8-bfaa-6fe06d540784,technology.to,resell,88,26,10,"Spaceship, Inc.",23/10/2024 09:06,01/11/2026 03:28
 031d8438-c794-4e06-b830-edb6791eef63,technology.today,sold,88,26,10,"GoDaddy.com, LLC",22/09/2019 22:40,22/09/2026 22:40
 541cba36-792e-4e0e-a479-9ceafc38d1db,technology.tools,premium,88,26,10,,,
 b5f724cf-1fec-4e0d-8441-76da5c86e88a,technology.tours,resell,88,26,10,"Sav.com, LLC",22/01/2025 17:11,22/01/2026 17:11
@@ -998,4 +999,3 @@ a0933bd1-9cf0-4704-b046-c96b904c8bf1,cloud.pizza,sold,70,52,5,Nom-iq Ltd. dba CO
 cefd15ea-5c33-4e3b-8c82-e44659bd8327,cloud.place,sold,70,52,5,Squarespace Domains II LLC,21/09/2014 16:00,21/09/2026 16:00
 fea7e0ed-d242-413f-a3f4-f28646cfeaac,cloud.plumbing,premium,70,52,5,,,
 228c8eaa-1561-41ac-8340-7ae358312c90,cloud.porn,sold,70,52,5,"NameCheap, Inc.",14/11/2025 21:12,14/11/2026 21:12
-d1a71d65-9de8-485e-a561-935f1cc7c4dd,cloud.press,premium,70,52,5,,,
