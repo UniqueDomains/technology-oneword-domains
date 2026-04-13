@@ -1,20 +1,20 @@
-# Available .TECHNOLOGY One-Word Domains (7,886)
+# Available .TECHNOLOGY One-Word Domains (7,884)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C885%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C886%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C886%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C884%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .technology one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .technology one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 7,885-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,886 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 7,885 rows · **Live catalog:** 7,886 domains
+**Public extract:** 7,886 rows · **Live catalog:** 7,884 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/technology`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .TECHNOLOGY one-word d
 
 ### Files
 
-- `technology.csv` — public CSV extract (7,885 rows)
-- `technology.json` — public JSON extract (7,885 rows)
+- `technology.csv` — public CSV extract (7,886 rows)
+- `technology.json` — public JSON extract (7,886 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| cozy.technology      | available | $17.99    | $41.99        | 110            | 36     | 4      | name.com        |
-| some.technology      | resell    | $17.99    | $41.99        | 80             | 36     | 4      | Spaceship, Inc. |
-| athletics.technology | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap       |
-| short.technology     | available | $17.99    | $41.99        | 76             | 33     | 5      | name.com        |
-| hidden.technology    | resell    | $17.99    | $41.99        | 65             | 34     | 6      | Spaceship, Inc. |
-| film.technology      | premium   | $123.75   | —             | 84             | 35     | 4      | name.com        |
 | adult.technology     | available | $17.99    | $41.99        | 110            | 30     | 5      | name.com        |
-| pack.technology      | resell    | $17.99    | $41.99        | 100            | 30     | 4      | Spaceship, Inc. |
-| gas.technology       | premium   | $128.70   | $128.70       | 72             | 31     | 3      | namecheap       |
+| cozy.technology      | resell    | $17.99    | $41.99        | 110            | 37     | 4      | Spaceship, Inc. |
+| athletics.technology | premium   | $85.80    | $85.80        | 69             | 52     | 9      | namecheap       |
 | rescue.technology    | available | $17.99    | —             | 74             | 30     | 6      | name.com        |
-| trinity.technology   | resell    | $17.99    | $41.99        | 72             | 30     | 7      | Spaceship, Inc. |
-| natural.technology   | premium   | $1,040    | $1,040        | 106            | 28     | 7      | namecheap       |
+| some.technology      | resell    | $17.99    | $41.99        | 80             | 36     | 4      | Spaceship, Inc. |
+| film.technology      | premium   | $123.75   | —             | 84             | 35     | 4      | name.com        |
 | outside.technology   | available | $17.99    | $41.99        | 60             | 27     | 7      | name.com        |
-| extra.technology     | resell    | $17.99    | $41.99        | 102            | 27     | 5      | Spaceship, Inc. |
-| sad.technology       | premium   | $82.50    | $82.50        | 72             | 27     | 3      | name.com        |
-| split.technology     | available | $17.99    | $41.99        | 46             | 27     | 5      | name.com        |
-| three.technology     | resell    | $17.99    | $41.99        | 88             | 27     | 5      | Spaceship, Inc. |
-| mining.technology    | premium   | $520      | $520          | 66             | 27     | 6      | namecheap       |
+| short.technology     | resell    | $17.99    | $41.99        | 76             | 36     | 5      | Spaceship, Inc. |
+| gas.technology       | premium   | $128.70   | $128.70       | 72             | 31     | 3      | namecheap       |
 | eight.technology     | available | $17.99    | $41.99        | 102            | 26     | 5      | name.com        |
-| flat.technology      | resell    | $17.99    | $41.99        | 116            | 26     | 4      | Spaceship, Inc. |
+| hidden.technology    | resell    | $17.99    | $41.99        | 65             | 34     | 6      | Spaceship, Inc. |
+| natural.technology   | premium   | $1,040    | $1,040        | 106            | 28     | 7      | namecheap       |
+| dirty.technology     | available | $17.99    | $41.99        | 92             | 26     | 5      | name.com        |
+| pack.technology      | resell    | $17.99    | $41.99        | 100            | 30     | 4      | Spaceship, Inc. |
+| mining.technology    | premium   | $520      | $520          | 66             | 27     | 6      | namecheap       |
+| crisp.technology     | available | $17.99    | $41.99        | 68             | 26     | 5      | name.com        |
+| trinity.technology   | resell    | $17.99    | $41.99        | 72             | 30     | 7      | Spaceship, Inc. |
+| sad.technology       | premium   | $82.50    | $82.50        | 72             | 26     | 3      | name.com        |
+| second.technology    | available | $17.99    | $41.99        | 120            | 25     | 6      | name.com        |
+| split.technology     | resell    | $17.99    | $41.99        | 46             | 28     | 5      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,885-row public sample | 7,886 live domains                               |
+| 7,886-row public sample | 7,884 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
