@@ -1,10 +1,10 @@
-# Available .TECHNOLOGY One-Word Domains (10,716)
+# Available .TECHNOLOGY One-Word Domains (10,720)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C716%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C720%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .technology one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,716 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **10,720 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,716 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,720 domains · **Median ask:** $21.14 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/technology`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ----------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Cats.technology         | available | $37.98    | —             | 59             | 33     | 4      | namecheap        |
-| info.technology         | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC      |
-| Tools.technology        | premium   | $560      | $560          | 56             | 40     | 5      | namecheap        |
-| cams.technology         | available | $17.99    | —             | 52             | 29     | 4      | name.com         |
-| bit.technology          | resell    | —         | —             | 76             | 46     | 3      | Porkbun LLC      |
-| neuroscience.technology | premium   | $123.75   | —             | 80             | 37     | 12     | name.com         |
-| backyard.technology     | available | $17.99    | —             | 80             | 27     | 9      | name.com         |
-| auto.technology         | resell    | —         | —             | 68             | 45     | 4      | Porkbun LLC      |
-| hills.technology        | premium   | $82.50    | —             | 65             | 20     | 5      | name.com         |
-| gods.technology         | available | $17.99    | —             | 72             | 27     | 4      | name.com         |
-| stories.technology      | resell    | —         | —             | 58             | 36     | 7      | Spaceship, Inc.  |
-| SantaClara.technology   | premium   | $138.60   | $138.60       | 75             | 9      | 11     | namecheap        |
-| sites.technology        | available | $17.99    | —             | 53             | 26     | 5      | name.com         |
-| homes.technology        | resell    | —         | —             | 86             | 34     | 5      | Dynadot Inc      |
-| comics.technology       | available | $17.99    | —             | 68             | 24     | 6      | name.com         |
-| tongues.technology      | resell    | —         | —             | 51             | 6      | 7      | GoDaddy.com, LLC |
-| gamers.technology       | available | $17.99    | —             | 62             | 24     | 6      | name.com         |
-| signs.technology        | available | $17.99    | —             | 64             | 22     | 5      | name.com         |
-| flights.technology      | available | $17.99    | —             | 61             | 22     | 7      | name.com         |
-| Allie.technology        | available | $37.98    | —             | 72             | 21     | 5      | namecheap        |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| Acup.technology     | available | $37.98    | —             | 80             | 5      | 5      | namecheap   |
+| finals.technology   | available | $17.99    | —             | 80             | 7      | 6      | name.com    |
+| ladies.technology   | available | $17.99    | —             | 80             | 17     | 6      | name.com    |
+| barup.technology    | available | $17.99    | —             | 82             | 2      | 6      | name.com    |
+| geton.technology    | available | $17.99    | —             | 82             | 10     | 6      | name.com    |
+| Apples.technology   | available | $37.98    | —             | 90             | 16     | 6      | namecheap   |
+| useit.technology    | available | $17.99    | —             | 94             | 7      | 6      | name.com    |
+| dogsit.technology   | available | $17.99    | —             | 96             | 2      | 6      | name.com    |
+| edamame.technology  | available | $17.99    | —             | 80             | 9      | 7      | name.com    |
+| toneup.technology   | available | $17.99    | —             | 80             | 5      | 7      | name.com    |
+| stirup.technology   | available | $17.99    | —             | 82             | 3      | 7      | name.com    |
+| impress.technology  | available | $17.99    | —             | 86             | 18     | 7      | name.com    |
+| leaveon.technology  | available | $17.99    | —             | 80             | 1      | 8      | name.com    |
+| Snickers.technology | available | $37.98    | —             | 80             | 10     | 8      | namecheap   |
+| FabFour.technology  | available | $17.99    | —             | 82             | 3      | 8      | name.com    |
+| Cats.technology     | available | $37.98    | —             | 59             | 33     | 4      | namecheap   |
+| info.technology     | resell    | —         | —             | 80             | 51     | 4      | Porkbun LLC |
+| Tools.technology    | premium   | $560      | $560          | 56             | 40     | 5      | namecheap   |
+| cams.technology     | available | $17.99    | —             | 52             | 29     | 4      | name.com    |
+| auto.technology     | resell    | —         | —             | 68             | 46     | 4      | Porkbun LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,716 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 10,720 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all one-word names on the .technology extension. That creates a narrow comparison set: each name pairs a single term with a highly explicit TLD. In this selection, the strongest candidates tend to be words that stay clear and pronounceable when combined with .technology, such as popup.technology or forces.technology. More ambiguous terms like Acup.technology or barup.technology may feel less intuitive, even if they are short. The median ask is 21.14, so price is relatively approachable, but the better choice still depends on whether the word is easy to remember, commercially usable, and unlikely to create confusion or trademark friction.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Single-word names paired with the .technology extension
+- Median ask across this selection is 21.14
+- Clear dictionary words usually read better with .technology
+- Check trademark overlap before valuing a name highly
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
