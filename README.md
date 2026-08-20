@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .technology one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 15,319 domains · **Median ask:** $14.48 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/technology`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,11 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| away.technology  | available | $17.99    | —             | high           | low    | 4      | name.com          |
-| fun.technology   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
 | bae.technology   | available | $17.99    | —             | high           | low    | 3      | name.com          |
 | three.technology | resell    | $17.99    | $41.99        | high           | low    | 5      | Spaceship, Inc.   |
 | bay.technology   | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo          |
 | BJP.technology   | available | $17.99    | —             | medium         | low    | 3      | name.com          |
+| fun.technology   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC      |
 | boo.technology   | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
 | sup.technology   | available | $17.99    | —             | high           | low    | 3      | name.com          |
 | tap.technology   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
@@ -84,6 +83,7 @@ print(df.head())
 | list.technology  | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 22 |
 | dye.technology   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo          |
 | avon.technology  | available | $17.99    | —             | high           | low    | 4      | name.com          |
+| more.technology  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
