@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e834474-8cec-4b56-b4c3-9e1f338b77d7,aground.technology,available,3.98,37.98,low,low,7,namecheap,,,
 c38443cd-5027-4ad8-93e5-7092b0764cf7,coolly.technology,available,17.99,,high,low,6,name.com,,,
 cfb7d0e6-f1b6-4773-a678-91ca3ca8ad26,luggage.technology,available,17.99,,high,low,7,name.com,,,
-15323dfd-9aab-42b6-8ece-6b32c144e8c2,fun.technology,resell,,,high,medium,3,"Sav.com, LLC",12/07/2019 09:33,12/07/2026 09:33,
+15323dfd-9aab-42b6-8ece-6b32c144e8c2,fun.technology,resell,,,high,medium,3,"Sav.com, LLC",12/07/2019 09:33,12/07/2027 09:33,18/09/2026 06:26
 7302001e-1140-4af5-ace3-484627abf557,recumbent.technology,available,3.98,37.98,low,low,9,namecheap,,,
 7700fe18-3e90-47bd-8705-45343612abd9,breakeven.technology,available,17.99,,high,low,10,name.com,,,
 16d859bd-1c48-4280-9054-e0fe5ee66811,verymuch.technology,available,17.99,,high,low,9,name.com,,,
@@ -774,7 +774,6 @@ d4a25ce3-5891-4a99-b1c0-9688f24a5489,stricken.technology,available,3.98,37.98,lo
 b57dec2a-236b-4a29-a825-3bb43e1eb2a8,aboutship.technology,available,17.99,,high,low,10,name.com,,,
 69406336-bf57-47ef-ba05-a6895ce289bf,perch.technology,available,3.98,37.98,low,low,5,namecheap,,,
 33271ee9-3643-4a1b-bd6a-2e0c91aa69db,acidreflux.technology,available,17.99,,medium,low,11,name.com,,,
-cb30e505-14aa-407d-8db9-a91af0bc0e99,silver.technology,resell,,,medium,low,6,"Sav.com, LLC - 26",12/07/2025 15:16,12/07/2026 15:16,
 793ea18c-7c79-4de2-8915-26e8c65ca0ab,industrialize.technology,available,17.99,,medium,low,13,name.com,,,
 17b6b17e-3307-4b3d-abc3-7fcb690c4535,solo.technology,available,,,high,low,4,,,,
 35c7eadc-9c03-4e5b-987f-5efad14f2378,ElSalvador.technology,available,,,medium,low,11,,,,
@@ -999,3 +998,4 @@ f7e921bb-0fc9-4b67-80eb-835f55ad84ab,seriously.technology,available,17.99,,mediu
 9c1fc7c5-1298-4b17-a9e8-853eb6bc9df7,antimonic.technology,available,3.98,37.98,low,low,9,namecheap,,,
 5cbcba68-f0ff-47a9-845a-7e1df9d6708e,analogy.technology,available,17.99,,high,low,7,name.com,,,
 123195da-a50b-4db2-92ba-b4c3923aaf52,xxviii.technology,available,3.98,37.98,low,low,6,namecheap,,,
+c5170ab3-2308-4123-aee6-062c6c495dd7,remain.technology,available,17.99,,high,low,6,name.com,,,
