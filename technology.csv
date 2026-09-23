@@ -3,7 +3,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5e834474-8cec-4b56-b4c3-9e1f338b77d7,aground.technology,available,3.98,37.98,low,low,7,namecheap,,,
 c38443cd-5027-4ad8-93e5-7092b0764cf7,coolly.technology,available,17.99,,high,low,6,name.com,,,
 cfb7d0e6-f1b6-4773-a678-91ca3ca8ad26,luggage.technology,available,17.99,,high,low,7,name.com,,,
-15323dfd-9aab-42b6-8ece-6b32c144e8c2,fun.technology,resell,,,high,medium,3,"Sav.com, LLC",12/07/2019 09:33,12/07/2027 09:33,19/09/2026 14:16
+15323dfd-9aab-42b6-8ece-6b32c144e8c2,fun.technology,resell,,,medium,low,3,"Sav.com, LLC",12/07/2019 09:33,12/07/2027 09:33,23/09/2026 04:48
 7302001e-1140-4af5-ace3-484627abf557,recumbent.technology,available,3.98,37.98,low,low,9,namecheap,,,
 7700fe18-3e90-47bd-8705-45343612abd9,breakeven.technology,available,17.99,,high,low,10,name.com,,,
 16d859bd-1c48-4280-9054-e0fe5ee66811,verymuch.technology,available,17.99,,high,low,9,name.com,,,
@@ -33,12 +33,12 @@ e4c1f51b-e9cc-4bdb-a57b-108f388e5b14,asyoulike.technology,available,17.99,,high,
 8cfb7eb5-7e17-44bf-8e87-045aafa3bb51,humorous.technology,available,17.99,,high,low,8,name.com,,,
 6d20186f-4a8a-472e-a690-40f07d48324d,grass.technology,resell,,,medium,low,5,"Spaceship, Inc.",23/02/2026 08:57,23/02/2027 08:57,
 b00e1946-55fa-461a-8303-6b7292d178b3,pad.technology,premium,78.54,78.54,medium,low,3,namesilo,,,
-7020332f-f8f3-4b94-8313-fc90c6e28d76,likewise.technology,available,17.99,41.99,medium,low,8,name.com,,,
+7020332f-f8f3-4b94-8313-fc90c6e28d76,likewise.technology,available,12.99,28.49,low,low,8,namesilo,,,22/09/2026 00:06
 280931b2-8983-4d5f-9465-5fe7771fc398,alpine.technology,available,,,high,low,6,,,,
 e9165075-2523-4033-9245-dcdef68ac1ee,lace.technology,available,17.99,,high,low,4,name.com,,,
 1cff7aae-d7f1-4114-91bc-6a149c454498,granddaughterinlaw.technology,available,17.99,,high,low,20,name.com,,,
 7cf98d8f-ba46-4ef0-a6ad-d646e3991df5,beamy.technology,available,3.98,37.98,low,low,5,namecheap,,,09/08/2026 04:18
-1b7555e1-fe6b-4579-a3e5-61bf17c9a72d,amicable.technology,available,17.99,,high,low,8,name.com,,,
+1b7555e1-fe6b-4579-a3e5-61bf17c9a72d,amicable.technology,available,12.99,28.49,medium,low,8,namesilo,,,22/09/2026 04:19
 97c8dc0b-e5dc-4e5e-b02b-80200f2949ff,stating.technology,available,17.99,,high,low,7,name.com,,,
 78f36a0a-80d5-49c8-be95-426bd73749f3,crystal.technology,resell,,,high,low,7,"Spaceship, Inc.",25/12/2023 15:15,25/12/2026 15:15,
 30894a41-a7cb-4bd6-95ba-0bdb31698de4,wannabe.technology,available,3.98,37.98,low,low,7,namecheap,,,07/08/2026 05:17
@@ -47,7 +47,7 @@ e9165075-2523-4033-9245-dcdef68ac1ee,lace.technology,available,17.99,,high,low,4
 f45a6bec-895a-4060-9b7c-4c558904302c,amylaceous.technology,available,3.98,37.98,low,low,10,namecheap,,,
 d8c90a5c-5c5f-4d8a-95b7-94740d0e88fd,tiptop.technology,available,3.98,37.98,low,low,6,namecheap,,,
 843ce1e6-229b-4b26-9d57-b56aac1e47fd,ateleiotic.technology,available,3.98,37.98,low,low,10,namecheap,,,07/08/2026 12:59
-214d0798-7ac7-4380-b7e8-40d4cf0e1ffa,antiacid.technology,available,17.99,,high,low,8,name.com,,,
+214d0798-7ac7-4380-b7e8-40d4cf0e1ffa,antiacid.technology,available,12.99,28.49,medium,low,8,namesilo,,,22/09/2026 05:47
 64399fd4-fd72-4703-8af1-30a3548d3154,jock.technology,available,17.99,,high,low,4,name.com,,,
 ffd410b6-d0c0-4f4b-83a2-4ddf7d3fbfd5,recap.technology,available,17.99,,high,low,5,name.com,,,
 75f1142f-2ce4-4100-8db1-f0ebd5f87c18,apocrine.technology,available,3.98,37.98,low,low,8,namecheap,,,06/08/2026 01:05
@@ -57,12 +57,12 @@ e9299087-3038-487e-8d87-562555fd2f31,repeated.technology,available,17.99,,medium
 602b5ebc-eab2-4e22-b8d8-a021efd658c2,genesis.technology,resell,,,medium,low,7,Dynadot Inc,07/12/2022 15:15,07/12/2026 15:15,
 6d422d02-afa8-4b0f-b547-c93cba3c4c21,developer.technology,resell,,,high,low,9,"Spaceship, Inc.",23/02/2026 08:56,23/02/2027 08:56,
 8ce2a547-35c2-485f-a456-5addc716e6cf,struggle.technology,available,17.99,,high,low,8,name.com,,,
-34a2cba6-3541-45ab-b77a-37b5414fa8d0,three.technology,resell,17.99,41.99,high,low,5,"Spaceship, Inc.",23/02/2026 08:57,23/02/2027 08:57,
+34a2cba6-3541-45ab-b77a-37b5414fa8d0,three.technology,resell,17.99,41.99,medium,low,5,"Spaceship, Inc.",23/02/2026 08:57,23/02/2027 08:57,21/09/2026 13:02
 79541224-4982-4d65-b136-a26400aada12,toothcare.technology,available,17.99,,low,low,9,name.com,,,
 af4a0b7e-cb4b-46ab-960f-e542e8560ffc,propose.technology,available,17.99,,high,low,7,name.com,,,
 58967d57-b278-4f84-8480-b898e6a35c9c,ataxic.technology,available,3.98,37.98,low,low,6,namecheap,,,07/08/2026 12:32
 e4266b0a-40d9-4cab-920c-4b980ccdda9c,froze.technology,available,17.99,,medium,low,5,name.com,,,
-e9afde7b-06e7-47ae-b974-e3766895c6ce,prejudice.technology,available,17.99,,high,low,9,name.com,,,
+e9afde7b-06e7-47ae-b974-e3766895c6ce,prejudice.technology,available,3.98,37.98,low,low,9,namecheap,,,22/09/2026 20:16
 dd5080ed-11b0-4cae-9ec0-ba21ecca7406,cinque.technology,available,3.98,37.98,low,low,6,namecheap,,,
 222df1f6-2968-4ef8-b629-8f29d89c7288,gaffer.technology,available,3.98,37.98,low,low,6,namecheap,,,
 5ed3da65-dccd-4cd4-8d5c-2969f82a0f23,affixal.technology,available,3.98,37.98,low,low,7,namecheap,,,
@@ -72,7 +72,7 @@ dd5080ed-11b0-4cae-9ec0-ba21ecca7406,cinque.technology,available,3.98,37.98,low,
 c002b4fb-5f6b-44ae-a3c4-18a82bd238be,sextuplet.technology,available,3.98,37.98,low,low,9,namecheap,,,
 ccd9d5c5-59b6-4a57-85bc-9b6243c2ac92,astudent.technology,available,17.99,,high,low,9,name.com,,,
 ed256b1e-078c-4980-a794-f78cfa2fc9a1,victorian.technology,available,17.99,,high,low,9,name.com,,,
-7ec02736-79ab-49cf-a929-f7a75a6d4388,amalgamate.technology,available,17.99,41.99,high,low,10,name.com,,,
+7ec02736-79ab-49cf-a929-f7a75a6d4388,amalgamate.technology,available,12.99,28.49,medium,low,10,namesilo,,,22/09/2026 03:01
 1ebc66f3-063c-439f-9312-3985c3ef5f10,safety.technology,resell,,,medium,low,6,"Spaceship, Inc.",07/05/2019 14:43,07/05/2027 14:43,08/09/2026 08:04
 dc5511ac-7d79-4d1b-9e79-0fb61cb2811c,establishment.technology,available,17.99,,medium,low,13,name.com,,,
 850b8830-bebb-4b72-bc2c-d839c266012e,rowingboat.technology,available,17.99,,high,low,11,name.com,,,
@@ -81,7 +81,7 @@ c4f44a4f-4c03-46f3-af2a-1554c2ede72e,adjunctive.technology,available,3.98,37.98,
 4b56b209-a9ee-48f5-bd2c-2b9678f4573a,broadly.technology,available,17.99,,medium,low,7,name.com,,,
 ca31a0a3-de18-487d-99e8-d3e1d9128d26,appointed.technology,available,3.98,37.98,low,low,9,namecheap,,,06/08/2026 07:21
 57ba4500-7bab-48fa-831b-365636196762,howgoesthewar.technology,available,17.99,,medium,low,16,name.com,,,
-db5b3c8d-9abb-4100-be63-915d2ad95880,dressed.technology,available,17.99,,high,low,7,name.com,,,
+db5b3c8d-9abb-4100-be63-915d2ad95880,dressed.technology,available,12.99,28.49,low,low,7,namesilo,,,22/09/2026 07:16
 1cc02b8f-8c6c-4073-bc39-1902c15c6460,bankrupt.technology,available,3.98,37.98,low,low,8,namecheap,,,08/08/2026 13:29
 b05d6c45-45d9-4f5d-ac45-57386fb0544c,fairs.technology,available,17.99,,high,low,5,name.com,,,
 da0f642a-11dc-40d4-a9be-139d19e7738f,penandink.technology,available,17.99,,medium,low,11,name.com,,,
@@ -122,7 +122,7 @@ ba57c1c3-75c0-4b64-8346-b495f5547ac4,takeonboard.technology,available,17.99,,med
 6026b900-1ef8-419c-8e19-4209b3d1a7f4,confused.technology,available,,,medium,low,8,,,,
 208203ec-566b-4a82-a643-8a0888afe390,musicgame.technology,available,17.99,,high,low,10,name.com,,,
 44b7aad9-0e10-4791-b507-6507ade4c775,charactertrait.technology,available,17.99,,high,low,15,name.com,,,
-4b31ddb3-7024-419b-812c-ae8cfba06c0a,documented.technology,available,17.99,,medium,low,10,name.com,,,
+4b31ddb3-7024-419b-812c-ae8cfba06c0a,documented.technology,available,12.99,28.49,low,low,10,namesilo,,,22/09/2026 11:37
 63e48fac-4b47-428c-85b4-cdd39e43298c,deepdish.technology,available,17.99,,high,low,9,name.com,,,
 632e06cd-cd87-4fd5-a44f-d20dc9fd0538,thisinstant.technology,available,17.99,,low,low,12,name.com,,,
 826c28b3-21f6-4e1f-be63-f6c4c9bfb7fb,humanbeing.technology,available,17.99,,high,low,11,name.com,,,
@@ -136,7 +136,7 @@ a5df9e09-219b-4885-9931-9dd9b21e3970,quarter.technology,available,17.99,,medium,
 74261e8b-b7c2-46fc-b1f1-10695b579bd5,instead.technology,available,17.99,,high,low,7,name.com,,,
 9ee79435-b45a-45d2-86e0-c7764cbe162d,whattheheck.technology,available,17.99,,low,low,13,name.com,,,
 947d35d1-829e-47e9-98bb-7210873dab2a,thereagain.technology,available,17.99,,low,low,11,name.com,,,
-fd0f3bb1-3274-4f79-8b45-a049b860c873,superstar.technology,available,17.99,41.99,high,low,9,name.com,,,
+fd0f3bb1-3274-4f79-8b45-a049b860c873,superstar.technology,available,3.98,37.98,medium,low,9,namecheap,,,21/09/2026 17:56
 873472e0-e922-4d9f-be8f-93eba9312f20,dishonour.technology,available,17.99,,high,low,9,name.com,,,
 34ccf27d-05c6-4456-b9e8-82a72f579971,organise.technology,available,17.99,41.99,high,low,8,name.com,,,
 3e5dff88-3f76-49ac-8a30-97851801d830,awry.technology,available,3.98,37.98,low,low,4,namecheap,,,
@@ -186,9 +186,9 @@ b799df5e-5ea6-407f-9a79-a8f022678df5,mordacious.technology,available,3.98,37.98,
 6d6bfb27-b5ec-45da-a865-f94e65d50a1d,arthralgic.technology,available,3.98,37.98,low,low,10,namecheap,,,06/08/2026 22:49
 843df7ba-265d-496e-9a7b-4402a63bd190,abulic.technology,available,3.98,37.98,low,low,6,namecheap,,,
 e86247f7-b178-419a-ba34-9632d5a45067,acneiform.technology,available,3.98,37.98,low,low,9,namecheap,,,
-6206d9aa-99f8-4d37-8e62-65c035edf9ef,abovetheline.technology,available,17.99,,medium,low,14,name.com,,,
+6206d9aa-99f8-4d37-8e62-65c035edf9ef,abovetheline.technology,available,17.99,,low,low,14,name.com,,,
 d640ee10-f9fe-4f3e-8086-a642bb622a02,baggagecarousel.technology,available,17.99,,medium,low,16,name.com,,,
-325b9824-ec8d-4c89-bb0a-9e354ef4112e,joint.technology,available,17.99,,high,low,5,name.com,,,
+325b9824-ec8d-4c89-bb0a-9e354ef4112e,joint.technology,available,3.98,37.98,medium,low,5,namecheap,,,22/09/2026 08:50
 f159f547-c84b-4f21-9509-c9a8df4c65a1,aphonic.technology,available,3.98,37.98,low,low,7,namecheap,,,05/08/2026 23:17
 ce3607b6-f92b-49ea-a728-b024acb9fbb5,greenparty.technology,available,17.99,,medium,low,11,name.com,,,
 2d318527-1618-4dda-ac8e-f91e1eb8b48c,modelling.technology,available,17.99,,high,low,9,name.com,,,
@@ -216,7 +216,7 @@ c419fe34-13b2-407e-8727-d10792d2ce49,debase.technology,available,3.98,37.98,low,
 cd527a23-e0ae-4d24-aa90-9b48bcaafd9a,undefended.technology,available,3.98,37.98,low,low,10,namecheap,,,07/08/2026 05:33
 e17d7063-4d39-4fc2-b3c8-ba62bceb1871,direction.technology,available,17.99,,high,low,9,name.com,,,
 510e1298-f47c-4245-b147-2a539aab5763,goodrun.technology,available,17.99,,high,low,8,name.com,,,
-eddcffe3-654e-413f-8840-edae99b37330,abomb.technology,available,17.99,,high,low,6,name.com,,,
+eddcffe3-654e-413f-8840-edae99b37330,abomb.technology,available,17.99,,medium,low,6,name.com,,,
 d544d288-d58d-454f-a5bc-f1e6bbcb58f8,pestering.technology,available,,,medium,low,9,,,,
 45a360ea-da91-4edd-a0d7-c6b06465bed2,grayhaired.technology,available,17.99,,medium,low,11,name.com,,,
 818ed289-9d95-48df-a956-0ab1f7380ad6,chiliad.technology,available,3.98,37.98,low,low,7,namecheap,,,
@@ -231,11 +231,11 @@ ca6eb555-51cd-48c5-8f96-1cbd9dccbbfc,bacteremic.technology,available,3.98,37.98,
 089125c6-c8cd-4071-a217-5908daf33b33,vscogirl.technology,available,17.99,,medium,low,9,name.com,,,
 ad197fa1-2a4c-4714-987d-e257324d5f76,bearsized.technology,available,3.98,37.98,low,low,10,namecheap,,,09/08/2026 04:23
 51ac8a7a-d519-4d0c-98fd-4283a0690428,pretoria.technology,available,17.99,,medium,low,8,name.com,,,
-b36040f8-4b0f-4d2c-94b2-c4791522eb95,invigorate.technology,available,17.99,,high,low,10,name.com,,,
+b36040f8-4b0f-4d2c-94b2-c4791522eb95,invigorate.technology,available,3.98,37.98,medium,low,10,namecheap,,,22/09/2026 04:52
 36845c6f-0d9b-4e5c-846d-9203a7050b48,polo.technology,available,,,high,low,4,,,,
 ec7327e7-ba56-4deb-b44b-9ba695dbcd1d,dothelaundry.technology,available,17.99,,medium,low,14,name.com,,,
-6ef79a86-09c4-4b05-9fdb-a09c1ffd4cb6,accepted.technology,available,17.99,41.99,high,low,8,name.com,,,
-07f19b94-7ef9-4e03-a909-136e099bab0d,bow.technology,premium,118.8,118.8,high,low,3,namesilo,,,
+6ef79a86-09c4-4b05-9fdb-a09c1ffd4cb6,accepted.technology,available,12.99,28.49,medium,low,8,namesilo,,,21/09/2026 15:25
+07f19b94-7ef9-4e03-a909-136e099bab0d,bow.technology,premium,118.8,118.8,medium,low,3,namesilo,,,23/09/2026 01:50
 d4f0f4be-c5dc-4517-9713-c2aa4cd76b67,tone.technology,available,17.99,,medium,low,4,name.com,,,
 9b215515-9ce0-4f2f-b844-6487ad794e5f,backside.technology,available,3.98,37.98,low,low,8,namecheap,,,09/08/2026 10:44
 7eab7c52-0c44-4233-a4db-63284120711c,acidfast.technology,available,3.98,37.98,low,low,9,namecheap,,,
@@ -260,7 +260,7 @@ f5f2a167-d044-4c9f-8845-dcd8f6230b12,patriotism.technology,available,17.99,,high
 a69c6bd1-9652-46dc-b51c-9e479a5f562b,quarterof.technology,available,17.99,,low,low,10,name.com,,,
 b82c4e12-bff5-4beb-9381-addcf3d10e96,sup.technology,available,17.99,,high,low,3,name.com,,,
 6d14073f-83ae-400c-85c6-cfd71c34cff5,swollen.technology,available,17.99,41.99,medium,low,7,name.com,,,
-8d5618b4-25ca-4b0f-aaa6-ba13d918995a,accused.technology,available,17.99,,high,low,7,name.com,,,
+8d5618b4-25ca-4b0f-aaa6-ba13d918995a,accused.technology,available,17.99,,low,low,7,name.com,,,
 76971f95-8da8-4fc8-808c-e9714d8d41fb,dime.technology,available,,,medium,low,4,,,,
 eb5a313e-fab3-46d6-890e-3891bfc915ae,consumption.technology,available,17.99,,medium,low,11,name.com,,,
 8eadb742-3697-47ab-a59a-2e35785099e3,thorny.technology,available,3.98,37.98,low,low,6,namecheap,,,08/08/2026 17:55
@@ -271,7 +271,7 @@ ff3487cc-6d13-4d0d-87be-c7703c9abaad,comeout.technology,available,17.99,,high,lo
 c82d29fa-b95a-4769-843e-bb1eac97361c,risen.technology,available,17.99,,medium,low,5,name.com,,,
 a19e9b73-4b1f-419f-a1df-4ed3bba26403,normally.technology,available,17.99,,medium,low,8,name.com,,,
 fef0e2b0-fde0-4259-b38a-d858a3926c0b,bathetic.technology,available,3.98,37.98,low,low,8,namecheap,,,09/08/2026 00:28
-c97463aa-6a0e-4bd3-a47f-84fb4d9e10b5,billion.technology,resell,,,high,low,7,"GoDaddy.com, LLC",04/02/2026 17:04,04/02/2027 17:04,
+c97463aa-6a0e-4bd3-a47f-84fb4d9e10b5,billion.technology,resell,,,medium,low,7,"GoDaddy.com, LLC",04/02/2026 17:04,04/02/2027 17:04,22/09/2026 20:43
 651a96d1-5735-44d6-8507-b41005588e99,exalt.technology,available,3.98,37.98,medium,low,5,namecheap,,,
 01d6c8e7-48c4-4e62-9d0d-4f8579ab3451,acheronian.technology,available,3.98,37.98,low,low,10,namecheap,,,
 9efb9df4-1fe5-45ef-a66f-f5b2695e4c0f,allowfor.technology,available,17.99,,high,low,9,name.com,,,
@@ -297,12 +297,12 @@ a479e31c-90fe-4490-b854-03edcbbf677d,discerning.technology,available,3.98,37.98,
 51c70e16-7cba-41e2-80bb-55b1e0c0b953,fortysix.technology,available,3.98,37.98,low,low,9,namecheap,,,
 6fef81b9-ecde-4915-b0e5-957913ae4dc4,phantasmal.technology,available,3.98,37.98,low,low,10,namecheap,,,06/08/2026 05:33
 11b6acb2-da38-4271-8516-090855a9be40,mountain.technology,resell,,,high,low,8,"Spaceship, Inc.",09/04/2026 21:10,09/04/2027 21:10,
-0e8de49d-61f3-4d69-96d2-a200eadd1829,borderline.technology,available,17.99,,high,low,10,name.com,,,
+0e8de49d-61f3-4d69-96d2-a200eadd1829,borderline.technology,available,3.98,37.98,low,low,10,namecheap,,,23/09/2026 00:01
 cfcda05e-a410-4150-9275-fe00926051ed,frustrated.technology,available,17.99,41.99,medium,low,10,name.com,,,
 83fadd4a-b252-4627-8735-7071d060df7a,aciculate.technology,available,3.98,37.98,low,low,9,namecheap,,,
 339fb66b-7603-47a7-a0f5-38f9597db09c,clock.technology,available,17.99,,medium,low,5,name.com,,,
-091a0fa9-9b7a-4966-80a3-cc4a7ac723b9,bordered.technology,available,17.99,,medium,low,8,name.com,,,
-906e21f5-8c6c-4031-b041-317153ce474b,bothered.technology,available,17.99,,medium,low,8,name.com,,,
+091a0fa9-9b7a-4966-80a3-cc4a7ac723b9,bordered.technology,available,12.99,28.49,low,low,8,namesilo,,,22/09/2026 23:55
+906e21f5-8c6c-4031-b041-317153ce474b,bothered.technology,available,12.99,28.49,low,low,8,namesilo,,,23/09/2026 01:08
 b496fae8-aeff-41ee-87e2-231622bf01fa,allyoucaneat.technology,available,17.99,,high,low,15,name.com,,,
 a8a758b5-642c-48ec-bbc6-bb05e31d21ed,acapnotic.technology,available,3.98,37.98,low,low,9,namecheap,,,
 e612493a-a501-42dc-a66b-3a74765c0b36,midfebruary.technology,available,17.99,,high,low,12,name.com,,,
@@ -315,9 +315,8 @@ b5a1a3d0-19c8-4fe9-8d45-08331873ffa4,amerciable.technology,available,3.98,37.98,
 988036cf-bece-4156-b8e8-f34d732b0f94,pustulate.technology,available,3.98,37.98,low,low,9,namecheap,,,
 3bef6e8e-3fa2-4e9b-9507-d2e6eeb71e38,nourishing.technology,available,3.98,37.98,medium,low,10,namecheap,,,19/09/2026 17:50
 7ad60747-1157-4d2b-81a0-90d6aef87455,lxxx.technology,available,3.98,37.98,low,low,4,namecheap,,,
-92787ec7-3e4b-44db-b44c-d3e706270091,express.technology,resell,,,high,low,7,"Spaceship, Inc.",22/08/2019 11:47,22/08/2026 11:47,
-9c5ea26d-434a-4388-81c6-a507257a0328,twentysix.technology,available,17.99,41.99,high,low,10,name.com,,,
-f34fb3aa-deba-44eb-a2a8-8fd689d0b662,balsamic.technology,available,17.99,,high,low,8,name.com,,,
+9c5ea26d-434a-4388-81c6-a507257a0328,twentysix.technology,available,3.98,37.98,medium,low,10,namecheap,,,21/09/2026 12:53
+f34fb3aa-deba-44eb-a2a8-8fd689d0b662,balsamic.technology,available,12.99,28.49,medium,low,8,namesilo,,,22/09/2026 16:34
 cc15a6cc-f5a0-4f3e-b140-9a7e7858004f,muhfucka.technology,available,17.99,,medium,low,8,name.com,,,
 2f6e22b5-a02b-4f87-9776-b80ccedd9603,success.technology,resell,,,high,low,7,"Spaceship, Inc.",27/10/2024 17:00,27/10/2026 17:00,
 555ed426-3ded-4271-ac80-0ef1eacfd4b9,silverspoon.technology,available,17.99,,medium,low,12,name.com,,,
@@ -330,7 +329,7 @@ e9ca97fd-2250-430d-a525-1fb9b4c693a7,viewer.technology,available,17.99,,medium,l
 cd474aef-8df8-401d-9364-c90ed98df0df,affecting.technology,available,3.98,37.98,low,low,9,namecheap,,,
 dfe8cf61-58f1-412b-854d-34a72407eac5,slip.technology,available,17.99,,high,low,4,name.com,,,
 72d10969-67cf-4bd5-8134-460275f665b5,saved.technology,available,17.99,,high,low,5,name.com,,,
-3c65bfe9-35ba-49de-b20d-d35af4a6462b,about.technology,premium,118.8,118.8,high,low,5,namesilo,,,
+3c65bfe9-35ba-49de-b20d-d35af4a6462b,about.technology,premium,118.8,118.8,medium,low,5,namesilo,,,21/09/2026 14:03
 7fcc4724-c885-4b92-b6c8-7fdb95fcd88c,witty.technology,available,17.99,,high,low,5,name.com,,,
 af000dc2-0a7c-467b-ba36-bcabf5ae6659,peaceful.technology,available,17.99,,high,low,8,name.com,,,
 6a1cb5e5-9b27-4a8a-8a2f-84c5d8ba2ecf,annotated.technology,available,17.99,,medium,low,9,name.com,,,
@@ -338,18 +337,17 @@ af000dc2-0a7c-467b-ba36-bcabf5ae6659,peaceful.technology,available,17.99,,high,l
 42b5481d-e5aa-416a-8e3d-87bb4e29ad53,onec.technology,available,3.98,37.98,low,low,5,namecheap,,,
 dd534619-1a4b-42be-a2e4-bb2a43942974,luckystreak.technology,available,17.99,,high,low,12,name.com,,,
 c7f2acc3-72e0-44cb-ae70-a0c76a7a23d9,teeth.technology,available,17.99,,high,low,5,name.com,,,
-be0ee6f6-7b06-4866-8b98-c3a31f0aa7bf,armored.technology,available,17.99,,medium,low,7,name.com,,,
+be0ee6f6-7b06-4866-8b98-c3a31f0aa7bf,armored.technology,available,12.99,28.49,low,low,7,namesilo,,,22/09/2026 08:00
 a569ad8e-88aa-45c4-af1e-ee63bfcc119b,fiction.technology,available,17.99,,high,low,7,name.com,,,
 e099658b-4a97-434e-9fba-df4f8af7f8e0,backmost.technology,available,3.98,37.98,low,low,8,namecheap,,,08/08/2026 05:53
 7e5bb780-2e6e-4b68-bcfa-0f6a6c57eb7e,discredit.technology,available,17.99,,high,low,9,name.com,,,
 c1501d3d-dc3c-4d07-b22d-e1cf813d1f12,anguine.technology,available,3.98,37.98,low,low,7,namecheap,,,
 4fbe7b14-cd73-4565-b845-058b5afed752,presently.technology,available,17.99,,medium,low,9,name.com,,,
 65d3d12a-0c22-41b6-9d5b-37b70796b260,sexslave.technology,available,17.99,,medium,low,9,name.com,,,
-cba05033-f110-43a9-962d-4c636dfc3caf,lively.technology,available,,,high,high,6,,,,
 9819a96e-c394-4ef4-94d7-2414f47f11c3,niece.technology,available,17.99,,medium,low,5,name.com,,,
-1799353c-bb1e-4058-850c-b9e3871d587a,windy.technology,available,17.99,,high,low,5,name.com,,,
+1799353c-bb1e-4058-850c-b9e3871d587a,windy.technology,available,12.99,28.49,medium,low,5,namesilo,,,22/09/2026 22:44
 629914b1-319d-4b88-a87a-222872e55901,cows.technology,available,17.99,,medium,low,4,name.com,,,
-07801866-b2a3-4785-a19a-d39f4604b9bb,ability.technology,available,17.99,,high,low,7,name.com,,,
+07801866-b2a3-4785-a19a-d39f4604b9bb,ability.technology,available,17.99,,medium,low,7,name.com,,,
 69b4a2af-65e0-44a5-be53-305887063357,inpublic.technology,available,12.99,28.49,low,low,9,namesilo,,,16/09/2026 13:11
 7b2e72f9-bb9c-4e96-acf7-c16aa989dea1,farm.technology,resell,,,high,low,4,"GoDaddy.com, LLC",25/08/2019 12:06,25/08/2027 12:06,
 4d7746ab-0ef5-4b2b-ab02-3af4c60cb05d,orca.technology,available,,,high,medium,4,,,,
@@ -372,15 +370,15 @@ ce3a6252-fb95-443b-a32a-1ecebec2ac57,barreled.technology,available,3.98,37.98,lo
 6126adb6-1d39-4b91-95b7-7333a25d10b4,oflate.technology,available,17.99,,medium,low,7,name.com,,,
 6ae2c688-684e-4b16-a99f-97315cdb068e,midseptember.technology,available,17.99,,high,low,13,name.com,,,
 1333d1a9-3fb8-4618-a93e-5a10a7ebcbbc,soundlike.technology,available,17.99,,low,low,10,name.com,,,
-d27988a5-5c9b-44ce-835c-9e9b182809ce,deadly.technology,available,17.99,,medium,low,6,name.com,,,
+d27988a5-5c9b-44ce-835c-9e9b182809ce,deadly.technology,available,12.99,28.49,low,low,6,namesilo,,,22/09/2026 16:43
 b7b7d364-ce27-42d0-8a35-232f856b13ef,proved.technology,available,17.99,,high,low,6,name.com,,,
 265907b2-2155-4903-b16c-71210b2aceab,credible.technology,available,3.98,37.98,low,low,8,namecheap,,,09/08/2026 12:56
 1f14a428-4fe0-4798-b1ce-e08e4e49721f,abridged.technology,available,3.98,37.98,low,low,8,namecheap,,,
 8b604f59-b946-4f9a-8411-8f6521aedf1c,setaside.technology,available,3.98,37.98,low,low,9,namecheap,,,06/08/2026 09:13
-6377610a-4d3c-4584-94a7-fd7f7c262905,away.technology,available,17.99,,high,low,4,name.com,,,
+6377610a-4d3c-4584-94a7-fd7f7c262905,away.technology,available,12.99,28.49,medium,low,4,namesilo,,,22/09/2026 14:52
 d2244cf3-3123-4d69-ae13-8c92d6b7d219,generalstudies.technology,available,17.99,,high,low,15,name.com,,,
 85a08a0f-ce3b-4c93-89d4-475a1e9460e5,ultimately.technology,available,17.99,,medium,low,10,name.com,,,
-df684bc1-783d-4482-b882-1441472f6e72,unfearing.technology,available,17.99,,medium,low,9,name.com,,,
+df684bc1-783d-4482-b882-1441472f6e72,unfearing.technology,available,12.99,28.49,low,low,9,namesilo,,,22/09/2026 12:32
 dc6e065e-a70f-4a91-a9a5-0d78db34cb1c,puttowords.technology,available,17.99,,low,low,12,name.com,,,
 4d9ecf3e-2968-434b-ab71-5d7129ef212a,replacement.technology,available,17.99,,medium,low,11,name.com,,,
 b04896ac-d0a1-4871-b51a-2d32d46f41c5,cotton.technology,available,17.99,,high,low,6,name.com,,,
@@ -420,7 +418,7 @@ a539ba74-5dc5-4ef5-9af3-38e360a0141b,oppose.technology,available,17.99,,medium,l
 3ad8227f-405a-4163-a316-d897dc5c82f0,generalknowledge.technology,available,17.99,,high,low,17,name.com,,,
 06428b64-27e1-4224-859d-652b2dda2369,letter.technology,available,17.99,,high,low,6,name.com,,,
 c637861f-23e0-4056-8a12-53d02cc2d598,antipodal.technology,available,3.98,37.98,low,low,9,namecheap,,,
-a19573a3-0765-4740-a91c-8e03d656771f,dull.technology,available,17.99,,medium,low,4,name.com,,,
+a19573a3-0765-4740-a91c-8e03d656771f,dull.technology,available,12.99,28.49,low,low,4,namesilo,,,23/09/2026 00:25
 4c181592-fe56-410f-835e-96349006fdc5,eightyone.technology,available,3.98,37.98,low,low,10,namecheap,,,
 cbad6c66-2303-4f4f-a588-e947813c1c48,weak.technology,available,17.99,41.99,medium,low,4,name.com,,,
 0c79b22d-544a-4c8c-ba07-1549920c0219,arching.technology,available,3.98,37.98,low,low,7,namecheap,,,06/08/2026 14:39
@@ -460,7 +458,6 @@ e7e4ff52-541b-4b44-8964-b08acf098478,wellworn.technology,available,3.98,37.98,lo
 2b42838a-7699-4f07-b66d-e1545b06ecce,acerose.technology,available,3.98,37.98,low,low,7,namecheap,,,
 f0fe382c-5a21-4364-ad58-3d5285b8c221,safe.technology,resell,,,high,medium,4,"Sav.com, LLC",19/09/2016 08:26,19/09/2026 08:26,
 eb145e61-e5a3-4df9-bca8-7e6885fa7e2d,deejay.technology,available,17.99,,high,low,6,name.com,,,
-a457a6b2-fde9-4ff4-bdd5-9ceffe73e021,forth.technology,available,17.99,,high,low,5,name.com,,,
 bd418194-e23f-4019-8cd5-13c1e19926c9,texas.technology,resell,,,medium,medium,5,Dynadot Inc,20/10/2025 17:18,20/10/2026 17:18,
 dbc27b63-afed-43d8-8542-12ef77b4ffbd,afoot.technology,available,3.98,37.98,low,low,5,namecheap,,,
 e3007686-0235-400f-91dc-a2163eceee7c,campaign.technology,available,17.99,,high,low,8,name.com,,,
@@ -468,7 +465,7 @@ cc1d995d-dcb3-491c-9ba9-428fe3ab0c7a,abstruse.technology,available,3.98,37.98,lo
 d3030285-cf64-40ca-8b55-23af250d057a,stain.technology,available,17.99,,high,low,5,name.com,,,
 3ebf2b1c-2b18-4cd9-bef6-e5755ea045e0,papershop.technology,available,17.99,,medium,low,10,name.com,,,
 ba195d96-b2bb-43ab-ad11-3cd3874bc331,pat.technology,premium,118.8,118.8,high,low,3,namesilo,,,
-bd583dd4-7054-4aa5-9181-629aad19c297,acappella.technology,available,17.99,41.99,medium,low,10,name.com,,,
+bd583dd4-7054-4aa5-9181-629aad19c297,acappella.technology,available,12.99,28.49,low,low,10,namesilo,,,21/09/2026 13:25
 dfadabbe-a5ec-4b00-99e5-19becee22a20,consequent.technology,available,3.98,37.98,low,low,10,namecheap,,,
 d16b0e3c-7c63-48d8-a326-ab965d7bf636,liii.technology,available,3.98,37.98,low,low,4,namecheap,,,
 93b592d7-1c5d-49a6-a1e6-4e8029373495,closequarters.technology,available,17.99,,medium,low,14,name.com,,,
@@ -483,7 +480,7 @@ bd123b88-4314-4d9c-b99e-b04aa1766a73,grandslam.technology,available,17.99,,high,
 e56fd719-849b-4ea5-91f3-9ff1eadb5592,finishup.technology,available,17.99,,high,low,9,name.com,,,
 18e4e46e-c5b0-4491-a775-06cfea040f06,sheraton.technology,available,,,medium,low,8,,,,
 8ef8a3e9-6007-463d-a812-45e09d64cf81,arsenical.technology,available,3.98,37.98,low,low,9,namecheap,,,06/08/2026 22:18
-ed6d968e-2fc8-4439-99ab-8718af99575b,bluish.technology,available,17.99,,high,low,6,name.com,,,
+ed6d968e-2fc8-4439-99ab-8718af99575b,bluish.technology,available,3.98,37.98,low,low,6,namecheap,,,22/09/2026 22:47
 d7b96cb9-a8ff-4365-83d7-675853589d6a,altissimo.technology,available,3.98,37.98,low,low,9,namecheap,,,
 e0bd61a0-97c4-4083-8773-20cc93e79f00,comeinhot.technology,available,17.99,,high,low,11,name.com,,,
 5936ead1-7301-48f3-a267-33f600faac6b,kidney.technology,available,17.99,,medium,low,6,name.com,,,
@@ -496,7 +493,7 @@ da742340-5e55-411c-9b94-7352136c886b,aerophilic.technology,available,3.98,37.98,
 b43e193c-2817-47ef-96a0-b7f40a0751e1,fifteenth.technology,available,3.98,37.98,low,low,9,namecheap,,,
 f08a9590-e842-4271-8cd3-fe66d3b1a5c6,breathoffreshair.technology,available,17.99,,high,low,19,name.com,,,
 984c72d4-b204-4173-bfc4-06a5052096a1,achaian.technology,available,3.98,37.98,low,low,7,namecheap,,,
-8ac2b0ee-5cbd-4d79-a00f-da4dcb8d98f9,tech.technology,premium,854,854,medium,low,4,namesilo,,,20/09/2026 23:06
+8ac2b0ee-5cbd-4d79-a00f-da4dcb8d98f9,tech.technology,premium,854,854,medium,low,4,namesilo,,,23/09/2026 02:37
 c784f527-5f5c-49f5-8006-c2cfdf91f801,rider.technology,available,17.99,,high,low,5,name.com,,,
 df40ac4a-6b5b-4fd4-81ca-44fab579b54d,antiguan.technology,available,3.98,37.98,low,low,8,namecheap,,,
 0febbe3e-9f89-4ee6-ba5b-0bc9c9409379,alpestrine.technology,available,3.98,37.98,low,low,10,namecheap,,,
@@ -504,13 +501,13 @@ df40ac4a-6b5b-4fd4-81ca-44fab579b54d,antiguan.technology,available,3.98,37.98,lo
 b36317d2-359a-4a4c-ae58-d4e8506f20b7,magiccube.technology,available,17.99,,medium,low,10,name.com,,,
 42a7386f-8f17-49d0-95c4-6f120f0d540b,iknowit.technology,available,17.99,,medium,low,9,name.com,,,
 4c8c0da0-95e8-4cd4-ba7f-cae50090374a,affirmable.technology,available,3.98,37.98,low,low,10,namecheap,,,
-78136e87-4f4b-4257-9d9c-9589f78a0c49,weary.technology,available,17.99,,medium,low,5,name.com,,,
+78136e87-4f4b-4257-9d9c-9589f78a0c49,weary.technology,available,12.99,28.49,low,low,5,namesilo,,,22/09/2026 15:10
 07a650f5-a722-45b1-9780-09f176b982bd,jeep.technology,available,,,medium,low,4,,,,
 c8197923-79c5-41a0-ac7b-2a87f581e6e0,reflex.technology,available,,,high,low,6,,,,
 6fb2b487-c0c8-4d10-baac-19135e0db36e,pronounced.technology,available,17.99,,medium,low,10,name.com,,,
 005be39d-6328-4c9e-9f37-4f17f9a2b4da,steamengine.technology,available,17.99,,high,low,12,name.com,,,
 f8893660-d4cc-426d-af3b-87005b9bffec,normality.technology,available,17.99,,high,low,9,name.com,,,
-3ec4d228-da83-4447-9c66-bfab66b9d45c,abide.technology,available,17.99,,high,low,5,name.com,,,
+3ec4d228-da83-4447-9c66-bfab66b9d45c,abide.technology,available,17.99,,medium,low,5,name.com,,,
 7420c560-d17d-4b19-b0ca-827f20b42863,helmethair.technology,available,17.99,,medium,low,11,name.com,,,
 04020f84-614e-4e84-af81-611bbdbcf279,maternal.technology,available,17.99,,high,low,8,name.com,,,
 b5de2ee2-24e8-4601-b6f3-fd12f533904e,plier.technology,available,17.99,,high,low,5,name.com,,,
@@ -527,7 +524,7 @@ c3059e6c-fe4f-4a27-841a-65f827c46c5f,convince.technology,available,17.99,,high,l
 13fbb353-856d-4e5c-bdd1-c88f9abc470b,makethemostof.technology,available,17.99,,high,low,16,name.com,,,
 a05fc99d-5c85-4658-9b80-734be05102eb,compensate.technology,available,17.99,,high,low,10,name.com,,,
 96e3ae9e-64ba-45d9-9193-132f0ce2c233,allopathic.technology,available,3.98,37.98,low,low,10,namecheap,,,
-36e6112d-4010-4eb0-8123-029177f60a4f,avocado.technology,available,17.99,,high,low,7,name.com,,,
+36e6112d-4010-4eb0-8123-029177f60a4f,avocado.technology,available,3.98,37.98,medium,low,7,namecheap,,,22/09/2026 14:34
 0259ba10-ab0c-469a-b55b-ca4ff9aa8a5e,regional.technology,available,17.99,,high,low,8,name.com,,,
 ef6bd80c-1019-4820-949f-b725a39f4aed,lxxvi.technology,available,3.98,37.98,low,low,5,namecheap,,,
 e3ba2422-b770-4861-beb1-0942bbc7a663,departed.technology,available,3.98,37.98,low,low,8,namecheap,,,07/08/2026 11:31
@@ -546,10 +543,10 @@ c0fe8ce8-e06b-45e9-8023-0d244babe57b,greedy.technology,available,3.98,37.98,low,
 4ac925c3-1376-4639-b27c-00e88b5f93ba,forced.technology,available,17.99,41.99,medium,low,6,name.com,,,
 1de0f732-0299-4b86-8b0f-f0f969a10629,azygous.technology,available,3.98,37.98,low,low,7,namecheap,,,08/08/2026 03:27
 6b0f9831-2045-4ac4-97cb-c71d92735fcb,shiftabout.technology,available,17.99,,low,low,11,name.com,,,
-83a3c177-80eb-419e-b72f-793de8a3ca3b,binding.technology,available,17.99,,high,low,7,name.com,,,
+83a3c177-80eb-419e-b72f-793de8a3ca3b,binding.technology,available,3.98,37.98,medium,low,7,namecheap,,,22/09/2026 20:51
 77a1ba4e-b97d-4d33-86f8-831200eccaee,toeachhisown.technology,available,17.99,,medium,low,15,name.com,,,
 d5a983f6-2554-4bbd-8b73-6cd1720f85ad,allnight.technology,available,3.98,37.98,low,low,9,namecheap,,,
-87e499f3-b05a-46a8-af1e-8650c5e9b715,autonomous.technology,resell,,,high,medium,10,GoDaddy Online Services Cayman Islands Ltd.,15/11/2016 23:24,15/11/2026 23:24,
+87e499f3-b05a-46a8-af1e-8650c5e9b715,autonomous.technology,resell,,,medium,low,10,GoDaddy Online Services Cayman Islands Ltd.,15/11/2016 23:24,15/11/2026 23:24,22/09/2026 14:12
 fbf7b72e-5a89-453c-8269-975a3d483c67,nominee.technology,available,17.99,,high,low,7,name.com,,,
 3261b5ff-bb35-454e-8cd8-d3d271235c2e,teddybear.technology,available,17.99,,high,low,10,name.com,,,
 fa736a34-fdd3-47be-9d72-5539cba03d32,lockkey.technology,available,17.99,,high,low,8,name.com,,,
@@ -562,7 +559,7 @@ c8269cce-aff5-42e2-a297-0a0751d48b64,atrophic.technology,available,3.98,37.98,lo
 299cfe00-d92f-4d26-9993-d1bcc6507739,sincerely.technology,available,17.99,,medium,low,9,name.com,,,
 f516adb8-c9ff-4138-9947-0c9402b5e0ba,traversecity.technology,available,17.99,,low,low,13,name.com,,,
 2a25a2dd-81fd-4cb5-b706-ad1d3b04dada,malaria.technology,available,17.99,,medium,low,7,name.com,,,
-92c6580a-f493-4994-8dc8-4464ac95b486,favored.technology,available,17.99,,high,low,7,name.com,,,
+92c6580a-f493-4994-8dc8-4464ac95b486,favored.technology,available,3.98,37.98,medium,low,7,namecheap,,,22/09/2026 20:01
 a23acf67-9c3c-4bec-b6ae-105b9b911013,consist.technology,available,,,high,low,7,,,,
 2b470562-82b8-42f4-82d4-2875f3313a5a,vanity.technology,available,17.99,,medium,low,6,name.com,,,
 02c13e7c-1d10-4e5e-83f5-7d13815567fa,campaigner.technology,available,17.99,,medium,low,10,name.com,,,
@@ -599,7 +596,7 @@ ee973322-5234-4d2c-bb81-1bca8cd27ddf,ninth.technology,available,3.98,37.98,low,l
 129e7592-28a7-45cf-b921-329836731d37,myson.technology,available,17.99,,high,low,6,name.com,,,
 df011897-31c2-4a02-bc2d-a4865f8bf02b,scarface.technology,available,17.99,,medium,low,8,name.com,,,
 e76f5096-6147-402f-bc47-11452b02ef91,blessing.technology,available,3.98,37.98,low,low,8,namecheap,,,06/08/2026 09:29
-3dd5fdef-f461-4202-b7e2-b6780555dea8,backwards.technology,available,17.99,,high,low,9,name.com,,,
+3dd5fdef-f461-4202-b7e2-b6780555dea8,backwards.technology,available,12.99,28.49,low,low,9,namesilo,,,22/09/2026 15:55
 877d272c-89f0-4675-9819-88d428e3a3a9,apriori.technology,available,3.98,37.98,low,low,8,namecheap,,,
 666523dc-8c7d-4fb9-9084-b3d15b8e4f8a,whiten.technology,available,17.99,,high,low,6,name.com,,,
 15b5584c-51ad-475c-a1a9-59ecf617d4f6,smith.technology,premium,123.75,,medium,medium,5,name.com,,,
@@ -617,7 +614,7 @@ b55a5fea-5fd8-47ea-bca9-cff62b4d3e87,quilting.technology,available,17.99,,high,l
 6113aec3-d7ff-43a3-8689-ef05a93b5724,familybusiness.technology,available,17.99,,high,low,15,name.com,,,
 d8744aad-8c22-4f9d-910e-f563a4530cd4,onfoot.technology,available,17.99,,low,low,7,name.com,,,
 de765462-2650-4442-8cf3-759c26367d92,glasses.technology,resell,,,high,low,7,"Sav.com, LLC - 49",22/01/2026 15:15,22/01/2027 15:15,
-3b7d1ec8-9bf7-4b7e-80a6-13185d8982c0,van.technology,premium,118.8,118.8,high,low,3,namesilo,,,
+3b7d1ec8-9bf7-4b7e-80a6-13185d8982c0,van.technology,premium,128.7,128.7,medium,low,3,namecheap,,,22/09/2026 14:26
 8fe62a7f-b504-4905-8188-735b3a4c39f8,nightmare.technology,available,17.99,,high,low,9,name.com,,,
 8c5756b3-4f73-461d-a55a-db7d4bdd6e01,appealable.technology,available,3.98,37.98,low,low,10,namecheap,,,06/08/2026 05:46
 7b174da0-3fcb-4acc-8c72-1f87417653b1,delicate.technology,available,17.99,41.99,high,low,8,name.com,,,
@@ -644,7 +641,8 @@ d71a83e7-ff1f-4e64-b8a7-9363d9882c42,mealdeal.technology,available,17.99,,high,l
 38c1253a-bae2-4484-9f32-71094397c316,missionaccomplished.technology,available,17.99,,medium,low,20,name.com,,,
 03697056-1406-4aaf-82ad-987e04211e3a,pompom.technology,available,3.98,37.98,low,low,7,namecheap,,,
 1382ed39-2dba-4f32-8271-4d7b9ea0da26,childcare.technology,available,17.99,,high,low,10,name.com,,,
-892f6841-9775-4566-9e23-cd16e01d0916,abovenamed.technology,available,17.99,,medium,low,11,name.com,,,
+892f6841-9775-4566-9e23-cd16e01d0916,abovenamed.technology,available,17.99,,low,low,11,name.com,,,
+6caf0174-99d2-43d0-8557-e7307be98a84,senior.technology,resell,,,medium,low,6,,,,21/09/2026 22:36
 95e67c7d-2464-46a6-9f51-61442946de6e,ambagious.technology,available,3.98,37.98,low,low,9,namecheap,,,
 51ae7252-1afc-4115-adb4-71939bd37703,sausage.technology,available,17.99,,high,low,7,name.com,,,
 ec721c51-8335-427d-ae14-e8caed6880c6,shush.technology,available,17.99,,medium,low,5,name.com,,,
@@ -657,7 +655,7 @@ d753eb14-4cb4-4b17-bd4d-c4d625550472,migrate.technology,available,17.99,,high,lo
 1bfa3016-95c0-4c36-8c1f-533056c36e3e,puttobed.technology,available,17.99,,low,low,10,name.com,,,
 6009e804-e0e8-47d3-ba63-b375cae4822b,gothedistance.technology,available,17.99,,high,low,15,name.com,,,
 504dbc02-5401-4086-9121-8711f98993c5,untrue.technology,available,17.99,,medium,low,6,name.com,,,
-50b8d717-50ed-42e7-9b6f-686f61119462,faded.technology,available,17.99,,medium,low,5,name.com,,,
+50b8d717-50ed-42e7-9b6f-686f61119462,faded.technology,available,12.99,28.49,low,low,5,namesilo,,,22/09/2026 11:25
 a3e8fa67-5285-42a4-93e2-04b63343ba90,unbearable.technology,available,17.99,,medium,low,10,name.com,,,
 55381d8d-ba93-4fd4-b248-da6ed3637067,acrogenic.technology,available,3.98,37.98,low,low,9,namecheap,,,
 08fce95f-d895-41f5-a40a-73bc11776a92,elaborated.technology,available,17.99,41.99,medium,low,10,name.com,,,
@@ -680,7 +678,6 @@ fda96d2a-e36c-49a0-854a-59fbbd001246,gourmet.technology,available,17.99,,high,lo
 82e1ee42-0940-4973-9650-5343680b61a4,insolvent.technology,available,3.98,37.98,low,low,9,namecheap,,,08/08/2026 13:34
 6d4fda29-749a-4073-87d1-6050436f33d2,mobilephone.technology,available,17.99,,high,low,12,name.com,,,
 3dcf8a56-a6ec-4183-b39a-32fdeae2f213,astronomic.technology,available,3.98,37.98,low,low,10,namecheap,,,07/08/2026 10:10
-ff06d3d5-0a9c-45e4-9ed2-8a6c60a9dd5e,wild.technology,resell,,,medium,medium,4,"Xiamen ChinaSource Internet Service Co., Ltd",27/08/2024 17:00,27/08/2026 17:00,
 5bca4060-fbba-47a0-8e49-5e03bd74f8f8,airpollution.technology,available,17.99,,medium,low,13,name.com,,,
 0d709b89-3228-47cf-992e-c1855b47a16e,course.technology,resell,,,medium,low,6,"Spaceship, Inc.",16/09/2023 15:15,16/09/2027 15:15,20/09/2026 02:53
 7d27daf5-fe00-4f68-9a15-8536f3b2fd78,probable.technology,available,17.99,,high,low,8,name.com,,,
@@ -690,14 +687,14 @@ d8b52861-e883-473f-b71e-6c71e28f301a,getoutofhere.technology,available,17.99,,hi
 a2cb1527-8973-48ab-8f30-e5b7a4dafd7d,altricial.technology,available,3.98,37.98,low,low,9,namecheap,,,
 3b5522a2-1061-4348-9eb8-74426bba4b91,physic.technology,available,3.98,37.98,low,low,6,namecheap,,,05/08/2026 22:25
 e0848b3c-f15f-4e7f-861a-35b988ffaaf6,bloodsample.technology,available,17.99,,high,low,12,name.com,,,
-a78b4bdd-dd30-4290-9711-d38d5f335d45,awakened.technology,available,17.99,,medium,low,8,name.com,,,
+a78b4bdd-dd30-4290-9711-d38d5f335d45,awakened.technology,available,12.99,28.49,low,low,8,namesilo,,,22/09/2026 14:47
 14647e9e-d72c-4901-bc1d-2d8ac2bf923c,batholitic.technology,available,3.98,37.98,low,low,10,namecheap,,,09/08/2026 01:30
 bc4310cf-a9e8-4d57-92f1-97b9960c6906,chase.technology,available,,,medium,low,5,,,,
 f4d16aa1-861e-40ac-9a02-3c0bcf61c023,insist.technology,available,17.99,,high,low,6,name.com,,,
 21035a34-7c88-4a57-acc7-6a2315e08104,arable.technology,available,3.98,37.98,low,low,6,namecheap,,,06/08/2026 11:14
 33d5ad97-7ce7-40bf-864d-6768cf33bb53,jody.technology,available,17.99,,high,low,4,name.com,,,
 9a5cb6ef-031e-4d22-b635-fd762ef22ab5,violation.technology,available,17.99,,medium,low,9,name.com,,,
-20da9089-4aa1-4e0e-9309-0e51e5a65096,alphabetic.technology,available,17.99,41.99,medium,low,10,name.com,,,
+20da9089-4aa1-4e0e-9309-0e51e5a65096,alphabetic.technology,available,3.98,37.98,low,low,10,namecheap,,,22/09/2026 02:10
 faee5579-12d9-48f1-8d63-2a8a7f80f857,dick.technology,available,17.99,,medium,low,4,name.com,,,
 ed0ff9e7-86b9-4ea3-8535-686f7e237a7f,mopeabout.technology,available,17.99,,low,low,10,name.com,,,
 a5659044-fa04-47a8-b4f1-533cdcd03cba,apivorous.technology,available,3.98,37.98,low,low,9,namecheap,,,06/08/2026 00:18
@@ -720,7 +717,7 @@ d2a2d793-309f-48f3-946c-4730d99bb97d,occurrence.technology,available,17.99,,medi
 76236f45-1d5c-4035-9746-253015eb355a,parched.technology,available,3.98,37.98,low,low,7,namecheap,,,
 5b661094-71e9-46e1-88a8-1bdb1b7e4450,letterofwishes.technology,available,17.99,,high,low,16,name.com,,,
 47bbce1e-ae83-42dd-b05c-5f268a4def41,idea.technology,available,,,high,low,4,,,,
-d179b0e0-24d4-4e70-a8d4-49a4041fc503,armed.technology,available,17.99,,high,low,5,name.com,,,
+d179b0e0-24d4-4e70-a8d4-49a4041fc503,armed.technology,available,12.99,28.49,medium,low,5,namesilo,,,22/09/2026 07:55
 a5a1ff17-db7f-48d3-8201-786bf0e4ee89,moderately.technology,available,17.99,,medium,low,10,name.com,,,
 50bff598-7cc6-40ba-8fba-6eefffc1664e,asthedayislong.technology,available,17.99,,medium,low,18,name.com,,,
 9fbd5ac5-7a74-44c1-a931-73c75964890e,coalesced.technology,available,3.98,37.98,low,low,9,namecheap,,,
@@ -739,7 +736,7 @@ e6d0f699-1a90-4b44-8d15-8028c1942dd6,psycho.technology,available,17.99,,high,low
 c0311d99-7889-4445-be65-34e56ae9acae,tap.technology,resell,,,high,medium,3,"Spaceship, Inc.",19/02/2014 16:29,19/02/2027 16:29,
 b0402da0-2209-4d46-aac5-875860c6461b,arteriolar.technology,available,3.98,37.98,low,low,10,namecheap,,,06/08/2026 22:34
 280a885a-e239-4d86-a685-b1da06591a3e,burgerbun.technology,available,17.99,,high,low,10,name.com,,,
-48ead5bc-a4c5-4fe7-8dad-eda5d04b7887,adorable.technology,available,17.99,41.99,high,low,8,name.com,,,
+48ead5bc-a4c5-4fe7-8dad-eda5d04b7887,adorable.technology,available,3.98,37.98,medium,low,8,namecheap,,,21/09/2026 19:18
 3473db4e-90e6-4e4f-9582-b3b4c6897271,graywolf.technology,available,17.99,,high,low,9,name.com,,,
 4a3df7b2-5883-43b1-ad8a-48d10555bc55,volatile.technology,available,17.99,,high,low,8,name.com,,,
 b4397e44-d125-47da-95b6-bc93ffa38032,albescent.technology,available,3.98,37.98,low,low,9,namecheap,,,
@@ -754,21 +751,21 @@ cd8c4dc2-228d-4381-9297-045176029000,apropos.technology,available,,,medium,low,7
 f3fbc81e-7ffb-472f-8c0c-49c48b5a279b,excelat.technology,available,17.99,,high,low,8,name.com,,,
 87dfdf01-e2d3-431e-a4e9-f2e4cca6acb0,promoter.technology,available,17.99,,high,low,8,name.com,,,
 2577d4f0-d4b6-42ec-8ad4-8b5d51aae91b,buzzing.technology,available,3.98,37.98,low,low,7,namecheap,,,
-0aa980ea-84db-4c31-b398-699760bafd84,selfless.technology,available,17.99,41.99,high,low,8,name.com,,,
+0aa980ea-84db-4c31-b398-699760bafd84,selfless.technology,available,12.99,28.49,medium,low,8,namesilo,,,22/09/2026 02:51
 95f79730-83ec-4f8c-9a71-9d7cce58167c,adrift.technology,available,3.98,37.98,low,low,6,namecheap,,,
 a658bc82-a2cc-4f38-a4ec-8cb6cdff356e,refreshed.technology,available,17.99,,high,low,9,name.com,,,
 50005750-6fe5-4650-8de7-810904f8ae6f,vinegarish.technology,available,3.98,37.98,low,low,10,namecheap,,,
 d33d961f-7479-4d70-814a-e771390a4cb8,these.technology,available,17.99,,medium,low,5,name.com,,,
-9220aac1-cb4d-4525-ab4c-a07b4e1337ab,tedious.technology,available,17.99,,medium,low,7,name.com,,,
+9220aac1-cb4d-4525-ab4c-a07b4e1337ab,tedious.technology,available,12.99,28.49,low,low,7,namesilo,,,23/09/2026 00:32
 4d3ae04c-f3f4-4c55-a352-25b11f59994b,desire.technology,resell,,,medium,low,6,"GoDaddy.com, LLC",07/12/2023 13:15,07/12/2028 13:15,19/09/2026 18:10
 491a1ad1-50b8-4b99-ae74-5e04bd10dd8a,atlarge.technology,available,3.98,37.98,low,low,8,namecheap,,,07/08/2026 11:27
 21258671-b09a-42d6-a01c-482ff0f46e94,comical.technology,available,17.99,,high,low,7,name.com,,,
 2111b5c8-835e-4152-88c1-586e3b817627,wikileaks.technology,available,17.99,,low,low,9,name.com,,,
 d4a25ce3-5891-4a99-b1c0-9688f24a5489,stricken.technology,available,3.98,37.98,low,low,8,namecheap,,,
 2bd810d2-5cc0-422a-bbb2-faa805832402,muffincup.technology,available,17.99,,high,low,10,name.com,,,
-b57dec2a-236b-4a29-a825-3bb43e1eb2a8,aboutship.technology,available,17.99,,high,low,10,name.com,,,
+b57dec2a-236b-4a29-a825-3bb43e1eb2a8,aboutship.technology,available,17.99,,medium,low,10,name.com,,,
 69406336-bf57-47ef-ba05-a6895ce289bf,perch.technology,available,3.98,37.98,low,low,5,namecheap,,,
-33271ee9-3643-4a1b-bd6a-2e0c91aa69db,acidreflux.technology,available,17.99,,medium,low,11,name.com,,,
+33271ee9-3643-4a1b-bd6a-2e0c91aa69db,acidreflux.technology,available,17.99,,low,low,11,name.com,,,
 793ea18c-7c79-4de2-8915-26e8c65ca0ab,industrialize.technology,available,17.99,,medium,low,13,name.com,,,
 17b6b17e-3307-4b3d-abc3-7fcb690c4535,solo.technology,available,,,high,low,4,,,,
 35c7eadc-9c03-4e5b-987f-5efad14f2378,elsalvador.technology,available,,,medium,low,11,,,,
@@ -779,7 +776,7 @@ b51f5f2c-13a5-4eee-827b-14cb2bebd400,equivalent.technology,available,17.99,,high
 5644b402-883f-4dc5-930a-322881c10124,scarlett.technology,available,17.99,,medium,low,8,name.com,,,
 8508bb6b-e882-4807-a577-2b18ccffbeed,operatingsystem.technology,available,17.99,,high,low,16,name.com,,,
 f38ce9fd-50a0-40eb-9432-ffe096c200ff,operated.technology,available,17.99,,medium,low,8,name.com,,,
-7dfb197f-6c6d-4817-86da-d58ddcabc150,terribly.technology,available,17.99,,medium,low,8,name.com,,,
+7dfb197f-6c6d-4817-86da-d58ddcabc150,terribly.technology,available,12.99,28.49,low,low,8,namesilo,,,22/09/2026 15:23
 57ccf4d3-a71a-4479-9f22-51e53a979252,stands.technology,available,17.99,,low,low,6,name.com,,,
 cba2ed50-c37a-47d0-aca6-85cce45b3df0,aerobiotic.technology,available,3.98,37.98,low,low,10,namecheap,,,
 92cf6db0-47e1-4dc4-8b7d-ab1ad9aab072,drivinglicense.technology,available,17.99,,high,low,15,name.com,,,
@@ -798,7 +795,7 @@ d231d412-501c-4ddf-b8be-b13f842a5803,publicity.technology,available,17.99,,high,
 bb7af5cf-1c4b-4fc0-9d44-3ce9c0f5e7a2,synchronise.technology,available,17.99,,high,low,11,name.com,,,
 ebc32158-13d2-49e1-8494-40ccdb965351,obtained.technology,available,17.99,,low,low,8,name.com,,,
 e9e4ec35-55b5-49b2-b557-51f9d4c93d4c,fiftyfifty.technology,available,17.99,,high,low,11,name.com,,,
-304839ca-3d78-4fd8-910c-5bc4225f60f1,moveon.technology,available,12.99,28.49,medium,low,7,namesilo,,,16/09/2026 16:07
+304839ca-3d78-4fd8-910c-5bc4225f60f1,moveon.technology,available,3.98,37.98,medium,low,7,namecheap,,,21/09/2026 20:34
 9f4baea6-0e36-4878-952f-5f908a67a3cb,implied.technology,available,17.99,,high,low,7,name.com,,,
 a872d74c-7d5d-4d60-a62e-996fa7e1c881,referable.technology,available,3.98,37.98,low,low,9,namecheap,,,07/08/2026 01:28
 f5b4b4b2-9b13-47ce-9bf5-442fa1c6bf6b,response.technology,available,17.99,,high,low,8,name.com,,,
@@ -817,7 +814,7 @@ af9628b1-6777-4e5f-a0a2-8a94655ac6a7,noticed.technology,available,17.99,,high,lo
 c62d6a25-517e-423d-9f20-d3515b3bf2aa,angered.technology,available,3.98,37.98,low,low,7,namecheap,,,
 770ad05f-bb9f-4d1f-ba62-a948bfc78296,irons.technology,available,17.99,,medium,low,5,name.com,,,
 f3d1620f-60f1-47bb-a62d-3d8028a8a533,onebyone.technology,available,17.99,,medium,low,10,name.com,,,
-7f28e16c-4fee-4087-b23f-ba837b7d48d6,marchon.technology,available,17.99,41.99,medium,low,8,name.com,,,
+7f28e16c-4fee-4087-b23f-ba837b7d48d6,marchon.technology,available,3.98,37.98,low,low,8,namecheap,,,21/09/2026 20:39
 798a05c9-03a6-4acf-a387-61a9bd9293ea,sounding.technology,available,17.99,,high,low,8,name.com,,,
 112fc280-f92c-444a-9843-755458d78457,flaring.technology,available,3.98,37.98,low,low,7,namecheap,,,
 cd5bbd91-9c52-4815-a748-5ef0aae4fab0,middleages.technology,available,17.99,,medium,low,11,name.com,,,
@@ -875,7 +872,7 @@ d8263578-1391-4ccb-a01a-286f4e6ea46a,forget.technology,available,17.99,,medium,l
 36699894-f4ff-4791-b7df-abfd12fa146f,artesian.technology,available,3.98,37.98,low,low,8,namecheap,,,06/08/2026 22:39
 25eca9cf-e366-4e23-955e-2ad764f81480,patriotic.technology,available,17.99,,high,low,9,name.com,,,
 8e738ee8-1218-43ae-a9d6-7a28bd9f824c,cheerfully.technology,available,17.99,,high,low,10,name.com,,,
-362e6b6a-6f78-45c4-a2de-78f7cf80f6e2,accomplished.technology,available,17.99,,high,low,12,name.com,,,
+362e6b6a-6f78-45c4-a2de-78f7cf80f6e2,accomplished.technology,available,17.99,,medium,low,12,name.com,,,
 15dea79d-930c-480a-b08c-f5e6f3084db2,letgo.technology,available,17.99,,high,low,6,name.com,,,
 3040696b-9a59-4712-af88-4a487d8efebc,comedian.technology,available,17.99,,high,low,8,name.com,,,
 7d29e920-20c0-4001-8062-9aafc351a6ac,more.technology,resell,,,high,medium,4,Dynadot Inc,19/06/2025 17:01,19/06/2026 17:01,
@@ -908,7 +905,7 @@ eb4705fa-f7cb-4668-913f-c86b5d13d29f,bantering.technology,available,3.98,37.98,l
 6dfb98d6-f7b6-47ff-b00b-3f94fb425654,sealed.technology,available,17.99,,medium,low,6,name.com,,,
 ebee9fe5-22f6-41f3-b791-b548b4ddba93,nipping.technology,available,3.98,37.98,low,low,7,namecheap,,,08/08/2026 16:46
 6e4e04c9-86f8-4b3b-806e-e8e6fae55979,sixtynine.technology,available,3.98,37.98,low,low,10,namecheap,,,
-8ddc607e-23a1-4e7f-bd8d-c6ff6485a73a,prenuptial.technology,available,17.99,,high,low,10,name.com,,,
+8ddc607e-23a1-4e7f-bd8d-c6ff6485a73a,prenuptial.technology,available,3.98,37.98,medium,low,10,namecheap,,,22/09/2026 06:05
 828742b5-a9ea-443e-8509-2ce335ebe233,stroke.technology,available,17.99,,high,low,6,name.com,,,
 7801b9ba-0b89-40ae-9051-ce581b2280b6,delicious.technology,available,17.99,41.99,high,low,9,name.com,,,
 e0d4a986-92c0-4982-b11c-7abc9a234c7f,commoncold.technology,available,17.99,,medium,low,11,name.com,,,
@@ -918,11 +915,10 @@ e0d4a986-92c0-4982-b11c-7abc9a234c7f,commoncold.technology,available,17.99,,medi
 bcf25906-8f92-41e4-9b6f-b5b01f09f32a,began.technology,available,17.99,,medium,low,5,name.com,,,
 676dba90-fd53-4a16-b6ec-0f97877c6c7a,nowwhat.technology,available,17.99,,low,low,8,name.com,,,
 9a49fde1-1230-4d32-b846-a5551bce9eb6,carryout.technology,available,17.99,,high,low,9,name.com,,,
-340fb96a-92ae-48f4-bebf-36c5bf921f98,eighteen.technology,available,17.99,41.99,high,low,8,name.com,,,
+340fb96a-92ae-48f4-bebf-36c5bf921f98,eighteen.technology,available,12.99,28.49,medium,low,8,namesilo,,,21/09/2026 11:58
 ec1530f7-8c4e-4a5b-bb4a-59ffaed299e1,ameboid.technology,available,3.98,37.98,low,low,7,namecheap,,,
 ab9fbceb-5fa4-40f3-8485-be4ebe17dfef,group.technology,resell,,,high,low,5,"Sav.com, LLC",18/04/2018 11:00,18/04/2027 11:00,
 1c2dd60e-9b7f-4215-9f82-cbc62f0f02dd,lettertelegram.technology,available,17.99,,medium,low,15,name.com,,,
-48d7a29e-6bd1-4440-aa55-f1e3c7f8b5d3,blonde.technology,available,17.99,,high,low,6,name.com,,,
 7d06cc52-aec6-4910-88d1-7fb726cfa5df,actinon.technology,available,3.98,37.98,low,low,7,namecheap,,,
 ec652274-abb3-4c2b-8026-93b1ee8ae284,riding.technology,available,17.99,,high,low,6,name.com,,,
 f9469185-1da8-4b5f-af8b-80f782ed76f2,overtheboard.technology,available,17.99,,low,low,14,name.com,,,
@@ -949,20 +945,20 @@ eb4cfb78-d0b0-424a-8da5-a01c47c12225,conduction.technology,available,17.99,,high
 e6424b54-c2c0-4447-8c59-d0938aaca941,bringin.technology,available,17.99,,high,low,8,name.com,,,
 5bf865f9-b7f1-4eca-af16-8e4231c05322,eating.technology,available,3.98,37.98,medium,low,6,namecheap,,,08/09/2026 13:35
 bd852664-c80e-4ee5-a829-5778e1f9e345,bankholiday.technology,available,17.99,,high,low,12,name.com,,,
-bae00dd8-e9d0-4f1a-8b7d-3315f6bc4f49,abovecited.technology,available,17.99,,medium,low,11,name.com,,,
+bae00dd8-e9d0-4f1a-8b7d-3315f6bc4f49,abovecited.technology,available,17.99,,low,low,11,name.com,,,
 daf97e95-412a-4f65-99ae-acbc5107f5ee,mixedgrill.technology,available,17.99,,high,low,11,name.com,,,
 673d32a2-bc94-4366-8591-0ae388cc8483,digitalcamera.technology,available,17.99,,medium,low,14,name.com,,,
 19cfbfc9-3e9e-4ae3-b460-260d803ea212,onethird.technology,available,3.98,37.98,low,low,9,namecheap,,,11/09/2026 13:44
 4b0c6cbf-82d7-4e57-baba-5b494ba493ea,gobackintime.technology,available,17.99,,high,low,15,name.com,,,
 f0159e68-b5dd-4742-a4e7-1146cf5b92e5,probably.technology,available,17.99,,medium,low,8,name.com,,,
-18c54257-8176-45f4-912b-1468a07be4f4,agreeable.technology,available,17.99,41.99,high,low,9,name.com,,,
+18c54257-8176-45f4-912b-1468a07be4f4,agreeable.technology,available,12.99,28.49,medium,low,9,namesilo,,,21/09/2026 23:17
 f5637577-cdb4-4666-a53b-cc956205251e,overhang.technology,available,3.98,37.98,low,low,8,namecheap,,,09/08/2026 08:28
 ef6d48d9-81b1-4169-ac44-e636f721fca0,recondite.technology,available,3.98,37.98,low,low,9,namecheap,,,
 916bbb88-bb77-4fdc-bcd6-035a10f083dc,hotsauce.technology,available,17.99,,high,low,9,name.com,,,
 f331b759-6a59-470e-8499-b73f36908a7b,pertinent.technology,available,3.98,37.98,low,low,9,namecheap,,,06/08/2026 07:59
 98113025-fc9c-44f7-88d6-02f117747047,shakespeare.technology,available,17.99,,high,low,11,name.com,,,
 964f4812-c445-4745-9a55-71e9a92b6c94,loyal.technology,resell,,,high,low,5,"Spaceship, Inc.",23/02/2026 08:56,23/02/2027 08:56,
-b6cb9ca3-d91d-42ad-8db0-c1bbc2c140ba,accepting.technology,available,17.99,41.99,high,low,9,name.com,,,
+b6cb9ca3-d91d-42ad-8db0-c1bbc2c140ba,accepting.technology,available,12.99,28.49,medium,low,9,namesilo,,,21/09/2026 15:33
 66852ae6-031a-496b-9fe2-d4246f0cd6eb,alleviated.technology,available,3.98,37.98,low,low,10,namecheap,,,
 cec5f099-6800-4547-8c28-e5aa2eb6ae81,hackneyed.technology,available,3.98,37.98,low,low,9,namecheap,,,08/08/2026 10:56
 948c0fc7-1839-4eb2-9c19-8ff9a9aa376e,communal.technology,available,17.99,,medium,low,8,name.com,,,
@@ -999,3 +995,7 @@ d91d3b6e-37d3-479f-a907-b17531ea5ad1,pinch.technology,available,17.99,,high,low,
 2d91f65d-96e6-44df-9abb-80eff7f7747f,alexic.technology,available,3.98,37.98,low,low,6,namecheap,,,
 5d5830bd-4068-42d2-ad95-b94b7392a822,harrowing.technology,available,3.98,37.98,low,low,9,namecheap,,,
 5095cf0d-3e32-47cf-bfe0-54d39ab375a0,unshakable.technology,available,17.99,,high,low,10,name.com,,,
+d3270f8c-a555-4148-a5a7-1c436ed1a15b,hungry.technology,available,17.99,,high,low,6,name.com,,,
+5f290b26-44ff-4e8e-8a70-c06f7e51255b,anumberof.technology,available,17.99,,medium,low,11,name.com,,,
+3eb3b9c2-1c61-4cf5-b5ee-658acfb87501,eddie.technology,available,17.99,,high,low,5,name.com,,,
+e76383f9-a59c-475b-9e1f-abd2708f2781,folicacid.technology,available,17.99,,high,low,10,name.com,,,
