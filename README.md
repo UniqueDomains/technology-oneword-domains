@@ -1,10 +1,10 @@
-# Available .TECHNOLOGY One-Word Domains (20,161)
+# Available .TECHNOLOGY One-Word Domains (20,602)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C161%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-20%2C602%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .technology one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **20,161 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **20,602 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 20,161 domains · **Median ask:** $11.67 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 20,602 domains · **Median ask:** $11.66 · **High-demand under $2,500:** 2
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/technology`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| bph.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo          |
-| acc.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
-| beg.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| hie.technology  | available | $3.98     | $37.98        | medium         | low    | 3      | namecheap         |
-| acm.technology  | resell    | —         | —             | high           | low    | 3      | —                 |
-| cot.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| ina.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo          |
-| nan.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.   |
-| dig.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
-| moo.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap         |
-| case.technology | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
-| esp.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| pee.technology  | available | $3.98     | $37.98        | medium         | low    | 3      | namecheap         |
-| east.technology | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC - 42 |
-| few.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo          |
-| acyl.technology | available | $3.98     | $37.98        | medium         | low    | 4      | namecheap         |
-| help.technology | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC  |
-| gad.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo          |
-| aken.technology | available | $12.99    | $28.49        | medium         | low    | 4      | namesilo          |
-| iris.technology | resell    | —         | —             | high           | medium | 4      | —                 |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| bph.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo         |
+| acc.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| beg.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| hie.technology  | available | $3.98     | $37.98        | medium         | low    | 3      | namecheap        |
+| acm.technology  | resell    | —         | —             | high           | low    | 3      | —                |
+| cot.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| ina.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo         |
+| nan.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| dig.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| moo.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap        |
+| case.technology | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| esp.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| pee.technology  | available | $3.98     | $37.98        | medium         | low    | 3      | namecheap        |
+| help.technology | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| few.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| acyl.technology | available | $3.98     | $37.98        | medium         | low    | 4      | namecheap        |
+| iris.technology | resell    | —         | —             | high           | medium | 4      | —                |
+| gad.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
+| aken.technology | available | $12.99    | $28.49        | medium         | low    | 4      | namesilo         |
+| last.technology | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 20,161 live domains                        |
+| 1,000-row public sample | 20,602 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
