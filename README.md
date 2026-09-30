@@ -1,10 +1,10 @@
-# Available .TECHNOLOGY One-Word Domains (22,232)
+# Available .TECHNOLOGY One-Word Domains (24,105)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C232%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C105%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .technology one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,232 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,105 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,232 domains · **Median ask:** $11.58 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 24,105 domains · **Median ask:** $11.45 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/technology`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| afc.technology  | available | $12       | —             | high           | low    | 3      | unstoppable      |
-| acc.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| beg.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| bph.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo         |
-| acm.technology  | resell    | —         | —             | high           | low    | 3      | —                |
-| cot.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| ina.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo         |
-| nan.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| dig.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
-| lps.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap        |
-| case.technology | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
-| esp.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| moo.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap        |
-| help.technology | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
-| few.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
-| ngc.technology  | available | $22.20    | $22.20        | medium         | low    | 3      | cloudflare       |
-| iris.technology | resell    | —         | —             | high           | medium | 4      | —                |
-| gad.technology  | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
-| pee.technology  | available | $3.98     | $37.98        | medium         | low    | 3      | namecheap        |
-| last.technology | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| afc.technology  | available | $12       | —             | high           | low    | 3      | unstoppable     |
+| acc.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| beg.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| bph.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo        |
+| acm.technology  | resell    | —         | —             | high           | low    | 3      | —               |
+| cot.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| gaa.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo        |
+| nan.technology  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| dig.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| ina.technology  | available | $12.99    | $28.49        | high           | low    | 3      | namesilo        |
+| case.technology | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| esp.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| lps.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap       |
+| fuel.technology | resell    | —         | —             | high           | low    | 4      | —               |
+| few.technology  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| moo.technology  | available | $3.98     | $37.98        | high           | low    | 3      | namecheap       |
+| last.technology | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC    |
+| gad.technology  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
+| ngc.technology  | available | $22.20    | $22.20        | medium         | low    | 3      | cloudflare      |
+| loco.technology | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,232 live domains                        |
+| 1,000-row public sample | 24,105 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2 high-demand names under $2,500           |
+| Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TECHNOLOGY One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
